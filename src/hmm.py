@@ -1,92 +1,70 @@
-import re
+class PDF:
+    def __init__(self, weight, mean, var) -> None:
+        self.weight = weight
+        self.mean = mean
+        self.var = var
 
 
-class PropositionalDensityFunction:
-    def __init__(self):
-        self.weight = 0
-        self.means = []
-        self.vars = []
+class State:
+    def __init__(self, phone="") -> None:
+        self.phone = phone
+        self.word = ""
 
-    def print(self):
-        print('    weight : {}'.format(self.weight))
-        print('    means : {}'.format(self.means))
-        print('    vars : {}'.format(self.vars))
+        self.pdf_list = []
+        self.next = {}
+        self.prev = []
 
-
-class HMMState:
-    def __init__(self, number):
-        self.number = number
-        self.pdfs = []
-
-    def print(self):
-        print('  number : {}'.format(self.number))
-        for pdf in self.pdfs:
-            pdf.print()
+    def __repr__(self) -> str:
+        return "<0x{:x} phone:'{}' word:'{}' next:'{}', prev:'{}'>".format(id(self), self.phone, self.word,
+                                                                           len(self.next), len(self.prev))
 
 
-class HMM:
-    def __init__(self):
-        self.name = ""
-        self.states = []
-        self.tp = []
+def get_state_list_from_hmm(hmm: State) -> [State]:
+    state_list = []
 
-    def print(self):
-        print('name : {}'.format(self.name))
-        for state in self.states:
-            state.print()
-        print('tp : {}'.format(self.tp))
+    queue = [hmm]
+    while len(queue) != 0:
+        now = queue[0]
+        del queue[0]
+
+        if now not in state_list:
+            state_list.append(now)
+            queue.extend(list(now.next.keys()))
+
+    return state_list
 
 
-def load_hmms() -> [HMM]:
-    f = open("../data/hmm.txt", "r")
-    raw = f.read()
-    f.close()
+def clone_hmm(hmm: State) -> State:
+    origin_list: [State] = get_state_list_from_hmm(hmm)
+    output_list: [State] = [State() for _ in range(0, len(origin_list))]
 
-    hmms = []
-    hmm_strs = re.compile("~h[\s\S]*?<ENDHMM>").findall(raw)
+    for i in range(0, len(origin_list)):
+        origin: State = origin_list[i]
+        state: State = output_list[i]
 
-    for hmm_str in hmm_strs:
-        hmm_element_strs = re.compile("<[^<]*").findall(hmm_str)
-        hmm = HMM()
-        hmm.name = re.compile('".+"').search(hmm_str).group(0)[1:-1]
+        state.phone = origin.phone
+        state.word = origin.word
+        state.pdf_list = origin.pdf_list
 
-        now_state = None
-        now_pdf = None
+        for key in list(origin.next.keys()):
+            value: float = origin.next[key]
+            index = origin_list.index(key)
 
-        for hmm_element_str in hmm_element_strs:
-            hmm_element_str = re.sub(r'\s+', ' ', hmm_element_str.strip())
-            element_name = re.compile("<[^>]*>").match(hmm_element_str).group()
-            element_value = hmm_element_str.replace(element_name, "").strip().split(' ')
+            state.next[output_list[index]] = value
 
-            if element_name == "<NUMSTATES>":
-                hmm.states = [HMMState(i) for i in range(0, int(element_value[0]))]
-            elif element_name == "<STATE>":
-                number = int(element_value[0]) - 1
-                now_state = hmm.states[number]
-            elif element_name == "<NUMMIXES>":
-                pass
-            elif element_name == "<MIXTURE>":
-                now_pdf = PropositionalDensityFunction()
-                now_pdf.weight = float(element_value[1])
-                now_state.pdfs.append(now_pdf)
-            elif element_name == "<MEAN>":
-                now_pdf.means = list(map(lambda a: float(a), element_value[1:]))
-            elif element_name == "<VARIANCE>":
-                now_pdf.vars = list(map(lambda a: float(a), element_value[1:]))
-            elif element_name == "<GCONST>":
-                pass
-            elif element_name == "<TRANSP>":
-                state_num = len(hmm.states)
-                for i in range(0, state_num):
-                    start_i = state_num * i + 1
-                    end_i = state_num * (i + 1) + 1
-                    float_list = list(map(lambda x: float(x), element_value[start_i:end_i]))
-                    hmm.tp.append(float_list)
-            elif element_name == "<BEGINHMM>" or element_name == "<ENDHMM>":
-                pass
-            else:
-                print('[WARNING] Unknown element name :', element_name)
+        for p in origin.prev:
+            index = origin_list.index(p)
 
-        hmms.append(hmm)
+            state.prev.append(output_list[index])
 
-    return hmms
+    return output_list[0]
+
+
+def find_end_state(hmm: State):
+    state_list = get_state_list_from_hmm(hmm)
+    end_state = state_list[-1]
+
+    assert len(end_state.next) == 0
+    assert len(end_state.pdf_list) == 0
+
+    return end_state

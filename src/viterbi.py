@@ -1,6 +1,7 @@
 from hmm import State, get_state_list_from_hmm_dfs
 from math import log10, sqrt, pi, pow, e
 import re
+from pprint import pprint
 
 
 def __normal_distribution_log(x, mean, var):
@@ -84,11 +85,15 @@ def viterbi(obs: [[float]], start_state: State):
     phone_list = []
     for phone in opt:
         if len(phone_list) == 0:
-            phone_list.append({'word': phone.word, 'phone': phone.phone})
-        elif phone_list[-1]['word'] != phone.word or phone_list[-1]['phone'] != phone.phone:
-            phone_list.append({'word': phone.word, 'phone': phone.phone})
+            phone_list.append({'word': phone.word, 'phone': phone.phone, 'number': phone.number})
+        elif phone_list[-1]['word'] != phone.word or phone_list[-1]['phone'] != phone.phone or phone_list[-1]['number'] != phone.number:
+            phone_list.append({'word': phone.word, 'phone': phone.phone, 'number': phone.number})
 
-    return phone_list_to_word_list(phone_list)
+    return list(map(lambda x: "{} {} {}".format(x['number'], x['phone'], x['word']), phone_list))
+
+    # pprint(phone_list)
+
+    # return phone_list_to_word_list(phone_list)
 
 
 def print_table(V):

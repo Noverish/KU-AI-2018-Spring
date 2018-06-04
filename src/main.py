@@ -23,7 +23,7 @@ unigram_utterance_hmm_start = construct_utterance_hmm_unigram(word_hmm_list)
 
 # viterbi for all files
 for index, file_path in enumerate(file_path_list):
-    file_name = file_path.replace("../test", "tst")
+    file_name = file_path.replace("../test", "tst").replace("\\", "/")
     output_name = file_name.replace("txt", "lab")
 
     if output.output_exist(output_name):

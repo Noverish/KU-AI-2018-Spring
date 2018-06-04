@@ -57,7 +57,7 @@ def viterbi(obs: [[float]], start_state: State):
                     V[t][st] = {"prob": max_prob, "prev": prev_st}
                     break
 
-        print('t : {}'.format(t))
+        # print('t : {}'.format(t))
 
     # print_table(V)
 

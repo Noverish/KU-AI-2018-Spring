@@ -4,6 +4,7 @@ from utterance_hmm import construct_utterance_hmm_unigram
 from viterbi import viterbi
 from os import listdir
 import re
+import output
 
 phone_hmm_list = load_phone_hmm_list()
 
@@ -28,6 +29,10 @@ for folder_name in folder_list:
             for col in range(0, col_num):
                 matrix[row][col] = float(raw_matrix[row * col_num + col])
 
-        viterbi(matrix, unigram_utterance_hmm_start)
-        break
+        word_list = viterbi(matrix, unigram_utterance_hmm_start)
+
+        file_name2 = file_name.replace("txt", "lab")
+        output.output_to_file("tst/f/{}/{}".format(folder_name, file_name2), word_list[1:])
+
+        print(word_list)
     break

@@ -3,8 +3,8 @@ from math import log10, sqrt, pi, pow, e
 
 
 def __normal_distribution_log(x, mean, var):
-    a = 1 / (var * sqrt(2 * pi))
-    b = -pow(x - mean, 2) / (2 * mean * mean)
+    a = 1 / (sqrt(var) * sqrt(2 * pi))
+    b = -pow(x - mean, 2) / (2 * var)
 
     return log10(a) + b * log10(e)
 
@@ -49,17 +49,6 @@ def viterbi(obs: [[float]], start_state: State):
     for t in range(1, len(obs)):
         V.append({})
         for st in states:
-            # prob_list = {}
-            #
-            # for prev_st in st.prev:
-            #     prob = V[t - 1][prev_st]["prob"] + __trans_log(prev_st, st)
-            #     prob_list[prob] = prev_st
-            #
-            # max_tr_prob = max(list(prob_list.keys()))
-            # prev_st = prob_list[max_tr_prob]
-            # max_prob = max_tr_prob + __emit_log(st, obs[t])
-            # V[t][st] = {"prob": max_prob, "prev": prev_st}
-
             max_tr_prob = max(V[t - 1][prev_st]["prob"] + __trans_log(prev_st, st) for prev_st in states)
             for prev_st in states:
                 if V[t - 1][prev_st]["prob"] + __trans_log(prev_st, st) == max_tr_prob:
@@ -67,7 +56,7 @@ def viterbi(obs: [[float]], start_state: State):
                     V[t][st] = {"prob": max_prob, "prev": prev_st}
                     break
 
-        # print('t : {}'.format(t))
+                    # print('t : {}'.format(t))
 
     # print_table(V)
 
@@ -86,10 +75,19 @@ def viterbi(obs: [[float]], start_state: State):
         opt.insert(0, V[t + 1][previous]["prev"])
         previous = V[t + 1][previous]["prev"]
 
-    opt_str_list = map(lambda x: "<{} {}>".format(x.phone, x.word), opt)
+    opt_str_list = map(lambda x: "<{} {}>".format(x.word, x.phone), opt)
 
-    print('probability : {:.3E}'.format(max_prob))
-    print('sequence : {}'.format(' '.join(opt_str_list)))
+    # print('probability : {:.3E}'.format(max_prob))
+    # print('sequence : \n{}'.format('\n'.join(opt_str_list)))
+
+    word_list = []
+    now_word = ""
+    for phone in opt:
+        if phone.word != now_word and phone.word != "<s>":
+            now_word = phone.word
+            word_list.append(now_word)
+
+    return word_list
 
 
 def print_table(V):

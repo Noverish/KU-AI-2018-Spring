@@ -1,6 +1,5 @@
 from hmm import State, get_state_list_from_hmm_dfs
 from math import log10, sqrt, pi, pow, e
-from pprint import pprint
 import re
 
 
@@ -134,14 +133,11 @@ def phone_list_to_word_list(word_phone_list):
     phone_list_str = phone_list_str.replace("f ay v sp", "five")
     phone_list_str = phone_list_str.replace("f ay v", "five")
 
-    phone_list_str = phone_list_str.replace("f ao r sp", "five")
-    phone_list_str = phone_list_str.replace("f ao r", "five")
+    phone_list_str = phone_list_str.replace("f ao r sp", "four")
+    phone_list_str = phone_list_str.replace("f ao r", "four")
 
     phone_list_str = phone_list_str.replace("n ay n sp", "nine")
     phone_list_str = phone_list_str.replace("n ay n", "nine")
-
-    phone_list_str = phone_list_str.replace("ow sp", "oh")
-    phone_list_str = phone_list_str.replace("ow", "oh")
 
     phone_list_str = phone_list_str.replace("w ah n sp", "one")
     phone_list_str = phone_list_str.replace("w ah n", "one")
@@ -163,6 +159,9 @@ def phone_list_to_word_list(word_phone_list):
 
     phone_list_str = phone_list_str.replace("z iy r ow sh", "zero")
     phone_list_str = phone_list_str.replace("z iy r ow", "zero")
+
+    phone_list_str = phone_list_str.replace("ow sp", "oh")
+    phone_list_str = phone_list_str.replace("ow", "oh")
 
     # print('phone_list_str :', phone_list_str)
 

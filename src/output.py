@@ -10,7 +10,7 @@ def output_to_file(file_path, word_list):
 
     raw += '"{}"\n'.format(file_path)
 
-    raw += "\n".join(word_list) + "\n\n"
+    raw += "\n".join(word_list) + "\n.\n"
 
     f = open("../output.txt", "w")
     f.write(raw)

@@ -6,17 +6,17 @@ class PDF:
 
 
 class State:
-    def __init__(self, phone="") -> None:
-        self.phone = phone
+    def __init__(self, phone="", number=-1) -> None:
         self.word = ""
+        self.phone = phone
+        self.number = number
 
         self.pdf_list = []
         self.next = {}
         self.prev = []
 
     def __repr__(self) -> str:
-        return "<0x{:x} phone:'{}' word:'{}' next:'{}', prev:'{}'>".format(id(self), self.phone, self.word,
-                                                                           len(self.next), len(self.prev))
+        return "<0x{:x} word:'{}' phone:'{}' number:'{}'>".format(id(self), self.word, self.phone, self.number)
 
 
 def get_state_list_from_hmm(hmm: State) -> [State]:
@@ -34,6 +34,19 @@ def get_state_list_from_hmm(hmm: State) -> [State]:
     return state_list
 
 
+def get_state_list_from_hmm_dfs(hmm: State) -> [State]:
+    state_list = []
+
+    stack = [hmm]
+    while len(stack) != 0:
+        v = stack.pop()
+        if v not in state_list:
+            state_list.append(v)
+            stack.extend(reversed(list(v.next.keys())))
+
+    return state_list
+
+
 def clone_hmm(hmm: State) -> State:
     origin_list: [State] = get_state_list_from_hmm(hmm)
     output_list: [State] = [State() for _ in range(0, len(origin_list))]
@@ -42,8 +55,9 @@ def clone_hmm(hmm: State) -> State:
         origin: State = origin_list[i]
         state: State = output_list[i]
 
-        state.phone = origin.phone
         state.word = origin.word
+        state.phone = origin.phone
+        state.number = origin.number
         state.pdf_list = origin.pdf_list
 
         for key in list(origin.next.keys()):

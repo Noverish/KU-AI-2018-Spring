@@ -72,7 +72,7 @@ def __find_state(hmm_raw, number) -> State:
     hmm_state_raw = hmm_raw[index:]
     mixes_num = int(re.compile("<NUMMIXES>[^\n]*").search(hmm_state_raw).group().split(" ")[1])
 
-    state = State()
+    state = State(number=number)
 
     for i in range(0, mixes_num):
         weight_raw = re.compile("<MIXTURE>[^\n]*").findall(hmm_state_raw)[i]

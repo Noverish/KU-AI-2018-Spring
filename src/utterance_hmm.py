@@ -9,7 +9,6 @@ def construct_utterance_hmm_unigram(word_hmm_list: [State]) -> (State, State):
     f.close()
 
     start_state = State(phone='start')
-    end_state = State(phone='end')
 
     # deal with starts
     for line in raw.split('\n'):
@@ -29,7 +28,7 @@ def construct_utterance_hmm_unigram(word_hmm_list: [State]) -> (State, State):
 
             for post_start in post_starts:
                 start_state.next[post_start] = prob * (1 / len(word_hmms)) * start.next[post_start]
-                post_start.prev.append(start_state)
+                # post_start.prev.append(start_state)
 
                 del start.next[post_start]
                 post_start.prev.remove(start)
@@ -47,7 +46,6 @@ def construct_utterance_hmm_unigram(word_hmm_list: [State]) -> (State, State):
 
         for pre_end in pre_ends:
             to_end_prob = pre_end.next[end]
-            end_state.prev.append(pre_end)
 
             for word_start in list(start_state.next.keys()):
                 if word_start in pre_end.next:
@@ -57,8 +55,8 @@ def construct_utterance_hmm_unigram(word_hmm_list: [State]) -> (State, State):
                     word_start.prev.append(pre_end)
 
             del pre_end.next[end]
-            end.prev.remove(pre_end)
 
+        end.prev.clear()
         del end
 
-    return start_state, end_state
+    return start_state

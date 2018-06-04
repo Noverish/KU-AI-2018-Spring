@@ -136,6 +136,10 @@ def phone_list_to_word_list(word_phone_list):
     phone_list_str = phone_list_str.replace("f ao r sp", "four")
     phone_list_str = phone_list_str.replace("f ao r", "four")
 
+    phone_list_str = phone_list_str.replace("n ay n ay n ay n sp", "nine nine nine")
+    phone_list_str = phone_list_str.replace("n ay n ay n ay n", "nine nine nine")
+    phone_list_str = phone_list_str.replace("n ay n ay n sp", "nine nine")
+    phone_list_str = phone_list_str.replace("n ay n ay n", "nine nine")
     phone_list_str = phone_list_str.replace("n ay n sp", "nine")
     phone_list_str = phone_list_str.replace("n ay n", "nine")
 

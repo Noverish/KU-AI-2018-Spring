@@ -16,6 +16,13 @@ folder_list = sorted(listdir("../test/f"))
 for folder_name in folder_list:
     file_list = sorted(listdir("../test/f/{}".format(folder_name)))
     for file_name in file_list:
+        output_name = file_name.replace("txt", "lab")
+        output_path = "tst/f/{}/{}".format(folder_name, output_name)
+
+        if output.output_exist(output_path):
+            print(output_path, 'is already exist')
+            continue
+
         f = open("../test/f/{}/{}".format(folder_name, file_name), "r")
         raw = f.read()
         f.close()
@@ -24,15 +31,12 @@ for folder_name in folder_list:
         col_num = int(raw.split("\n")[0].split(" ")[1])
         matrix = [[0.0 for _ in range(0, col_num)] for _ in range(0, row_num)]
         raw_matrix = re.split(r'\s+', raw)[2:]
-
         for row in range(0, row_num):
             for col in range(0, col_num):
                 matrix[row][col] = float(raw_matrix[row * col_num + col])
 
         word_list = viterbi(matrix, unigram_utterance_hmm_start)
 
-        file_name2 = file_name.replace("txt", "lab")
-        output.output_to_file("tst/f/{}/{}".format(folder_name, file_name2), word_list[1:])
+        output.output_to_file(output_path, word_list[1:])
 
-        print(word_list)
-    break
+        print(output_path, 'done!')

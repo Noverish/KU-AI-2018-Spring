@@ -1,5 +1,7 @@
 from hmm import State, get_state_list_from_hmm_dfs
 from math import log10, sqrt, pi, pow, e
+from pprint import pprint
+import re
 
 
 def __normal_distribution_log(x, mean, var):
@@ -56,7 +58,7 @@ def viterbi(obs: [[float]], start_state: State):
                     V[t][st] = {"prob": max_prob, "prev": prev_st}
                     break
 
-                    # print('t : {}'.format(t))
+        # print('t : {}'.format(t))
 
     # print_table(V)
 
@@ -75,19 +77,19 @@ def viterbi(obs: [[float]], start_state: State):
         opt.insert(0, V[t + 1][previous]["prev"])
         previous = V[t + 1][previous]["prev"]
 
-    opt_str_list = map(lambda x: "<{} {}>".format(x.word, x.phone), opt)
+    # opt_str_list = map(lambda x: "<{} {}>".format(x.word, x.phone), opt)
 
     # print('probability : {:.3E}'.format(max_prob))
     # print('sequence : \n{}'.format('\n'.join(opt_str_list)))
 
-    word_list = []
-    now_word = ""
+    phone_list = []
     for phone in opt:
-        if phone.word != now_word and phone.word != "<s>":
-            now_word = phone.word
-            word_list.append(now_word)
+        if len(phone_list) == 0:
+            phone_list.append({'word': phone.word, 'phone': phone.phone})
+        elif phone_list[-1]['word'] != phone.word or phone_list[-1]['phone'] != phone.phone:
+            phone_list.append({'word': phone.word, 'phone': phone.phone})
 
-    return word_list
+    return phone_list_to_word_list(phone_list)
 
 
 def print_table(V):
@@ -99,3 +101,69 @@ def print_table(V):
         prob_str_list3 = ' '.join(prob_str_list2)
 
         print("{:60}: {}".format(state_str, prob_str_list3))
+
+
+def phone_list_to_word_list(word_phone_list):
+    # print('word_phone_list :', word_phone_list)
+
+    phone_list = list(map(lambda x: x['phone'],  word_phone_list))
+
+    phone_list_str = ' '.join(phone_list)
+
+    # print('phone_list_str :', phone_list_str)
+
+    '''
+    <s>	sil
+    eight	ey t sp
+    five	f ay v sp
+    four	f ao r sp
+    nine	n ay n sp
+    oh	ow sp
+    one	w ah n sp
+    seven	s eh v ah n sp
+    six	s ih k s sp
+    three	th r iy sp
+    two	t uw sp
+    zero	z ih r ow sp
+    zero	z iy r ow sp
+    '''
+
+    phone_list_str = phone_list_str.replace("ey t sp", "eight")
+    phone_list_str = phone_list_str.replace("ey t", "eight")
+
+    phone_list_str = phone_list_str.replace("f ay v sp", "five")
+    phone_list_str = phone_list_str.replace("f ay v", "five")
+
+    phone_list_str = phone_list_str.replace("f ao r sp", "five")
+    phone_list_str = phone_list_str.replace("f ao r", "five")
+
+    phone_list_str = phone_list_str.replace("n ay n sp", "nine")
+    phone_list_str = phone_list_str.replace("n ay n", "nine")
+
+    phone_list_str = phone_list_str.replace("ow sp", "oh")
+    phone_list_str = phone_list_str.replace("ow", "oh")
+
+    phone_list_str = phone_list_str.replace("w ah n sp", "one")
+    phone_list_str = phone_list_str.replace("w ah n", "one")
+
+    phone_list_str = phone_list_str.replace("s eh v ah n sp", "seven")
+    phone_list_str = phone_list_str.replace("s eh v ah n", "seven")
+
+    phone_list_str = phone_list_str.replace("s ih k s sp", "six")
+    phone_list_str = phone_list_str.replace("s ih k s", "six")
+
+    phone_list_str = phone_list_str.replace("th r iy sp", "three")
+    phone_list_str = phone_list_str.replace("th r iy", "three")
+
+    phone_list_str = phone_list_str.replace("t uw sp", "two")
+    phone_list_str = phone_list_str.replace("t uw", "two")
+
+    phone_list_str = phone_list_str.replace("z ih r ow sh", "zero")
+    phone_list_str = phone_list_str.replace("z ih r ow", "zero")
+
+    phone_list_str = phone_list_str.replace("z iy r ow sh", "zero")
+    phone_list_str = phone_list_str.replace("z iy r ow", "zero")
+
+    # print('phone_list_str :', phone_list_str)
+
+    return re.compile('(eight|five|four|nine|oh|one|seven|six|three|two|zero)').findall(phone_list_str)

@@ -57,7 +57,7 @@ def viterbi(obs: [[float]], start_state: State):
                     V[t][st] = {"prob": max_prob, "prev": prev_st}
                     break
 
-        # print('t : {}'.format(t))
+        print('t : {}'.format(t))
 
     # print_table(V)
 
@@ -145,6 +145,10 @@ def phone_list_to_word_list(word_phone_list):
     phone_list_str = phone_list_str.replace("s eh v ah n sp", "seven")
     phone_list_str = phone_list_str.replace("s eh v ah n", "seven")
 
+    phone_list_str = phone_list_str.replace("s ih k s ih k s ih k s sp", "six six six")
+    phone_list_str = phone_list_str.replace("s ih k s ih k s ih k s", "six six six")
+    phone_list_str = phone_list_str.replace("s ih k s ih k s sp", "six six")
+    phone_list_str = phone_list_str.replace("s ih k s ih k s", "six six")
     phone_list_str = phone_list_str.replace("s ih k s sp", "six")
     phone_list_str = phone_list_str.replace("s ih k s", "six")
 

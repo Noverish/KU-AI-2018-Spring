@@ -2,6 +2,7 @@ from phone_hmm import load_phone_hmm_list
 from word_hmm import load_dictionary
 from utterance_hmm import construct_utterance_hmm_unigram
 from viterbi import viterbi
+from time import gmtime, strftime
 import re
 import output
 import os
@@ -27,7 +28,7 @@ for index, file_path in enumerate(file_path_list):
     output_name = file_name.replace("txt", "lab")
 
     if output.output_exist(output_name):
-        print(output_name, 'is already exist', "({}/{})".format(index+1, len(file_path_list)))
+        print(strftime("%Y-%m-%d %H:%M:%S", gmtime()), output_name, 'is already exist', "({}/{})".format(index+1, len(file_path_list)))
         continue
 
     f = open(file_path)
@@ -46,4 +47,4 @@ for index, file_path in enumerate(file_path_list):
 
     output.output_to_file(output_name, word_list[1:])
 
-    print(output_name, 'done!', "({}/{})".format(index+1, len(file_path_list)))
+    print(strftime("%Y-%m-%d %H:%M:%S", gmtime()), output_name, 'done!', "({}/{})".format(index+1, len(file_path_list)))

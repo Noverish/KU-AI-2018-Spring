@@ -1,5 +1,5 @@
 #!MLF!#
-"tst/f/ak/1237743.lab"
+"tst/f/ak/1237743.rec"
 one
 two
 three
@@ -8,7 +8,7 @@ seven
 four
 three
 .
-"tst/f/ak/1393387.lab"
+"tst/f/ak/1393387.rec"
 one
 three
 nine
@@ -17,7 +17,7 @@ three
 eight
 seven
 .
-"tst/f/ak/276317o.lab"
+"tst/f/ak/276317o.rec"
 two
 seven
 six
@@ -26,7 +26,7 @@ one
 seven
 oh
 .
-"tst/f/ak/44z5938.lab"
+"tst/f/ak/44z5938.rec"
 four
 four
 zero
@@ -35,7 +35,7 @@ nine
 three
 eight
 .
-"tst/f/ak/48z66zz.lab"
+"tst/f/ak/48z66zz.rec"
 four
 eight
 zero
@@ -44,7 +44,7 @@ six
 zero
 zero
 .
-"tst/f/ak/6654599.lab"
+"tst/f/ak/6654599.rec"
 six
 six
 five
@@ -53,7 +53,7 @@ five
 nine
 nine
 .
-"tst/f/ak/84z3z51.lab"
+"tst/f/ak/84z3z51.rec"
 eight
 four
 zero
@@ -62,7 +62,7 @@ zero
 five
 one
 .
-"tst/f/ak/86z1162.lab"
+"tst/f/ak/86z1162.rec"
 eight
 six
 zero
@@ -71,7 +71,7 @@ one
 six
 two
 .
-"tst/f/ak/9196951.lab"
+"tst/f/ak/9196951.rec"
 nine
 one
 nine
@@ -80,7 +80,7 @@ nine
 five
 one
 .
-"tst/f/ak/oo21641.lab"
+"tst/f/ak/oo21641.rec"
 oh
 oh
 two
@@ -89,7 +89,7 @@ six
 four
 one
 .
-"tst/f/ak/z176zz2.lab"
+"tst/f/ak/z176zz2.rec"
 zero
 one
 seven
@@ -98,7 +98,7 @@ zero
 zero
 two
 .
-"tst/f/ap/1121851.lab"
+"tst/f/ap/1121851.rec"
 one
 one
 oh
@@ -109,7 +109,7 @@ eight
 five
 one
 .
-"tst/f/ap/39z4582.lab"
+"tst/f/ap/39z4582.rec"
 three
 nine
 zero
@@ -118,7 +118,7 @@ five
 eight
 two
 .
-"tst/f/ap/3z51z81.lab"
+"tst/f/ap/3z51z81.rec"
 three
 zero
 five
@@ -127,7 +127,7 @@ zero
 eight
 one
 .
-"tst/f/ap/4241866.lab"
+"tst/f/ap/4241866.rec"
 four
 two
 four
@@ -136,7 +136,7 @@ eight
 six
 six
 .
-"tst/f/ap/4347649.lab"
+"tst/f/ap/4347649.rec"
 four
 three
 four
@@ -145,7 +145,7 @@ six
 four
 nine
 .
-"tst/f/ap/43o6571.lab"
+"tst/f/ap/43o6571.rec"
 four
 three
 oh
@@ -154,7 +154,7 @@ five
 seven
 one
 .
-"tst/f/ap/4zz4722.lab"
+"tst/f/ap/4zz4722.rec"
 four
 zero
 zero
@@ -163,7 +163,7 @@ seven
 two
 two
 .
-"tst/f/ap/5384z39.lab"
+"tst/f/ap/5384z39.rec"
 five
 three
 eight
@@ -172,7 +172,7 @@ zero
 three
 nine
 .
-"tst/f/ap/7811688.lab"
+"tst/f/ap/7811688.rec"
 seven
 eight
 one
@@ -181,7 +181,7 @@ six
 eight
 eight
 .
-"tst/f/ap/896177z.lab"
+"tst/f/ap/896177z.rec"
 eight
 nine
 six
@@ -190,7 +190,7 @@ seven
 seven
 zero
 .
-"tst/f/ap/z8z35z7.lab"
+"tst/f/ap/z8z35z7.rec"
 zero
 eight
 zero
@@ -199,7 +199,7 @@ five
 zero
 seven
 .
-"tst/f/ba/2122883.lab"
+"tst/f/ba/2122883.rec"
 two
 one
 two
@@ -209,7 +209,7 @@ eight
 eight
 three
 .
-"tst/f/ba/2597298.lab"
+"tst/f/ba/2597298.rec"
 two
 five
 nine
@@ -218,7 +218,7 @@ two
 nine
 eight
 .
-"tst/f/ba/3468927.lab"
+"tst/f/ba/3468927.rec"
 three
 four
 six
@@ -227,7 +227,7 @@ nine
 two
 seven
 .
-"tst/f/ba/47738z1.lab"
+"tst/f/ba/47738z1.rec"
 four
 seven
 seven
@@ -236,7 +236,7 @@ eight
 zero
 one
 .
-"tst/f/ba/5241633.lab"
+"tst/f/ba/5241633.rec"
 five
 two
 four
@@ -245,7 +245,7 @@ six
 three
 three
 .
-"tst/f/ba/61oo133.lab"
+"tst/f/ba/61oo133.rec"
 six
 one
 oh
@@ -254,7 +254,7 @@ one
 three
 three
 .
-"tst/f/ba/6924z63.lab"
+"tst/f/ba/6924z63.rec"
 six
 nine
 two
@@ -263,7 +263,7 @@ zero
 six
 three
 .
-"tst/f/ba/7976o5o.lab"
+"tst/f/ba/7976o5o.rec"
 seven
 nine
 seven
@@ -272,7 +272,7 @@ oh
 five
 oh
 .
-"tst/f/ba/98z7437.lab"
+"tst/f/ba/98z7437.rec"
 nine
 eight
 zero
@@ -281,7 +281,7 @@ four
 three
 seven
 .
-"tst/f/ba/ooo9371.lab"
+"tst/f/ba/ooo9371.rec"
 oh
 oh
 oh
@@ -290,7 +290,7 @@ three
 seven
 one
 .
-"tst/f/ba/z3115z9.lab"
+"tst/f/ba/z3115z9.rec"
 zero
 three
 one
@@ -299,7 +299,7 @@ five
 zero
 nine
 .
-"tst/f/bf/1369o76.lab"
+"tst/f/bf/1369o76.rec"
 one
 three
 six
@@ -308,7 +308,7 @@ oh
 seven
 six
 .
-"tst/f/bf/193o254.lab"
+"tst/f/bf/193o254.rec"
 one
 nine
 three
@@ -317,7 +317,7 @@ two
 five
 four
 .
-"tst/f/bf/5923464.lab"
+"tst/f/bf/5923464.rec"
 five
 nine
 two
@@ -326,7 +326,7 @@ four
 six
 four
 .
-"tst/f/bf/72o464o.lab"
+"tst/f/bf/72o464o.rec"
 seven
 two
 oh
@@ -335,7 +335,7 @@ six
 four
 oh
 .
-"tst/f/bf/7o17o49.lab"
+"tst/f/bf/7o17o49.rec"
 seven
 oh
 one
@@ -344,7 +344,7 @@ oh
 four
 nine
 .
-"tst/f/bf/826z358.lab"
+"tst/f/bf/826z358.rec"
 eight
 two
 six
@@ -353,7 +353,7 @@ three
 five
 eight
 .
-"tst/f/bf/8415281.lab"
+"tst/f/bf/8415281.rec"
 eight
 four
 one
@@ -362,7 +362,7 @@ two
 eight
 one
 .
-"tst/f/bf/9479165.lab"
+"tst/f/bf/9479165.rec"
 nine
 four
 seven
@@ -372,7 +372,7 @@ six
 five
 oh
 .
-"tst/f/bf/o937762.lab"
+"tst/f/bf/o937762.rec"
 oh
 nine
 three
@@ -381,7 +381,7 @@ seven
 six
 two
 .
-"tst/f/bf/z224869.lab"
+"tst/f/bf/z224869.rec"
 zero
 two
 two
@@ -390,7 +390,7 @@ eight
 six
 nine
 .
-"tst/f/bf/z451z95.lab"
+"tst/f/bf/z451z95.rec"
 zero
 four
 five
@@ -399,7 +399,7 @@ zero
 nine
 five
 .
-"tst/f/bj/15o3456.lab"
+"tst/f/bj/15o3456.rec"
 one
 five
 oh
@@ -408,7 +408,7 @@ four
 five
 six
 .
-"tst/f/bj/376oo28.lab"
+"tst/f/bj/376oo28.rec"
 three
 seven
 six
@@ -417,7 +417,7 @@ oh
 two
 eight
 .
-"tst/f/bj/378o726.lab"
+"tst/f/bj/378o726.rec"
 three
 seven
 eight
@@ -426,7 +426,7 @@ seven
 two
 six
 .
-"tst/f/bj/4z7162z.lab"
+"tst/f/bj/4z7162z.rec"
 four
 zero
 seven
@@ -435,7 +435,7 @@ six
 two
 zero
 .
-"tst/f/bj/7768736.lab"
+"tst/f/bj/7768736.rec"
 seven
 seven
 six
@@ -444,7 +444,7 @@ seven
 three
 six
 .
-"tst/f/bj/7z46989.lab"
+"tst/f/bj/7z46989.rec"
 seven
 zero
 four
@@ -453,7 +453,7 @@ nine
 eight
 nine
 .
-"tst/f/bj/84991z2.lab"
+"tst/f/bj/84991z2.rec"
 eight
 four
 nine
@@ -462,7 +462,7 @@ one
 zero
 two
 .
-"tst/f/bj/87o1215.lab"
+"tst/f/bj/87o1215.rec"
 eight
 seven
 oh
@@ -471,7 +471,7 @@ two
 one
 five
 .
-"tst/f/bj/o833132.lab"
+"tst/f/bj/o833132.rec"
 oh
 eight
 three
@@ -480,7 +480,7 @@ one
 three
 two
 .
-"tst/f/bj/z343112.lab"
+"tst/f/bj/z343112.rec"
 zero
 three
 four
@@ -489,7 +489,7 @@ one
 one
 two
 .
-"tst/f/bj/z443659.lab"
+"tst/f/bj/z443659.rec"
 zero
 four
 four
@@ -498,7 +498,7 @@ six
 five
 nine
 .
-"tst/f/bl/148z483.lab"
+"tst/f/bl/148z483.rec"
 one
 four
 eight
@@ -507,7 +507,7 @@ four
 eight
 three
 .
-"tst/f/bl/2747537.lab"
+"tst/f/bl/2747537.rec"
 two
 seven
 four
@@ -516,7 +516,7 @@ five
 three
 seven
 .
-"tst/f/bl/293zz12.lab"
+"tst/f/bl/293zz12.rec"
 two
 nine
 three
@@ -525,7 +525,7 @@ zero
 one
 two
 .
-"tst/f/bl/36z325z.lab"
+"tst/f/bl/36z325z.rec"
 three
 six
 zero
@@ -534,7 +534,7 @@ two
 five
 zero
 .
-"tst/f/bl/567872z.lab"
+"tst/f/bl/567872z.rec"
 five
 six
 seven
@@ -543,7 +543,7 @@ seven
 two
 zero
 .
-"tst/f/bl/672o642.lab"
+"tst/f/bl/672o642.rec"
 six
 seven
 two
@@ -552,7 +552,7 @@ six
 four
 two
 .
-"tst/f/bl/6z86z92.lab"
+"tst/f/bl/6z86z92.rec"
 six
 zero
 eight
@@ -561,7 +561,7 @@ zero
 nine
 two
 .
-"tst/f/bl/8o88377.lab"
+"tst/f/bl/8o88377.rec"
 eight
 oh
 eight
@@ -570,7 +570,7 @@ three
 seven
 seven
 .
-"tst/f/bl/93587z5.lab"
+"tst/f/bl/93587z5.rec"
 nine
 three
 five
@@ -579,7 +579,7 @@ seven
 zero
 five
 .
-"tst/f/bl/o2861o5.lab"
+"tst/f/bl/o2861o5.rec"
 oh
 two
 eight
@@ -588,7 +588,7 @@ one
 oh
 five
 .
-"tst/f/bl/z716163.lab"
+"tst/f/bl/z716163.rec"
 zero
 seven
 one
@@ -597,7 +597,7 @@ one
 six
 three
 .
-"tst/f/bs/181292z.lab"
+"tst/f/bs/181292z.rec"
 one
 eight
 one
@@ -606,7 +606,7 @@ nine
 two
 zero
 .
-"tst/f/bs/19275o2.lab"
+"tst/f/bs/19275o2.rec"
 one
 nine
 two
@@ -616,7 +616,7 @@ oh
 two
 oh
 .
-"tst/f/bs/223z773.lab"
+"tst/f/bs/223z773.rec"
 two
 two
 three
@@ -625,7 +625,7 @@ seven
 seven
 three
 .
-"tst/f/bs/555z971.lab"
+"tst/f/bs/555z971.rec"
 five
 five
 five
@@ -634,7 +634,7 @@ nine
 seven
 one
 .
-"tst/f/bs/61675z8.lab"
+"tst/f/bs/61675z8.rec"
 six
 one
 six
@@ -643,7 +643,7 @@ five
 zero
 eight
 .
-"tst/f/bs/72561o8.lab"
+"tst/f/bs/72561o8.rec"
 seven
 two
 five
@@ -652,7 +652,7 @@ one
 oh
 eight
 .
-"tst/f/bs/736o439.lab"
+"tst/f/bs/736o439.rec"
 seven
 three
 six
@@ -661,7 +661,7 @@ four
 three
 nine
 .
-"tst/f/bs/854216o.lab"
+"tst/f/bs/854216o.rec"
 eight
 five
 four
@@ -670,7 +670,7 @@ one
 six
 oh
 .
-"tst/f/bs/9464zz4.lab"
+"tst/f/bs/9464zz4.rec"
 nine
 four
 six
@@ -680,7 +680,7 @@ zero
 four
 oh
 .
-"tst/f/bs/9o45358.lab"
+"tst/f/bs/9o45358.rec"
 nine
 oh
 four
@@ -689,7 +689,7 @@ three
 five
 eight
 .
-"tst/f/bs/o933694.lab"
+"tst/f/bs/o933694.rec"
 oh
 nine
 three
@@ -698,7 +698,7 @@ six
 nine
 four
 .
-"tst/f/bw/1119673.lab"
+"tst/f/bw/1119673.rec"
 one
 one
 one
@@ -707,7 +707,7 @@ six
 seven
 three
 .
-"tst/f/bw/1528833.lab"
+"tst/f/bw/1528833.rec"
 one
 five
 two
@@ -716,7 +716,7 @@ eight
 three
 three
 .
-"tst/f/bw/163o993.lab"
+"tst/f/bw/163o993.rec"
 one
 six
 three
@@ -725,7 +725,7 @@ nine
 nine
 three
 .
-"tst/f/bw/5639826.lab"
+"tst/f/bw/5639826.rec"
 five
 six
 three
@@ -734,7 +734,7 @@ eight
 two
 six
 .
-"tst/f/bw/58942o7.lab"
+"tst/f/bw/58942o7.rec"
 five
 eight
 nine
@@ -743,7 +743,7 @@ two
 oh
 seven
 .
-"tst/f/bw/659954o.lab"
+"tst/f/bw/659954o.rec"
 six
 five
 nine
@@ -752,7 +752,7 @@ five
 four
 oh
 .
-"tst/f/bw/812o859.lab"
+"tst/f/bw/812o859.rec"
 eight
 one
 two
@@ -762,7 +762,7 @@ eight
 five
 nine
 .
-"tst/f/bw/935o324.lab"
+"tst/f/bw/935o324.rec"
 nine
 three
 five
@@ -771,7 +771,7 @@ three
 two
 four
 .
-"tst/f/bw/9z72386.lab"
+"tst/f/bw/9z72386.rec"
 nine
 zero
 seven
@@ -780,7 +780,7 @@ three
 eight
 six
 .
-"tst/f/bw/o85o348.lab"
+"tst/f/bw/o85o348.rec"
 oh
 eight
 five
@@ -789,7 +789,7 @@ three
 four
 eight
 .
-"tst/f/bw/zz1zz8z.lab"
+"tst/f/bw/zz1zz8z.rec"
 zero
 zero
 one
@@ -798,7 +798,7 @@ zero
 eight
 zero
 .
-"tst/f/cd/1153564.lab"
+"tst/f/cd/1153564.rec"
 one
 one
 five
@@ -808,7 +808,7 @@ six
 four
 oh
 .
-"tst/f/cd/1o43748.lab"
+"tst/f/cd/1o43748.rec"
 one
 oh
 four
@@ -817,7 +817,7 @@ seven
 four
 eight
 .
-"tst/f/cd/4454684.lab"
+"tst/f/cd/4454684.rec"
 four
 four
 five
@@ -827,7 +827,7 @@ eight
 four
 oh
 .
-"tst/f/cd/5587oo8.lab"
+"tst/f/cd/5587oo8.rec"
 five
 five
 eight
@@ -836,7 +836,7 @@ oh
 oh
 eight
 .
-"tst/f/cd/5z383z5.lab"
+"tst/f/cd/5z383z5.rec"
 five
 zero
 three
@@ -845,7 +845,7 @@ three
 zero
 five
 .
-"tst/f/cd/6z895z6.lab"
+"tst/f/cd/6z895z6.rec"
 six
 zero
 eight
@@ -854,7 +854,7 @@ five
 zero
 six
 .
-"tst/f/cd/7176171.lab"
+"tst/f/cd/7176171.rec"
 seven
 one
 seven
@@ -863,7 +863,7 @@ one
 seven
 one
 .
-"tst/f/cd/81o513o.lab"
+"tst/f/cd/81o513o.rec"
 eight
 one
 oh
@@ -872,7 +872,7 @@ one
 three
 oh
 .
-"tst/f/cd/85o3872.lab"
+"tst/f/cd/85o3872.rec"
 eight
 five
 oh
@@ -881,7 +881,7 @@ eight
 seven
 two
 .
-"tst/f/cd/97z4299.lab"
+"tst/f/cd/97z4299.rec"
 nine
 seven
 zero
@@ -890,7 +890,7 @@ two
 nine
 nine
 .
-"tst/f/cd/z31z912.lab"
+"tst/f/cd/z31z912.rec"
 zero
 three
 one
@@ -899,7 +899,7 @@ nine
 one
 two
 .
-"tst/f/cj/1396z33.lab"
+"tst/f/cj/1396z33.rec"
 one
 three
 nine
@@ -908,7 +908,7 @@ zero
 three
 three
 .
-"tst/f/cj/2346zz2.lab"
+"tst/f/cj/2346zz2.rec"
 two
 three
 four
@@ -917,7 +917,7 @@ zero
 zero
 two
 .
-"tst/f/cj/4584433.lab"
+"tst/f/cj/4584433.rec"
 four
 five
 eight
@@ -926,7 +926,7 @@ four
 three
 three
 .
-"tst/f/cj/5735379.lab"
+"tst/f/cj/5735379.rec"
 five
 seven
 three
@@ -935,7 +935,7 @@ three
 seven
 nine
 .
-"tst/f/cj/65977o7.lab"
+"tst/f/cj/65977o7.rec"
 six
 five
 nine
@@ -944,7 +944,7 @@ seven
 oh
 seven
 .
-"tst/f/cj/75o5566.lab"
+"tst/f/cj/75o5566.rec"
 seven
 five
 oh
@@ -954,7 +954,7 @@ six
 six
 oh
 .
-"tst/f/cj/787o8o1.lab"
+"tst/f/cj/787o8o1.rec"
 seven
 eight
 seven
@@ -963,7 +963,7 @@ eight
 oh
 one
 .
-"tst/f/cj/8641zz8.lab"
+"tst/f/cj/8641zz8.rec"
 eight
 six
 four
@@ -972,7 +972,7 @@ zero
 zero
 eight
 .
-"tst/f/cj/z157652.lab"
+"tst/f/cj/z157652.rec"
 zero
 one
 five
@@ -981,7 +981,7 @@ six
 five
 two
 .
-"tst/f/cj/z2319z9.lab"
+"tst/f/cj/z2319z9.rec"
 zero
 two
 three
@@ -990,7 +990,7 @@ nine
 zero
 nine
 .
-"tst/f/cj/z626z45.lab"
+"tst/f/cj/z626z45.rec"
 zero
 six
 two
@@ -999,7 +999,7 @@ zero
 four
 five
 .
-"tst/f/cs/1242747.lab"
+"tst/f/cs/1242747.rec"
 one
 two
 four
@@ -1008,7 +1008,7 @@ seven
 four
 seven
 .
-"tst/f/cs/13o289o.lab"
+"tst/f/cs/13o289o.rec"
 one
 three
 oh
@@ -1017,7 +1017,7 @@ eight
 nine
 oh
 .
-"tst/f/cs/1o3o569.lab"
+"tst/f/cs/1o3o569.rec"
 one
 oh
 three
@@ -1026,7 +1026,7 @@ five
 six
 nine
 .
-"tst/f/cs/34o7o83.lab"
+"tst/f/cs/34o7o83.rec"
 three
 four
 oh
@@ -1035,7 +1035,7 @@ oh
 eight
 three
 .
-"tst/f/cs/6z2z733.lab"
+"tst/f/cs/6z2z733.rec"
 six
 zero
 two
@@ -1044,7 +1044,7 @@ seven
 three
 three
 .
-"tst/f/cs/8424z41.lab"
+"tst/f/cs/8424z41.rec"
 eight
 four
 two
@@ -1053,7 +1053,7 @@ zero
 four
 one
 .
-"tst/f/cs/85o1646.lab"
+"tst/f/cs/85o1646.rec"
 eight
 five
 oh
@@ -1062,7 +1062,7 @@ six
 four
 six
 .
-"tst/f/cs/9o55631.lab"
+"tst/f/cs/9o55631.rec"
 nine
 oh
 five
@@ -1071,7 +1071,7 @@ six
 three
 one
 .
-"tst/f/cs/o395o7o.lab"
+"tst/f/cs/o395o7o.rec"
 oh
 three
 nine
@@ -1080,7 +1080,7 @@ oh
 seven
 oh
 .
-"tst/f/cs/z1z58z1.lab"
+"tst/f/cs/z1z58z1.rec"
 zero
 one
 zero
@@ -1089,7 +1089,7 @@ eight
 zero
 one
 .
-"tst/f/cs/zz96772.lab"
+"tst/f/cs/zz96772.rec"
 zero
 zero
 nine
@@ -1098,7 +1098,7 @@ seven
 seven
 two
 .
-"tst/f/ct/125z18z.lab"
+"tst/f/ct/125z18z.rec"
 one
 two
 five
@@ -1107,7 +1107,7 @@ one
 eight
 zero
 .
-"tst/f/ct/14513z4.lab"
+"tst/f/ct/14513z4.rec"
 one
 four
 five
@@ -1116,7 +1116,7 @@ three
 zero
 four
 .
-"tst/f/ct/231z21z.lab"
+"tst/f/ct/231z21z.rec"
 two
 eight
 three
@@ -1126,7 +1126,7 @@ two
 one
 zero
 .
-"tst/f/ct/2878z24.lab"
+"tst/f/ct/2878z24.rec"
 two
 eight
 seven
@@ -1135,7 +1135,7 @@ zero
 two
 four
 .
-"tst/f/ct/534996o.lab"
+"tst/f/ct/534996o.rec"
 five
 three
 four
@@ -1144,7 +1144,7 @@ nine
 six
 oh
 .
-"tst/f/ct/5oo9o49.lab"
+"tst/f/ct/5oo9o49.rec"
 five
 oh
 oh
@@ -1153,7 +1153,7 @@ oh
 four
 nine
 .
-"tst/f/ct/6316884.lab"
+"tst/f/ct/6316884.rec"
 six
 three
 one
@@ -1162,7 +1162,7 @@ eight
 eight
 four
 .
-"tst/f/ct/7936596.lab"
+"tst/f/ct/7936596.rec"
 seven
 nine
 three
@@ -1171,7 +1171,7 @@ five
 nine
 six
 .
-"tst/f/ct/8375o33.lab"
+"tst/f/ct/8375o33.rec"
 eight
 three
 seven
@@ -1180,7 +1180,7 @@ oh
 three
 three
 .
-"tst/f/ct/o794644.lab"
+"tst/f/ct/o794644.rec"
 oh
 seven
 nine
@@ -1189,7 +1189,7 @@ six
 four
 four
 .
-"tst/f/ct/ooo9989.lab"
+"tst/f/ct/ooo9989.rec"
 oh
 oh
 oh
@@ -1198,7 +1198,7 @@ nine
 eight
 nine
 .
-"tst/f/dp/2694197.lab"
+"tst/f/dp/2694197.rec"
 two
 six
 nine
@@ -1207,7 +1207,7 @@ one
 nine
 seven
 .
-"tst/f/dp/3885695.lab"
+"tst/f/dp/3885695.rec"
 three
 eight
 eight
@@ -1216,7 +1216,7 @@ six
 nine
 five
 .
-"tst/f/dp/4964oo8.lab"
+"tst/f/dp/4964oo8.rec"
 four
 nine
 six
@@ -1225,7 +1225,7 @@ oh
 oh
 eight
 .
-"tst/f/dp/5oo31o6.lab"
+"tst/f/dp/5oo31o6.rec"
 five
 oh
 oh
@@ -1234,7 +1234,7 @@ one
 oh
 six
 .
-"tst/f/dp/68z366z.lab"
+"tst/f/dp/68z366z.rec"
 six
 eight
 zero
@@ -1243,7 +1243,7 @@ six
 six
 zero
 .
-"tst/f/dp/7641o89.lab"
+"tst/f/dp/7641o89.rec"
 seven
 six
 four
@@ -1252,7 +1252,7 @@ oh
 eight
 nine
 .
-"tst/f/dp/9618237.lab"
+"tst/f/dp/9618237.rec"
 nine
 six
 one
@@ -1261,7 +1261,7 @@ two
 three
 seven
 .
-"tst/f/dp/o1957oo.lab"
+"tst/f/dp/o1957oo.rec"
 oh
 one
 nine
@@ -1270,7 +1270,7 @@ seven
 oh
 oh
 .
-"tst/f/dp/o357451.lab"
+"tst/f/dp/o357451.rec"
 oh
 three
 five
@@ -1279,7 +1279,7 @@ four
 five
 one
 .
-"tst/f/dp/z442z94.lab"
+"tst/f/dp/z442z94.rec"
 zero
 four
 four
@@ -1288,7 +1288,7 @@ zero
 nine
 four
 .
-"tst/f/dp/z839293.lab"
+"tst/f/dp/z839293.rec"
 zero
 eight
 three
@@ -1298,7 +1298,7 @@ nine
 three
 oh
 .
-"tst/f/dr/1866533.lab"
+"tst/f/dr/1866533.rec"
 one
 eight
 six
@@ -1307,7 +1307,7 @@ five
 three
 three
 .
-"tst/f/dr/1z5624z.lab"
+"tst/f/dr/1z5624z.rec"
 one
 zero
 five
@@ -1316,7 +1316,7 @@ two
 four
 zero
 .
-"tst/f/dr/1zzz564.lab"
+"tst/f/dr/1zzz564.rec"
 one
 zero
 zero
@@ -1325,7 +1325,7 @@ five
 six
 four
 .
-"tst/f/dr/2922o7o.lab"
+"tst/f/dr/2922o7o.rec"
 two
 nine
 two
@@ -1334,7 +1334,7 @@ oh
 seven
 oh
 .
-"tst/f/dr/4366439.lab"
+"tst/f/dr/4366439.rec"
 four
 three
 six
@@ -1343,7 +1343,7 @@ four
 three
 nine
 .
-"tst/f/dr/483z993.lab"
+"tst/f/dr/483z993.rec"
 four
 eight
 three
@@ -1353,7 +1353,7 @@ nine
 three
 oh
 .
-"tst/f/dr/547593z.lab"
+"tst/f/dr/547593z.rec"
 five
 four
 seven
@@ -1363,7 +1363,7 @@ three
 zero
 oh
 .
-"tst/f/dr/7951919.lab"
+"tst/f/dr/7951919.rec"
 seven
 nine
 five
@@ -1372,7 +1372,7 @@ nine
 one
 nine
 .
-"tst/f/dr/8985125.lab"
+"tst/f/dr/8985125.rec"
 eight
 nine
 eight
@@ -1381,7 +1381,7 @@ one
 two
 five
 .
-"tst/f/dr/9226z13.lab"
+"tst/f/dr/9226z13.rec"
 nine
 two
 two
@@ -1390,7 +1390,7 @@ zero
 one
 three
 .
-"tst/f/dr/z716911.lab"
+"tst/f/dr/z716911.rec"
 zero
 seven
 one
@@ -1399,7 +1399,7 @@ nine
 one
 one
 .
-"tst/f/dw/1o5oo45.lab"
+"tst/f/dw/1o5oo45.rec"
 one
 oh
 five
@@ -1408,7 +1408,7 @@ oh
 four
 five
 .
-"tst/f/dw/4281638.lab"
+"tst/f/dw/4281638.rec"
 four
 two
 eight
@@ -1417,7 +1417,7 @@ six
 three
 eight
 .
-"tst/f/dw/4496z47.lab"
+"tst/f/dw/4496z47.rec"
 four
 four
 nine
@@ -1426,7 +1426,7 @@ zero
 four
 seven
 .
-"tst/f/dw/51z179z.lab"
+"tst/f/dw/51z179z.rec"
 five
 one
 zero
@@ -1435,7 +1435,7 @@ seven
 nine
 zero
 .
-"tst/f/dw/5274155.lab"
+"tst/f/dw/5274155.rec"
 five
 two
 seven
@@ -1445,7 +1445,7 @@ one
 five
 five
 .
-"tst/f/dw/8839731.lab"
+"tst/f/dw/8839731.rec"
 eight
 eight
 three
@@ -1454,7 +1454,7 @@ seven
 three
 one
 .
-"tst/f/dw/953698o.lab"
+"tst/f/dw/953698o.rec"
 nine
 five
 three
@@ -1465,7 +1465,7 @@ eight
 oh
 oh
 .
-"tst/f/dw/o712122.lab"
+"tst/f/dw/o712122.rec"
 oh
 seven
 one
@@ -1474,7 +1474,7 @@ one
 two
 two
 .
-"tst/f/dw/z376z4z.lab"
+"tst/f/dw/z376z4z.rec"
 zero
 three
 seven
@@ -1483,7 +1483,7 @@ zero
 four
 zero
 .
-"tst/f/dw/z587z1z.lab"
+"tst/f/dw/z587z1z.rec"
 zero
 oh
 five
@@ -1493,7 +1493,7 @@ zero
 one
 zero
 .
-"tst/f/dw/zz8z57z.lab"
+"tst/f/dw/zz8z57z.rec"
 zero
 zero
 eight
@@ -1502,7 +1502,7 @@ five
 seven
 zero
 .
-"tst/f/ej/1167489.lab"
+"tst/f/ej/1167489.rec"
 one
 one
 six
@@ -1511,7 +1511,7 @@ four
 eight
 nine
 .
-"tst/f/ej/38z77z7.lab"
+"tst/f/ej/38z77z7.rec"
 three
 eight
 zero
@@ -1520,7 +1520,7 @@ seven
 zero
 seven
 .
-"tst/f/ej/3oo128o.lab"
+"tst/f/ej/3oo128o.rec"
 three
 oh
 oh
@@ -1530,7 +1530,7 @@ oh
 eight
 oh
 .
-"tst/f/ej/479oo9o.lab"
+"tst/f/ej/479oo9o.rec"
 four
 seven
 nine
@@ -1539,7 +1539,7 @@ oh
 nine
 oh
 .
-"tst/f/ej/5158454.lab"
+"tst/f/ej/5158454.rec"
 five
 one
 five
@@ -1548,7 +1548,7 @@ four
 five
 four
 .
-"tst/f/ej/61o6o59.lab"
+"tst/f/ej/61o6o59.rec"
 six
 one
 oh
@@ -1557,7 +1557,7 @@ oh
 five
 nine
 .
-"tst/f/ej/62o69o3.lab"
+"tst/f/ej/62o69o3.rec"
 six
 two
 oh
@@ -1567,7 +1567,7 @@ nine
 oh
 three
 .
-"tst/f/ej/63z994z.lab"
+"tst/f/ej/63z994z.rec"
 six
 three
 zero
@@ -1576,7 +1576,7 @@ nine
 four
 zero
 .
-"tst/f/ej/7687569.lab"
+"tst/f/ej/7687569.rec"
 seven
 six
 eight
@@ -1585,7 +1585,7 @@ five
 six
 nine
 .
-"tst/f/ej/o77o394.lab"
+"tst/f/ej/o77o394.rec"
 oh
 seven
 seven
@@ -1594,7 +1594,7 @@ three
 nine
 four
 .
-"tst/f/ej/z8z27z5.lab"
+"tst/f/ej/z8z27z5.rec"
 zero
 eight
 zero
@@ -1603,7 +1603,7 @@ seven
 zero
 five
 .
-"tst/f/em/2773161.lab"
+"tst/f/em/2773161.rec"
 two
 seven
 seven
@@ -1612,7 +1612,7 @@ one
 six
 one
 .
-"tst/f/em/3296o68.lab"
+"tst/f/em/3296o68.rec"
 three
 two
 oh
@@ -1622,7 +1622,7 @@ oh
 six
 eight
 .
-"tst/f/em/4813oo2.lab"
+"tst/f/em/4813oo2.rec"
 four
 eight
 one
@@ -1631,7 +1631,7 @@ oh
 oh
 two
 .
-"tst/f/em/5171426.lab"
+"tst/f/em/5171426.rec"
 five
 one
 seven
@@ -1640,7 +1640,7 @@ four
 two
 six
 .
-"tst/f/em/64z1587.lab"
+"tst/f/em/64z1587.rec"
 six
 four
 zero
@@ -1649,7 +1649,7 @@ five
 eight
 seven
 .
-"tst/f/em/8724637.lab"
+"tst/f/em/8724637.rec"
 eight
 seven
 two
@@ -1659,7 +1659,7 @@ six
 three
 seven
 .
-"tst/f/em/9283528.lab"
+"tst/f/em/9283528.rec"
 nine
 two
 oh
@@ -1669,7 +1669,7 @@ five
 two
 eight
 .
-"tst/f/em/94712o9.lab"
+"tst/f/em/94712o9.rec"
 nine
 four
 seven
@@ -1679,7 +1679,7 @@ oh
 oh
 nine
 .
-"tst/f/em/95677o1.lab"
+"tst/f/em/95677o1.rec"
 nine
 five
 six
@@ -1688,7 +1688,7 @@ seven
 oh
 one
 .
-"tst/f/em/o174458.lab"
+"tst/f/em/o174458.rec"
 oh
 one
 seven
@@ -1697,7 +1697,7 @@ four
 five
 eight
 .
-"tst/f/em/oo6oo97.lab"
+"tst/f/em/oo6oo97.rec"
 oh
 oh
 six
@@ -1707,7 +1707,7 @@ nine
 seven
 oh
 .
-"tst/f/ep/16173oo.lab"
+"tst/f/ep/16173oo.rec"
 one
 six
 one
@@ -1716,7 +1716,7 @@ three
 oh
 oh
 .
-"tst/f/ep/18z8232.lab"
+"tst/f/ep/18z8232.rec"
 one
 eight
 zero
@@ -1725,7 +1725,7 @@ two
 three
 two
 .
-"tst/f/ep/2477956.lab"
+"tst/f/ep/2477956.rec"
 two
 four
 seven
@@ -1734,7 +1734,7 @@ nine
 five
 six
 .
-"tst/f/ep/3167oo5.lab"
+"tst/f/ep/3167oo5.rec"
 three
 one
 six
@@ -1743,7 +1743,7 @@ oh
 oh
 five
 .
-"tst/f/ep/4264z19.lab"
+"tst/f/ep/4264z19.rec"
 four
 two
 six
@@ -1752,7 +1752,7 @@ zero
 one
 nine
 .
-"tst/f/ep/4o6o965.lab"
+"tst/f/ep/4o6o965.rec"
 four
 oh
 six
@@ -1761,7 +1761,7 @@ nine
 six
 five
 .
-"tst/f/ep/6312oo9.lab"
+"tst/f/ep/6312oo9.rec"
 six
 three
 one
@@ -1771,7 +1771,7 @@ oh
 oh
 nine
 .
-"tst/f/ep/6598171.lab"
+"tst/f/ep/6598171.rec"
 six
 five
 nine
@@ -1780,7 +1780,7 @@ one
 seven
 one
 .
-"tst/f/ep/727o797.lab"
+"tst/f/ep/727o797.rec"
 seven
 two
 seven
@@ -1789,7 +1789,7 @@ seven
 nine
 seven
 .
-"tst/f/ep/7447523.lab"
+"tst/f/ep/7447523.rec"
 seven
 four
 four
@@ -1798,7 +1798,7 @@ five
 two
 three
 .
-"tst/f/ep/8992836.lab"
+"tst/f/ep/8992836.rec"
 eight
 nine
 nine
@@ -1807,7 +1807,7 @@ eight
 three
 six
 .
-"tst/f/er/1881394.lab"
+"tst/f/er/1881394.rec"
 one
 eight
 eight
@@ -1816,7 +1816,7 @@ three
 nine
 four
 .
-"tst/f/er/2zz8938.lab"
+"tst/f/er/2zz8938.rec"
 zero
 zero
 eight
@@ -1824,7 +1824,7 @@ nine
 three
 eight
 .
-"tst/f/er/3262958.lab"
+"tst/f/er/3262958.rec"
 three
 two
 six
@@ -1833,7 +1833,7 @@ nine
 five
 eight
 .
-"tst/f/er/4436726.lab"
+"tst/f/er/4436726.rec"
 four
 four
 three
@@ -1842,7 +1842,7 @@ seven
 two
 six
 .
-"tst/f/er/63z4z11.lab"
+"tst/f/er/63z4z11.rec"
 six
 three
 zero
@@ -1851,7 +1851,7 @@ zero
 one
 one
 .
-"tst/f/er/6861o22.lab"
+"tst/f/er/6861o22.rec"
 six
 eight
 six
@@ -1860,7 +1860,7 @@ oh
 two
 two
 .
-"tst/f/er/73z23z1.lab"
+"tst/f/er/73z23z1.rec"
 seven
 three
 zero
@@ -1869,7 +1869,7 @@ three
 zero
 one
 .
-"tst/f/er/85376z6.lab"
+"tst/f/er/85376z6.rec"
 eight
 five
 three
@@ -1878,7 +1878,7 @@ six
 zero
 six
 .
-"tst/f/er/o543o5o.lab"
+"tst/f/er/o543o5o.rec"
 oh
 five
 four
@@ -1887,7 +1887,7 @@ oh
 five
 oh
 .
-"tst/f/er/o9o8464.lab"
+"tst/f/er/o9o8464.rec"
 oh
 nine
 oh
@@ -1896,7 +1896,7 @@ four
 six
 four
 .
-"tst/f/er/z927z52.lab"
+"tst/f/er/z927z52.rec"
 zero
 nine
 two
@@ -1905,7 +1905,7 @@ zero
 five
 two
 .
-"tst/f/ew/1zzz162.lab"
+"tst/f/ew/1zzz162.rec"
 one
 zero
 zero
@@ -1914,7 +1914,7 @@ one
 six
 two
 .
-"tst/f/ew/22z6932.lab"
+"tst/f/ew/22z6932.rec"
 two
 two
 zero
@@ -1924,7 +1924,7 @@ three
 two
 oh
 .
-"tst/f/ew/41oo631.lab"
+"tst/f/ew/41oo631.rec"
 four
 oh
 one
@@ -1934,7 +1934,7 @@ six
 three
 one
 .
-"tst/f/ew/59z5735.lab"
+"tst/f/ew/59z5735.rec"
 five
 nine
 zero
@@ -1943,7 +1943,7 @@ seven
 three
 five
 .
-"tst/f/ew/6769465.lab"
+"tst/f/ew/6769465.rec"
 six
 seven
 six
@@ -1953,7 +1953,7 @@ six
 five
 oh
 .
-"tst/f/ew/71876oo.lab"
+"tst/f/ew/71876oo.rec"
 seven
 one
 eight
@@ -1962,7 +1962,7 @@ six
 oh
 oh
 .
-"tst/f/ew/7432366.lab"
+"tst/f/ew/7432366.rec"
 seven
 four
 three
@@ -1971,7 +1971,7 @@ three
 six
 six
 .
-"tst/f/ew/78z6z9z.lab"
+"tst/f/ew/78z6z9z.rec"
 seven
 eight
 zero
@@ -1980,7 +1980,7 @@ zero
 nine
 zero
 .
-"tst/f/ew/8992897.lab"
+"tst/f/ew/8992897.rec"
 eight
 nine
 nine
@@ -1989,7 +1989,7 @@ eight
 nine
 seven
 .
-"tst/f/ew/o8668o2.lab"
+"tst/f/ew/o8668o2.rec"
 oh
 eight
 six
@@ -1998,7 +1998,7 @@ eight
 oh
 two
 .
-"tst/f/ew/z9512z8.lab"
+"tst/f/ew/z9512z8.rec"
 zero
 nine
 five
@@ -2007,7 +2007,7 @@ two
 zero
 eight
 .
-"tst/f/fn/1zz1423.lab"
+"tst/f/fn/1zz1423.rec"
 one
 zero
 zero
@@ -2016,7 +2016,7 @@ four
 two
 three
 .
-"tst/f/fn/275z327.lab"
+"tst/f/fn/275z327.rec"
 two
 seven
 five
@@ -2025,7 +2025,7 @@ three
 two
 seven
 .
-"tst/f/fn/2848337.lab"
+"tst/f/fn/2848337.rec"
 two
 oh
 eight
@@ -2035,7 +2035,7 @@ three
 three
 seven
 .
-"tst/f/fn/3921115.lab"
+"tst/f/fn/3921115.rec"
 three
 nine
 two
@@ -2045,7 +2045,7 @@ one
 five
 oh
 .
-"tst/f/fn/488o7o1.lab"
+"tst/f/fn/488o7o1.rec"
 four
 eight
 eight
@@ -2054,7 +2054,7 @@ seven
 oh
 one
 .
-"tst/f/fn/4z25996.lab"
+"tst/f/fn/4z25996.rec"
 four
 zero
 two
@@ -2063,7 +2063,7 @@ nine
 nine
 six
 .
-"tst/f/fn/51z61z1.lab"
+"tst/f/fn/51z61z1.rec"
 five
 one
 zero
@@ -2072,7 +2072,7 @@ one
 zero
 one
 .
-"tst/f/fn/5o5o856.lab"
+"tst/f/fn/5o5o856.rec"
 five
 oh
 five
@@ -2081,7 +2081,7 @@ eight
 five
 six
 .
-"tst/f/fn/o3o9586.lab"
+"tst/f/fn/o3o9586.rec"
 oh
 three
 oh
@@ -2090,7 +2090,7 @@ five
 eight
 six
 .
-"tst/f/fn/z762z3z.lab"
+"tst/f/fn/z762z3z.rec"
 zero
 seven
 six
@@ -2099,7 +2099,7 @@ zero
 three
 zero
 .
-"tst/f/fn/z949744.lab"
+"tst/f/fn/z949744.rec"
 zero
 one
 nine
@@ -2110,7 +2110,7 @@ four
 four
 oh
 .
-"tst/f/gb/193626z.lab"
+"tst/f/gb/193626z.rec"
 one
 nine
 three
@@ -2119,7 +2119,7 @@ two
 six
 zero
 .
-"tst/f/gb/32o77o4.lab"
+"tst/f/gb/32o77o4.rec"
 three
 two
 oh
@@ -2128,7 +2128,7 @@ seven
 oh
 four
 .
-"tst/f/gb/4355389.lab"
+"tst/f/gb/4355389.rec"
 four
 three
 five
@@ -2138,7 +2138,7 @@ eight
 nine
 oh
 .
-"tst/f/gb/683o387.lab"
+"tst/f/gb/683o387.rec"
 six
 eight
 three
@@ -2147,7 +2147,7 @@ three
 eight
 seven
 .
-"tst/f/gb/8o2289o.lab"
+"tst/f/gb/8o2289o.rec"
 eight
 oh
 two
@@ -2156,7 +2156,7 @@ eight
 nine
 oh
 .
-"tst/f/gb/8z86712.lab"
+"tst/f/gb/8z86712.rec"
 eight
 zero
 eight
@@ -2166,7 +2166,7 @@ one
 two
 oh
 .
-"tst/f/gb/9164o97.lab"
+"tst/f/gb/9164o97.rec"
 nine
 one
 six
@@ -2175,7 +2175,7 @@ oh
 nine
 seven
 .
-"tst/f/gb/9661579.lab"
+"tst/f/gb/9661579.rec"
 nine
 six
 six
@@ -2184,7 +2184,7 @@ five
 seven
 nine
 .
-"tst/f/gb/9976659.lab"
+"tst/f/gb/9976659.rec"
 nine
 nine
 seven
@@ -2193,7 +2193,7 @@ six
 five
 nine
 .
-"tst/f/gb/o3o6513.lab"
+"tst/f/gb/o3o6513.rec"
 oh
 three
 oh
@@ -2202,7 +2202,7 @@ five
 one
 three
 .
-"tst/f/gb/z3z568z.lab"
+"tst/f/gb/z3z568z.rec"
 zero
 three
 zero
@@ -2211,7 +2211,7 @@ six
 eight
 zero
 .
-"tst/f/gc/1973877.lab"
+"tst/f/gc/1973877.rec"
 one
 nine
 seven
@@ -2220,7 +2220,7 @@ eight
 seven
 seven
 .
-"tst/f/gc/1o84o3o.lab"
+"tst/f/gc/1o84o3o.rec"
 one
 oh
 eight
@@ -2229,7 +2229,7 @@ oh
 three
 oh
 .
-"tst/f/gc/2312591.lab"
+"tst/f/gc/2312591.rec"
 two
 three
 one
@@ -2238,7 +2238,7 @@ five
 nine
 one
 .
-"tst/f/gc/3835o6o.lab"
+"tst/f/gc/3835o6o.rec"
 three
 eight
 three
@@ -2247,7 +2247,7 @@ oh
 six
 oh
 .
-"tst/f/gc/3oo8228.lab"
+"tst/f/gc/3oo8228.rec"
 three
 oh
 oh
@@ -2256,7 +2256,7 @@ two
 two
 eight
 .
-"tst/f/gc/41z4995.lab"
+"tst/f/gc/41z4995.rec"
 four
 oh
 one
@@ -2267,7 +2267,7 @@ nine
 five
 oh
 .
-"tst/f/gc/45z1453.lab"
+"tst/f/gc/45z1453.rec"
 four
 five
 zero
@@ -2276,7 +2276,7 @@ four
 five
 three
 .
-"tst/f/gc/562z164.lab"
+"tst/f/gc/562z164.rec"
 five
 six
 two
@@ -2285,7 +2285,7 @@ one
 six
 four
 .
-"tst/f/gc/6z34665.lab"
+"tst/f/gc/6z34665.rec"
 six
 zero
 three
@@ -2294,7 +2294,7 @@ six
 six
 five
 .
-"tst/f/gc/7184818.lab"
+"tst/f/gc/7184818.rec"
 seven
 one
 eight
@@ -2303,7 +2303,7 @@ eight
 one
 eight
 .
-"tst/f/gc/z6z72z9.lab"
+"tst/f/gc/z6z72z9.rec"
 zero
 six
 zero
@@ -2312,7 +2312,7 @@ two
 zero
 nine
 .
-"tst/f/gk/27z2369.lab"
+"tst/f/gk/27z2369.rec"
 two
 seven
 zero
@@ -2321,7 +2321,7 @@ three
 six
 nine
 .
-"tst/f/gk/2z35569.lab"
+"tst/f/gk/2z35569.rec"
 zero
 three
 five
@@ -2329,7 +2329,7 @@ five
 six
 nine
 .
-"tst/f/gk/4682653.lab"
+"tst/f/gk/4682653.rec"
 four
 six
 eight
@@ -2338,7 +2338,7 @@ six
 five
 three
 .
-"tst/f/gk/4833zz1.lab"
+"tst/f/gk/4833zz1.rec"
 four
 eight
 three
@@ -2348,7 +2348,7 @@ zero
 zero
 one
 .
-"tst/f/gk/5398715.lab"
+"tst/f/gk/5398715.rec"
 five
 three
 nine
@@ -2357,7 +2357,7 @@ seven
 one
 five
 .
-"tst/f/gk/5zz6863.lab"
+"tst/f/gk/5zz6863.rec"
 five
 zero
 zero
@@ -2366,7 +2366,7 @@ eight
 six
 three
 .
-"tst/f/gk/6z17852.lab"
+"tst/f/gk/6z17852.rec"
 six
 zero
 one
@@ -2375,7 +2375,7 @@ eight
 five
 two
 .
-"tst/f/gk/7723439.lab"
+"tst/f/gk/7723439.rec"
 seven
 seven
 two
@@ -2384,7 +2384,7 @@ four
 three
 nine
 .
-"tst/f/gk/841875o.lab"
+"tst/f/gk/841875o.rec"
 eight
 four
 one
@@ -2393,7 +2393,7 @@ seven
 five
 oh
 .
-"tst/f/gk/8427861.lab"
+"tst/f/gk/8427861.rec"
 eight
 four
 two
@@ -2402,7 +2402,7 @@ eight
 six
 one
 .
-"tst/f/gk/929o585.lab"
+"tst/f/gk/929o585.rec"
 nine
 two
 nine
@@ -2411,7 +2411,7 @@ five
 eight
 five
 .
-"tst/f/gl/2514oo6.lab"
+"tst/f/gl/2514oo6.rec"
 two
 five
 one
@@ -2420,7 +2420,7 @@ oh
 oh
 six
 .
-"tst/f/gl/2z961zz.lab"
+"tst/f/gl/2z961zz.rec"
 two
 zero
 nine
@@ -2429,7 +2429,7 @@ one
 zero
 zero
 .
-"tst/f/gl/3244536.lab"
+"tst/f/gl/3244536.rec"
 three
 two
 four
@@ -2438,7 +2438,7 @@ five
 three
 six
 .
-"tst/f/gl/38116o1.lab"
+"tst/f/gl/38116o1.rec"
 three
 eight
 one
@@ -2447,7 +2447,7 @@ six
 two
 one
 .
-"tst/f/gl/46285z2.lab"
+"tst/f/gl/46285z2.rec"
 four
 six
 two
@@ -2456,7 +2456,7 @@ five
 zero
 two
 .
-"tst/f/gl/5489z39.lab"
+"tst/f/gl/5489z39.rec"
 five
 four
 eight
@@ -2465,7 +2465,7 @@ zero
 three
 nine
 .
-"tst/f/gl/63571z4.lab"
+"tst/f/gl/63571z4.rec"
 six
 three
 five
@@ -2474,7 +2474,7 @@ one
 zero
 four
 .
-"tst/f/gl/6o871o6.lab"
+"tst/f/gl/6o871o6.rec"
 six
 oh
 eight
@@ -2483,7 +2483,7 @@ one
 oh
 six
 .
-"tst/f/gl/7oo5849.lab"
+"tst/f/gl/7oo5849.rec"
 seven
 oh
 oh
@@ -2492,7 +2492,7 @@ eight
 four
 nine
 .
-"tst/f/gl/7z7z765.lab"
+"tst/f/gl/7z7z765.rec"
 seven
 zero
 seven
@@ -2502,7 +2502,7 @@ six
 five
 oh
 .
-"tst/f/gl/9z5z291.lab"
+"tst/f/gl/9z5z291.rec"
 nine
 zero
 five
@@ -2511,7 +2511,7 @@ two
 nine
 one
 .
-"tst/f/gm/19431z6.lab"
+"tst/f/gm/19431z6.rec"
 one
 nine
 four
@@ -2520,7 +2520,7 @@ one
 zero
 six
 .
-"tst/f/gm/2981127.lab"
+"tst/f/gm/2981127.rec"
 two
 nine
 eight
@@ -2529,7 +2529,7 @@ one
 two
 seven
 .
-"tst/f/gm/378z743.lab"
+"tst/f/gm/378z743.rec"
 three
 seven
 eight
@@ -2538,7 +2538,7 @@ seven
 four
 three
 .
-"tst/f/gm/52344o3.lab"
+"tst/f/gm/52344o3.rec"
 five
 two
 three
@@ -2548,7 +2548,7 @@ oh
 oh
 three
 .
-"tst/f/gm/55z3854.lab"
+"tst/f/gm/55z3854.rec"
 five
 five
 zero
@@ -2557,7 +2557,7 @@ eight
 five
 four
 .
-"tst/f/gm/6z5778z.lab"
+"tst/f/gm/6z5778z.rec"
 six
 zero
 five
@@ -2566,7 +2566,7 @@ seven
 eight
 zero
 .
-"tst/f/gm/717oo49.lab"
+"tst/f/gm/717oo49.rec"
 seven
 one
 seven
@@ -2575,7 +2575,7 @@ oh
 four
 nine
 .
-"tst/f/gm/o841o57.lab"
+"tst/f/gm/o841o57.rec"
 oh
 eight
 four
@@ -2585,7 +2585,7 @@ oh
 five
 seven
 .
-"tst/f/gm/o9356oo.lab"
+"tst/f/gm/o9356oo.rec"
 oh
 nine
 three
@@ -2594,7 +2594,7 @@ six
 oh
 oh
 .
-"tst/f/gm/z488z25.lab"
+"tst/f/gm/z488z25.rec"
 nine
 zero
 four
@@ -2604,7 +2604,7 @@ zero
 two
 five
 .
-"tst/f/gm/z641488.lab"
+"tst/f/gm/z641488.rec"
 zero
 six
 five
@@ -2613,7 +2613,7 @@ four
 eight
 eight
 .
-"tst/f/gn/1741o21.lab"
+"tst/f/gn/1741o21.rec"
 one
 seven
 four
@@ -2623,7 +2623,7 @@ two
 one
 oh
 .
-"tst/f/gn/1z29799.lab"
+"tst/f/gn/1z29799.rec"
 one
 zero
 two
@@ -2632,7 +2632,7 @@ seven
 nine
 nine
 .
-"tst/f/gn/2432784.lab"
+"tst/f/gn/2432784.rec"
 two
 four
 three
@@ -2641,7 +2641,7 @@ seven
 eight
 four
 .
-"tst/f/gn/2o8oo38.lab"
+"tst/f/gn/2o8oo38.rec"
 two
 oh
 eight
@@ -2649,7 +2649,7 @@ oh
 three
 eight
 .
-"tst/f/gn/3128744.lab"
+"tst/f/gn/3128744.rec"
 three
 one
 two
@@ -2659,7 +2659,7 @@ seven
 four
 four
 .
-"tst/f/gn/34o4573.lab"
+"tst/f/gn/34o4573.rec"
 three
 four
 oh
@@ -2668,7 +2668,7 @@ five
 seven
 three
 .
-"tst/f/gn/4756479.lab"
+"tst/f/gn/4756479.rec"
 four
 seven
 five
@@ -2677,7 +2677,7 @@ four
 seven
 nine
 .
-"tst/f/gn/539o5o6.lab"
+"tst/f/gn/539o5o6.rec"
 five
 three
 nine
@@ -2686,7 +2686,7 @@ five
 oh
 six
 .
-"tst/f/gn/6393z64.lab"
+"tst/f/gn/6393z64.rec"
 six
 three
 nine
@@ -2695,7 +2695,7 @@ zero
 six
 four
 .
-"tst/f/gn/82oo63o.lab"
+"tst/f/gn/82oo63o.rec"
 eight
 oh
 oh
@@ -2703,7 +2703,7 @@ six
 three
 oh
 .
-"tst/f/gn/9298932.lab"
+"tst/f/gn/9298932.rec"
 nine
 two
 nine
@@ -2712,7 +2712,7 @@ nine
 three
 two
 .
-"tst/f/hf/1956687.lab"
+"tst/f/hf/1956687.rec"
 one
 nine
 five
@@ -2722,7 +2722,7 @@ six
 eight
 seven
 .
-"tst/f/hf/38o55o3.lab"
+"tst/f/hf/38o55o3.rec"
 three
 eight
 oh
@@ -2732,7 +2732,7 @@ oh
 three
 oh
 .
-"tst/f/hf/3o23127.lab"
+"tst/f/hf/3o23127.rec"
 three
 oh
 two
@@ -2741,7 +2741,7 @@ one
 two
 seven
 .
-"tst/f/hf/4153586.lab"
+"tst/f/hf/4153586.rec"
 four
 one
 five
@@ -2753,7 +2753,7 @@ eight
 six
 oh
 .
-"tst/f/hf/4z72374.lab"
+"tst/f/hf/4z72374.rec"
 four
 zero
 seven
@@ -2762,7 +2762,7 @@ three
 seven
 four
 .
-"tst/f/hf/74796z5.lab"
+"tst/f/hf/74796z5.rec"
 seven
 four
 seven
@@ -2772,7 +2772,7 @@ zero
 five
 eight
 .
-"tst/f/hf/824o178.lab"
+"tst/f/hf/824o178.rec"
 eight
 two
 four
@@ -2781,7 +2781,7 @@ one
 seven
 eight
 .
-"tst/f/hf/883181z.lab"
+"tst/f/hf/883181z.rec"
 eight
 eight
 three
@@ -2790,7 +2790,7 @@ eight
 one
 zero
 .
-"tst/f/hf/9759z2z.lab"
+"tst/f/hf/9759z2z.rec"
 nine
 seven
 five
@@ -2799,7 +2799,7 @@ zero
 two
 zero
 .
-"tst/f/hf/98zz867.lab"
+"tst/f/hf/98zz867.rec"
 nine
 eight
 zero
@@ -2808,7 +2808,7 @@ eight
 six
 seven
 .
-"tst/f/hf/zzz9z52.lab"
+"tst/f/hf/zzz9z52.rec"
 zero
 zero
 zero
@@ -2817,7 +2817,7 @@ zero
 five
 two
 .
-"tst/f/id/1553536.lab"
+"tst/f/id/1553536.rec"
 one
 five
 five
@@ -2826,7 +2826,7 @@ five
 three
 six
 .
-"tst/f/id/1843o75.lab"
+"tst/f/id/1843o75.rec"
 one
 eight
 four
@@ -2835,7 +2835,7 @@ oh
 seven
 five
 .
-"tst/f/id/23611z4.lab"
+"tst/f/id/23611z4.rec"
 two
 three
 six
@@ -2844,7 +2844,7 @@ one
 zero
 four
 .
-"tst/f/id/2812z71.lab"
+"tst/f/id/2812z71.rec"
 two
 eight
 one
@@ -2854,7 +2854,7 @@ seven
 one
 oh
 .
-"tst/f/id/2zzz229.lab"
+"tst/f/id/2zzz229.rec"
 two
 zero
 zero
@@ -2863,7 +2863,7 @@ two
 two
 nine
 .
-"tst/f/id/382oo44.lab"
+"tst/f/id/382oo44.rec"
 three
 eight
 two
@@ -2872,7 +2872,7 @@ oh
 four
 four
 .
-"tst/f/id/4165832.lab"
+"tst/f/id/4165832.rec"
 four
 one
 six
@@ -2881,7 +2881,7 @@ eight
 three
 two
 .
-"tst/f/id/4o2469o.lab"
+"tst/f/id/4o2469o.rec"
 four
 oh
 two
@@ -2891,7 +2891,7 @@ nine
 oh
 oh
 .
-"tst/f/id/52o94oo.lab"
+"tst/f/id/52o94oo.rec"
 five
 two
 oh
@@ -2900,7 +2900,7 @@ four
 oh
 oh
 .
-"tst/f/id/5z96z8z.lab"
+"tst/f/id/5z96z8z.rec"
 five
 zero
 nine
@@ -2909,7 +2909,7 @@ zero
 eight
 zero
 .
-"tst/f/id/934z394.lab"
+"tst/f/id/934z394.rec"
 nine
 three
 four
@@ -2919,7 +2919,7 @@ three
 nine
 four
 .
-"tst/f/ii/1179644.lab"
+"tst/f/ii/1179644.rec"
 one
 one
 seven
@@ -2928,7 +2928,7 @@ six
 four
 four
 .
-"tst/f/ii/13123o1.lab"
+"tst/f/ii/13123o1.rec"
 one
 three
 one
@@ -2937,7 +2937,7 @@ three
 oh
 one
 .
-"tst/f/ii/2z38232.lab"
+"tst/f/ii/2z38232.rec"
 two
 zero
 three
@@ -2947,7 +2947,7 @@ two
 three
 two
 .
-"tst/f/ii/3z86146.lab"
+"tst/f/ii/3z86146.rec"
 three
 zero
 eight
@@ -2956,7 +2956,7 @@ one
 four
 six
 .
-"tst/f/ii/53583o8.lab"
+"tst/f/ii/53583o8.rec"
 five
 three
 five
@@ -2966,7 +2966,7 @@ oh
 eight
 oh
 .
-"tst/f/ii/5629969.lab"
+"tst/f/ii/5629969.rec"
 five
 six
 two
@@ -2975,7 +2975,7 @@ nine
 six
 nine
 .
-"tst/f/ii/637zzzz.lab"
+"tst/f/ii/637zzzz.rec"
 six
 three
 seven
@@ -2984,7 +2984,7 @@ zero
 zero
 zero
 .
-"tst/f/ii/6591z76.lab"
+"tst/f/ii/6591z76.rec"
 six
 five
 nine
@@ -2993,7 +2993,7 @@ zero
 seven
 six
 .
-"tst/f/ii/691667o.lab"
+"tst/f/ii/691667o.rec"
 six
 nine
 one
@@ -3002,7 +3002,7 @@ six
 seven
 oh
 .
-"tst/f/ii/85311oo.lab"
+"tst/f/ii/85311oo.rec"
 eight
 five
 three
@@ -3011,7 +3011,7 @@ one
 oh
 oh
 .
-"tst/f/ii/oo578o4.lab"
+"tst/f/ii/oo578o4.rec"
 oh
 oh
 five
@@ -3020,7 +3020,7 @@ eight
 oh
 four
 .
-"tst/f/iw/17zz2zz.lab"
+"tst/f/iw/17zz2zz.rec"
 one
 seven
 zero
@@ -3029,7 +3029,7 @@ two
 zero
 zero
 .
-"tst/f/iw/2o3o543.lab"
+"tst/f/iw/2o3o543.rec"
 two
 oh
 three
@@ -3038,7 +3038,7 @@ five
 four
 three
 .
-"tst/f/iw/75313o2.lab"
+"tst/f/iw/75313o2.rec"
 seven
 five
 three
@@ -3047,7 +3047,7 @@ three
 oh
 two
 .
-"tst/f/iw/771z84z.lab"
+"tst/f/iw/771z84z.rec"
 seven
 seven
 one
@@ -3056,7 +3056,7 @@ eight
 four
 zero
 .
-"tst/f/iw/7o44662.lab"
+"tst/f/iw/7o44662.rec"
 seven
 oh
 four
@@ -3065,7 +3065,7 @@ six
 six
 two
 .
-"tst/f/iw/8356o47.lab"
+"tst/f/iw/8356o47.rec"
 eight
 two
 five
@@ -3074,7 +3074,7 @@ oh
 four
 seven
 .
-"tst/f/iw/8866863.lab"
+"tst/f/iw/8866863.rec"
 eight
 eight
 six
@@ -3083,7 +3083,7 @@ eight
 six
 three
 .
-"tst/f/iw/96557o9.lab"
+"tst/f/iw/96557o9.rec"
 nine
 six
 five
@@ -3092,7 +3092,7 @@ seven
 oh
 nine
 .
-"tst/f/iw/o193281.lab"
+"tst/f/iw/o193281.rec"
 oh
 one
 nine
@@ -3101,7 +3101,7 @@ two
 eight
 one
 .
-"tst/f/iw/z4z5127.lab"
+"tst/f/iw/z4z5127.rec"
 zero
 four
 zero
@@ -3110,7 +3110,7 @@ one
 two
 seven
 .
-"tst/f/iw/zz33299.lab"
+"tst/f/iw/zz33299.rec"
 zero
 zero
 three
@@ -3120,7 +3120,7 @@ nine
 nine
 oh
 .
-"tst/f/jd/16z4645.lab"
+"tst/f/jd/16z4645.rec"
 one
 six
 zero
@@ -3129,7 +3129,7 @@ six
 four
 five
 .
-"tst/f/jd/2615132.lab"
+"tst/f/jd/2615132.rec"
 two
 six
 one
@@ -3139,7 +3139,7 @@ three
 two
 oh
 .
-"tst/f/jd/2737232.lab"
+"tst/f/jd/2737232.rec"
 two
 seven
 three
@@ -3148,7 +3148,7 @@ two
 three
 two
 .
-"tst/f/jd/3534876.lab"
+"tst/f/jd/3534876.rec"
 three
 five
 three
@@ -3157,7 +3157,7 @@ eight
 seven
 six
 .
-"tst/f/jd/3782194.lab"
+"tst/f/jd/3782194.rec"
 three
 seven
 eight
@@ -3166,7 +3166,7 @@ one
 nine
 four
 .
-"tst/f/jd/68122z7.lab"
+"tst/f/jd/68122z7.rec"
 six
 eight
 one
@@ -3175,7 +3175,7 @@ two
 zero
 seven
 .
-"tst/f/jd/6818471.lab"
+"tst/f/jd/6818471.rec"
 six
 eight
 one
@@ -3184,7 +3184,7 @@ four
 seven
 one
 .
-"tst/f/jd/73z9311.lab"
+"tst/f/jd/73z9311.rec"
 seven
 three
 zero
@@ -3193,7 +3193,7 @@ three
 one
 one
 .
-"tst/f/jd/8624842.lab"
+"tst/f/jd/8624842.rec"
 eight
 six
 two
@@ -3202,7 +3202,7 @@ eight
 four
 two
 .
-"tst/f/jd/8o83o61.lab"
+"tst/f/jd/8o83o61.rec"
 eight
 oh
 eight
@@ -3211,7 +3211,7 @@ oh
 six
 one
 .
-"tst/f/jd/o7547o4.lab"
+"tst/f/jd/o7547o4.rec"
 oh
 seven
 five
@@ -3220,7 +3220,7 @@ seven
 oh
 four
 .
-"tst/f/je/12zz662.lab"
+"tst/f/je/12zz662.rec"
 one
 two
 zero
@@ -3229,7 +3229,7 @@ six
 six
 two
 .
-"tst/f/je/223o914.lab"
+"tst/f/je/223o914.rec"
 two
 two
 three
@@ -3238,7 +3238,7 @@ nine
 one
 four
 .
-"tst/f/je/2928244.lab"
+"tst/f/je/2928244.rec"
 two
 nine
 two
@@ -3247,7 +3247,7 @@ two
 four
 four
 .
-"tst/f/je/5253165.lab"
+"tst/f/je/5253165.rec"
 five
 two
 five
@@ -3256,7 +3256,7 @@ one
 six
 five
 .
-"tst/f/je/5316241.lab"
+"tst/f/je/5316241.rec"
 five
 three
 one
@@ -3265,7 +3265,7 @@ two
 four
 one
 .
-"tst/f/je/55z2zz8.lab"
+"tst/f/je/55z2zz8.rec"
 five
 five
 zero
@@ -3274,7 +3274,7 @@ zero
 zero
 eight
 .
-"tst/f/je/9284o68.lab"
+"tst/f/je/9284o68.rec"
 nine
 two
 eight
@@ -3283,7 +3283,7 @@ oh
 six
 eight
 .
-"tst/f/je/9z94zz3.lab"
+"tst/f/je/9z94zz3.rec"
 nine
 zero
 nine
@@ -3292,7 +3292,7 @@ zero
 zero
 three
 .
-"tst/f/je/o21958o.lab"
+"tst/f/je/o21958o.rec"
 oh
 two
 one
@@ -3301,7 +3301,7 @@ five
 eight
 oh
 .
-"tst/f/je/o357839.lab"
+"tst/f/je/o357839.rec"
 oh
 three
 five
@@ -3310,7 +3310,7 @@ eight
 three
 nine
 .
-"tst/f/je/o946754.lab"
+"tst/f/je/o946754.rec"
 oh
 nine
 four
@@ -3319,7 +3319,7 @@ seven
 five
 four
 .
-"tst/f/jw/2278o91.lab"
+"tst/f/jw/2278o91.rec"
 two
 two
 seven
@@ -3328,7 +3328,7 @@ oh
 nine
 one
 .
-"tst/f/jw/3167oo1.lab"
+"tst/f/jw/3167oo1.rec"
 three
 one
 six
@@ -3337,7 +3337,7 @@ oh
 oh
 one
 .
-"tst/f/jw/3376z7z.lab"
+"tst/f/jw/3376z7z.rec"
 three
 three
 seven
@@ -3346,7 +3346,7 @@ zero
 seven
 zero
 .
-"tst/f/jw/36243z7.lab"
+"tst/f/jw/36243z7.rec"
 three
 six
 two
@@ -3355,7 +3355,7 @@ three
 zero
 seven
 .
-"tst/f/jw/4936381.lab"
+"tst/f/jw/4936381.rec"
 four
 nine
 three
@@ -3365,7 +3365,7 @@ three
 eight
 one
 .
-"tst/f/jw/6527zz8.lab"
+"tst/f/jw/6527zz8.rec"
 six
 five
 two
@@ -3375,7 +3375,7 @@ zero
 eight
 oh
 .
-"tst/f/jw/8z6z444.lab"
+"tst/f/jw/8z6z444.rec"
 eight
 zero
 six
@@ -3384,7 +3384,7 @@ four
 four
 four
 .
-"tst/f/jw/984z13z.lab"
+"tst/f/jw/984z13z.rec"
 nine
 eight
 four
@@ -3393,7 +3393,7 @@ one
 three
 zero
 .
-"tst/f/jw/oo71231.lab"
+"tst/f/jw/oo71231.rec"
 oh
 oh
 seven
@@ -3402,7 +3402,7 @@ two
 three
 one
 .
-"tst/f/jw/z2z1774.lab"
+"tst/f/jw/z2z1774.rec"
 zero
 two
 zero
@@ -3411,7 +3411,7 @@ seven
 seven
 four
 .
-"tst/f/jw/z96z4zz.lab"
+"tst/f/jw/z96z4zz.rec"
 zero
 nine
 six
@@ -3420,7 +3420,7 @@ four
 zero
 zero
 .
-"tst/f/kb/137781z.lab"
+"tst/f/kb/137781z.rec"
 one
 three
 seven
@@ -3429,7 +3429,7 @@ eight
 one
 zero
 .
-"tst/f/kb/25734z8.lab"
+"tst/f/kb/25734z8.rec"
 two
 five
 seven
@@ -3439,7 +3439,7 @@ eight
 zero
 eight
 .
-"tst/f/kb/2643463.lab"
+"tst/f/kb/2643463.rec"
 two
 six
 four
@@ -3450,7 +3450,7 @@ six
 three
 oh
 .
-"tst/f/kb/313535z.lab"
+"tst/f/kb/313535z.rec"
 three
 one
 three
@@ -3459,7 +3459,7 @@ three
 five
 zero
 .
-"tst/f/kb/33816z7.lab"
+"tst/f/kb/33816z7.rec"
 three
 three
 eight
@@ -3468,7 +3468,7 @@ six
 zero
 seven
 .
-"tst/f/kb/4324842.lab"
+"tst/f/kb/4324842.rec"
 four
 three
 two
@@ -3477,7 +3477,7 @@ eight
 four
 two
 .
-"tst/f/kb/4z22445.lab"
+"tst/f/kb/4z22445.rec"
 four
 zero
 two
@@ -3486,7 +3486,7 @@ four
 four
 five
 .
-"tst/f/kb/53968z4.lab"
+"tst/f/kb/53968z4.rec"
 five
 three
 nine
@@ -3495,7 +3495,7 @@ eight
 zero
 four
 .
-"tst/f/kb/65577o6.lab"
+"tst/f/kb/65577o6.rec"
 six
 five
 five
@@ -3504,7 +3504,7 @@ seven
 oh
 six
 .
-"tst/f/kb/889o976.lab"
+"tst/f/kb/889o976.rec"
 eight
 eight
 nine
@@ -3513,7 +3513,7 @@ nine
 seven
 six
 .
-"tst/f/kb/o871479.lab"
+"tst/f/kb/o871479.rec"
 oh
 eight
 seven
@@ -3522,7 +3522,7 @@ four
 seven
 nine
 .
-"tst/f/kj/11zz439.lab"
+"tst/f/kj/11zz439.rec"
 one
 one
 zero
@@ -3531,7 +3531,7 @@ four
 three
 nine
 .
-"tst/f/kj/22o6556.lab"
+"tst/f/kj/22o6556.rec"
 two
 two
 oh
@@ -3540,7 +3540,7 @@ five
 five
 six
 .
-"tst/f/kj/2z69477.lab"
+"tst/f/kj/2z69477.rec"
 two
 zero
 six
@@ -3549,7 +3549,7 @@ four
 seven
 seven
 .
-"tst/f/kj/344275z.lab"
+"tst/f/kj/344275z.rec"
 three
 four
 four
@@ -3558,7 +3558,7 @@ seven
 five
 zero
 .
-"tst/f/kj/4673589.lab"
+"tst/f/kj/4673589.rec"
 four
 six
 seven
@@ -3567,7 +3567,7 @@ five
 eight
 nine
 .
-"tst/f/kj/5729823.lab"
+"tst/f/kj/5729823.rec"
 five
 seven
 two
@@ -3576,7 +3576,7 @@ eight
 two
 three
 .
-"tst/f/kj/7863571.lab"
+"tst/f/kj/7863571.rec"
 seven
 eight
 six
@@ -3585,7 +3585,7 @@ five
 seven
 one
 .
-"tst/f/kj/9451715.lab"
+"tst/f/kj/9451715.rec"
 nine
 four
 five
@@ -3594,7 +3594,7 @@ seven
 one
 five
 .
-"tst/f/kj/o381522.lab"
+"tst/f/kj/o381522.rec"
 oh
 three
 eight
@@ -3603,7 +3603,7 @@ five
 two
 two
 .
-"tst/f/kj/o6o86o2.lab"
+"tst/f/kj/o6o86o2.rec"
 oh
 six
 oh
@@ -3612,7 +3612,7 @@ six
 oh
 two
 .
-"tst/f/kj/z8591z7.lab"
+"tst/f/kj/z8591z7.rec"
 zero
 eight
 five
@@ -3621,7 +3621,7 @@ one
 zero
 seven
 .
-"tst/f/lj/2512586.lab"
+"tst/f/lj/2512586.rec"
 two
 five
 one
@@ -3630,7 +3630,7 @@ five
 eight
 six
 .
-"tst/f/lj/44z7638.lab"
+"tst/f/lj/44z7638.rec"
 four
 four
 zero
@@ -3639,7 +3639,7 @@ six
 three
 eight
 .
-"tst/f/lj/455822z.lab"
+"tst/f/lj/455822z.rec"
 four
 five
 five
@@ -3648,7 +3648,7 @@ two
 two
 zero
 .
-"tst/f/lj/5736oo5.lab"
+"tst/f/lj/5736oo5.rec"
 five
 seven
 three
@@ -3657,7 +3657,7 @@ oh
 oh
 five
 .
-"tst/f/lj/5o78928.lab"
+"tst/f/lj/5o78928.rec"
 five
 oh
 seven
@@ -3666,7 +3666,7 @@ nine
 two
 eight
 .
-"tst/f/lj/6295396.lab"
+"tst/f/lj/6295396.rec"
 six
 two
 nine
@@ -3675,7 +3675,7 @@ three
 nine
 six
 .
-"tst/f/lj/67o1781.lab"
+"tst/f/lj/67o1781.rec"
 six
 seven
 oh
@@ -3684,7 +3684,7 @@ seven
 eight
 one
 .
-"tst/f/lj/7748721.lab"
+"tst/f/lj/7748721.rec"
 seven
 seven
 four
@@ -3693,7 +3693,7 @@ seven
 two
 one
 .
-"tst/f/lj/7z42997.lab"
+"tst/f/lj/7z42997.rec"
 seven
 zero
 four
@@ -3703,7 +3703,7 @@ nine
 nine
 seven
 .
-"tst/f/lj/8264988.lab"
+"tst/f/lj/8264988.rec"
 eight
 two
 six
@@ -3712,7 +3712,7 @@ nine
 eight
 eight
 .
-"tst/f/lj/o4731oo.lab"
+"tst/f/lj/o4731oo.rec"
 oh
 four
 seven
@@ -3721,7 +3721,7 @@ one
 oh
 oh
 .
-"tst/f/ll/2o62732.lab"
+"tst/f/ll/2o62732.rec"
 two
 oh
 six
@@ -3730,7 +3730,7 @@ seven
 three
 two
 .
-"tst/f/ll/5947156.lab"
+"tst/f/ll/5947156.rec"
 five
 nine
 four
@@ -3739,7 +3739,7 @@ one
 five
 six
 .
-"tst/f/ll/645z2zz.lab"
+"tst/f/ll/645z2zz.rec"
 six
 four
 five
@@ -3749,7 +3749,7 @@ two
 zero
 zero
 .
-"tst/f/ll/6o9o4o2.lab"
+"tst/f/ll/6o9o4o2.rec"
 six
 oh
 nine
@@ -3758,7 +3758,7 @@ four
 oh
 two
 .
-"tst/f/ll/6z797z1.lab"
+"tst/f/ll/6z797z1.rec"
 six
 zero
 seven
@@ -3767,7 +3767,7 @@ seven
 zero
 one
 .
-"tst/f/ll/7226952.lab"
+"tst/f/ll/7226952.rec"
 seven
 two
 two
@@ -3776,7 +3776,7 @@ nine
 five
 two
 .
-"tst/f/ll/8z98z4z.lab"
+"tst/f/ll/8z98z4z.rec"
 eight
 zero
 nine
@@ -3785,7 +3785,7 @@ zero
 four
 zero
 .
-"tst/f/ll/9188z57.lab"
+"tst/f/ll/9188z57.rec"
 nine
 one
 eight
@@ -3794,7 +3794,7 @@ zero
 five
 seven
 .
-"tst/f/ll/o256845.lab"
+"tst/f/ll/o256845.rec"
 oh
 two
 five
@@ -3803,7 +3803,7 @@ eight
 four
 five
 .
-"tst/f/ll/o524955.lab"
+"tst/f/ll/o524955.rec"
 oh
 five
 two
@@ -3812,7 +3812,7 @@ nine
 five
 five
 .
-"tst/f/ll/z43z281.lab"
+"tst/f/ll/z43z281.rec"
 zero
 four
 three
@@ -3821,7 +3821,7 @@ two
 eight
 one
 .
-"tst/f/lp/1247349.lab"
+"tst/f/lp/1247349.rec"
 one
 two
 four
@@ -3830,7 +3830,7 @@ three
 four
 nine
 .
-"tst/f/lp/296211o.lab"
+"tst/f/lp/296211o.rec"
 two
 nine
 six
@@ -3839,7 +3839,7 @@ one
 one
 oh
 .
-"tst/f/lp/3277z3z.lab"
+"tst/f/lp/3277z3z.rec"
 three
 two
 seven
@@ -3848,7 +3848,7 @@ zero
 three
 zero
 .
-"tst/f/lp/524z318.lab"
+"tst/f/lp/524z318.rec"
 five
 two
 four
@@ -3858,7 +3858,7 @@ three
 one
 eight
 .
-"tst/f/lp/5o8o22o.lab"
+"tst/f/lp/5o8o22o.rec"
 five
 oh
 eight
@@ -3867,7 +3867,7 @@ two
 two
 oh
 .
-"tst/f/lp/654zz11.lab"
+"tst/f/lp/654zz11.rec"
 six
 five
 four
@@ -3877,7 +3877,7 @@ zero
 one
 one
 .
-"tst/f/lp/6o43143.lab"
+"tst/f/lp/6o43143.rec"
 six
 oh
 four
@@ -3887,7 +3887,7 @@ four
 three
 oh
 .
-"tst/f/lp/7642594.lab"
+"tst/f/lp/7642594.rec"
 seven
 six
 four
@@ -3897,7 +3897,7 @@ nine
 four
 oh
 .
-"tst/f/lp/94o1423.lab"
+"tst/f/lp/94o1423.rec"
 nine
 four
 oh
@@ -3906,7 +3906,7 @@ four
 two
 three
 .
-"tst/f/lp/9937589.lab"
+"tst/f/lp/9937589.rec"
 nine
 nine
 three
@@ -3915,7 +3915,7 @@ five
 eight
 nine
 .
-"tst/f/lp/oo16446.lab"
+"tst/f/lp/oo16446.rec"
 oh
 oh
 one
@@ -3925,7 +3925,7 @@ four
 six
 oh
 .
-"tst/f/lr/2593954.lab"
+"tst/f/lr/2593954.rec"
 two
 five
 nine
@@ -3934,7 +3934,7 @@ nine
 five
 four
 .
-"tst/f/lr/2946119.lab"
+"tst/f/lr/2946119.rec"
 two
 nine
 four
@@ -3943,7 +3943,7 @@ one
 one
 nine
 .
-"tst/f/lr/31o564o.lab"
+"tst/f/lr/31o564o.rec"
 three
 one
 oh
@@ -3953,7 +3953,7 @@ four
 oh
 oh
 .
-"tst/f/lr/3oo2192.lab"
+"tst/f/lr/3oo2192.rec"
 three
 oh
 oh
@@ -3962,7 +3962,7 @@ one
 nine
 two
 .
-"tst/f/lr/41152z8.lab"
+"tst/f/lr/41152z8.rec"
 four
 one
 one
@@ -3971,7 +3971,7 @@ two
 zero
 eight
 .
-"tst/f/lr/6873o37.lab"
+"tst/f/lr/6873o37.rec"
 six
 eight
 seven
@@ -3981,7 +3981,7 @@ three
 seven
 oh
 .
-"tst/f/lr/6988559.lab"
+"tst/f/lr/6988559.rec"
 six
 nine
 eight
@@ -3990,7 +3990,7 @@ five
 five
 nine
 .
-"tst/f/lr/72o85o3.lab"
+"tst/f/lr/72o85o3.rec"
 seven
 two
 oh
@@ -3999,7 +3999,7 @@ five
 oh
 three
 .
-"tst/f/lr/8247649.lab"
+"tst/f/lr/8247649.rec"
 eight
 two
 four
@@ -4008,7 +4008,7 @@ six
 four
 nine
 .
-"tst/f/lr/9o96oo9.lab"
+"tst/f/lr/9o96oo9.rec"
 nine
 oh
 nine
@@ -4017,7 +4017,7 @@ oh
 oh
 nine
 .
-"tst/f/lr/9zz2679.lab"
+"tst/f/lr/9zz2679.rec"
 nine
 zero
 zero
@@ -4026,7 +4026,7 @@ six
 seven
 nine
 .
-"tst/f/mc/174z336.lab"
+"tst/f/mc/174z336.rec"
 one
 seven
 four
@@ -4035,7 +4035,7 @@ three
 three
 six
 .
-"tst/f/mc/233o37o.lab"
+"tst/f/mc/233o37o.rec"
 three
 three
 oh
@@ -4043,7 +4043,7 @@ three
 seven
 oh
 .
-"tst/f/mc/48z5415.lab"
+"tst/f/mc/48z5415.rec"
 four
 eight
 zero
@@ -4053,7 +4053,7 @@ one
 five
 oh
 .
-"tst/f/mc/6219956.lab"
+"tst/f/mc/6219956.rec"
 six
 two
 one
@@ -4062,7 +4062,7 @@ nine
 five
 six
 .
-"tst/f/mc/6z61z57.lab"
+"tst/f/mc/6z61z57.rec"
 six
 zero
 six
@@ -4071,7 +4071,7 @@ zero
 five
 seven
 .
-"tst/f/mc/75o3294.lab"
+"tst/f/mc/75o3294.rec"
 seven
 five
 oh
@@ -4080,7 +4080,7 @@ two
 nine
 four
 .
-"tst/f/mc/8796446.lab"
+"tst/f/mc/8796446.rec"
 eight
 seven
 nine
@@ -4089,7 +4089,7 @@ four
 four
 six
 .
-"tst/f/mc/9726881.lab"
+"tst/f/mc/9726881.rec"
 nine
 seven
 two
@@ -4098,7 +4098,7 @@ eight
 eight
 one
 .
-"tst/f/mc/9914113.lab"
+"tst/f/mc/9914113.rec"
 nine
 nine
 one
@@ -4107,7 +4107,7 @@ one
 one
 three
 .
-"tst/f/mc/z7844z4.lab"
+"tst/f/mc/z7844z4.rec"
 zero
 seven
 eight
@@ -4116,7 +4116,7 @@ four
 zero
 four
 .
-"tst/f/mc/zz3zzz9.lab"
+"tst/f/mc/zz3zzz9.rec"
 zero
 zero
 three
@@ -4125,7 +4125,7 @@ zero
 zero
 nine
 .
-"tst/f/mj/1817945.lab"
+"tst/f/mj/1817945.rec"
 one
 eight
 one
@@ -4135,7 +4135,7 @@ four
 five
 oh
 .
-"tst/f/mj/29o948o.lab"
+"tst/f/mj/29o948o.rec"
 nine
 oh
 nine
@@ -4143,7 +4143,7 @@ four
 eight
 oh
 .
-"tst/f/mj/3o12631.lab"
+"tst/f/mj/3o12631.rec"
 three
 oh
 one
@@ -4152,7 +4152,7 @@ six
 three
 one
 .
-"tst/f/mj/4273297.lab"
+"tst/f/mj/4273297.rec"
 four
 two
 seven
@@ -4161,7 +4161,7 @@ two
 nine
 seven
 .
-"tst/f/mj/4376zz2.lab"
+"tst/f/mj/4376zz2.rec"
 four
 three
 seven
@@ -4170,7 +4170,7 @@ zero
 zero
 two
 .
-"tst/f/mj/545o461.lab"
+"tst/f/mj/545o461.rec"
 five
 four
 five
@@ -4179,7 +4179,7 @@ four
 six
 one
 .
-"tst/f/mj/778z672.lab"
+"tst/f/mj/778z672.rec"
 seven
 seven
 eight
@@ -4188,7 +4188,7 @@ six
 seven
 two
 .
-"tst/f/mj/86o1363.lab"
+"tst/f/mj/86o1363.rec"
 eight
 six
 oh
@@ -4197,7 +4197,7 @@ three
 six
 three
 .
-"tst/f/mj/9149o52.lab"
+"tst/f/mj/9149o52.rec"
 nine
 one
 four
@@ -4206,7 +4206,7 @@ oh
 five
 two
 .
-"tst/f/mj/z5797z2.lab"
+"tst/f/mj/z5797z2.rec"
 zero
 five
 seven
@@ -4216,7 +4216,7 @@ zero
 two
 nine
 .
-"tst/f/mj/z931zz3.lab"
+"tst/f/mj/z931zz3.rec"
 zero
 nine
 three
@@ -4225,7 +4225,7 @@ zero
 zero
 three
 .
-"tst/f/ml/1133187.lab"
+"tst/f/ml/1133187.rec"
 one
 one
 three
@@ -4235,7 +4235,7 @@ eight
 seven
 oh
 .
-"tst/f/ml/1566z35.lab"
+"tst/f/ml/1566z35.rec"
 one
 five
 six
@@ -4244,7 +4244,7 @@ zero
 three
 five
 .
-"tst/f/ml/5267983.lab"
+"tst/f/ml/5267983.rec"
 five
 two
 six
@@ -4253,7 +4253,7 @@ nine
 eight
 three
 .
-"tst/f/ml/5o5536o.lab"
+"tst/f/ml/5o5536o.rec"
 five
 oh
 five
@@ -4262,7 +4262,7 @@ three
 six
 oh
 .
-"tst/f/ml/7646374.lab"
+"tst/f/ml/7646374.rec"
 seven
 six
 four
@@ -4271,7 +4271,7 @@ three
 seven
 four
 .
-"tst/f/ml/76o548o.lab"
+"tst/f/ml/76o548o.rec"
 seven
 six
 oh
@@ -4280,7 +4280,7 @@ four
 eight
 oh
 .
-"tst/f/ml/7z1z558.lab"
+"tst/f/ml/7z1z558.rec"
 seven
 zero
 one
@@ -4289,7 +4289,7 @@ five
 five
 eight
 .
-"tst/f/ml/9143o31.lab"
+"tst/f/ml/9143o31.rec"
 nine
 one
 four
@@ -4299,7 +4299,7 @@ oh
 three
 one
 .
-"tst/f/ml/94o3o45.lab"
+"tst/f/ml/94o3o45.rec"
 nine
 four
 oh
@@ -4309,7 +4309,7 @@ oh
 four
 five
 .
-"tst/f/ml/o88oo9o.lab"
+"tst/f/ml/o88oo9o.rec"
 oh
 eight
 eight
@@ -4318,7 +4318,7 @@ oh
 nine
 oh
 .
-"tst/f/ml/oo88oo6.lab"
+"tst/f/ml/oo88oo6.rec"
 oh
 oh
 eight
@@ -4328,7 +4328,7 @@ oh
 six
 oh
 .
-"tst/f/na/1oo4977.lab"
+"tst/f/na/1oo4977.rec"
 one
 oh
 oh
@@ -4337,7 +4337,7 @@ nine
 seven
 seven
 .
-"tst/f/na/228z125.lab"
+"tst/f/na/228z125.rec"
 two
 two
 oh
@@ -4347,7 +4347,7 @@ one
 two
 five
 .
-"tst/f/na/2352o27.lab"
+"tst/f/na/2352o27.rec"
 two
 three
 five
@@ -4356,7 +4356,7 @@ oh
 two
 seven
 .
-"tst/f/na/2415zz9.lab"
+"tst/f/na/2415zz9.rec"
 two
 four
 one
@@ -4365,7 +4365,7 @@ zero
 zero
 nine
 .
-"tst/f/na/54148o7.lab"
+"tst/f/na/54148o7.rec"
 five
 four
 one
@@ -4374,7 +4374,7 @@ eight
 oh
 seven
 .
-"tst/f/na/5538344.lab"
+"tst/f/na/5538344.rec"
 five
 five
 three
@@ -4383,7 +4383,7 @@ three
 four
 four
 .
-"tst/f/na/66985o3.lab"
+"tst/f/na/66985o3.rec"
 six
 six
 nine
@@ -4392,7 +4392,7 @@ five
 oh
 three
 .
-"tst/f/na/6763791.lab"
+"tst/f/na/6763791.rec"
 six
 seven
 six
@@ -4401,7 +4401,7 @@ seven
 nine
 one
 .
-"tst/f/na/885zz3z.lab"
+"tst/f/na/885zz3z.rec"
 eight
 eight
 five
@@ -4410,7 +4410,7 @@ zero
 three
 zero
 .
-"tst/f/na/o8o14o7.lab"
+"tst/f/na/o8o14o7.rec"
 oh
 eight
 oh
@@ -4419,7 +4419,7 @@ four
 oh
 seven
 .
-"tst/f/na/z626687.lab"
+"tst/f/na/z626687.rec"
 zero
 six
 two
@@ -4428,7 +4428,7 @@ six
 eight
 seven
 .
-"tst/f/nk/1397673.lab"
+"tst/f/nk/1397673.rec"
 one
 three
 nine
@@ -4437,7 +4437,7 @@ six
 seven
 three
 .
-"tst/f/nk/18z7747.lab"
+"tst/f/nk/18z7747.rec"
 one
 eight
 zero
@@ -4446,7 +4446,7 @@ seven
 four
 seven
 .
-"tst/f/nk/216851o.lab"
+"tst/f/nk/216851o.rec"
 two
 one
 six
@@ -4455,7 +4455,7 @@ five
 one
 oh
 .
-"tst/f/nk/5417948.lab"
+"tst/f/nk/5417948.rec"
 five
 four
 one
@@ -4464,7 +4464,7 @@ nine
 four
 eight
 .
-"tst/f/nk/5989754.lab"
+"tst/f/nk/5989754.rec"
 five
 nine
 eight
@@ -4473,7 +4473,7 @@ seven
 five
 four
 .
-"tst/f/nk/68143z3.lab"
+"tst/f/nk/68143z3.rec"
 six
 eight
 one
@@ -4482,7 +4482,7 @@ three
 zero
 three
 .
-"tst/f/nk/7235128.lab"
+"tst/f/nk/7235128.rec"
 seven
 two
 three
@@ -4493,7 +4493,7 @@ eight
 oh
 oh
 .
-"tst/f/nk/728o946.lab"
+"tst/f/nk/728o946.rec"
 seven
 two
 eight
@@ -4502,7 +4502,7 @@ nine
 four
 six
 .
-"tst/f/nk/73o7423.lab"
+"tst/f/nk/73o7423.rec"
 seven
 three
 oh
@@ -4511,7 +4511,7 @@ four
 two
 three
 .
-"tst/f/nk/7786o3o.lab"
+"tst/f/nk/7786o3o.rec"
 seven
 seven
 eight
@@ -4520,7 +4520,7 @@ oh
 three
 oh
 .
-"tst/f/nk/9224121.lab"
+"tst/f/nk/9224121.rec"
 nine
 two
 two
@@ -4530,7 +4530,7 @@ one
 two
 one
 .
-"tst/f/pf/1442477.lab"
+"tst/f/pf/1442477.rec"
 one
 four
 four
@@ -4539,7 +4539,7 @@ four
 seven
 seven
 .
-"tst/f/pf/226o77o.lab"
+"tst/f/pf/226o77o.rec"
 two
 two
 six
@@ -4548,7 +4548,7 @@ seven
 seven
 oh
 .
-"tst/f/pf/227918o.lab"
+"tst/f/pf/227918o.rec"
 two
 seven
 nine
@@ -4556,7 +4556,7 @@ one
 eight
 oh
 .
-"tst/f/pf/2578266.lab"
+"tst/f/pf/2578266.rec"
 five
 seven
 eight
@@ -4564,7 +4564,7 @@ two
 six
 six
 .
-"tst/f/pf/56762z2.lab"
+"tst/f/pf/56762z2.rec"
 five
 six
 seven
@@ -4573,7 +4573,7 @@ two
 zero
 two
 .
-"tst/f/pf/6395148.lab"
+"tst/f/pf/6395148.rec"
 six
 three
 nine
@@ -4582,7 +4582,7 @@ one
 four
 eight
 .
-"tst/f/pf/7361845.lab"
+"tst/f/pf/7361845.rec"
 seven
 three
 six
@@ -4591,7 +4591,7 @@ eight
 four
 five
 .
-"tst/f/pf/7837175.lab"
+"tst/f/pf/7837175.rec"
 seven
 eight
 three
@@ -4601,7 +4601,7 @@ seven
 five
 oh
 .
-"tst/f/pf/81o4832.lab"
+"tst/f/pf/81o4832.rec"
 eight
 one
 oh
@@ -4610,7 +4610,7 @@ eight
 three
 two
 .
-"tst/f/pf/o316819.lab"
+"tst/f/pf/o316819.rec"
 oh
 three
 one
@@ -4619,7 +4619,7 @@ eight
 one
 nine
 .
-"tst/f/pf/oo99888.lab"
+"tst/f/pf/oo99888.rec"
 oh
 oh
 nine
@@ -4628,7 +4628,7 @@ eight
 eight
 eight
 .
-"tst/f/pj/2661389.lab"
+"tst/f/pj/2661389.rec"
 two
 oh
 six
@@ -4638,7 +4638,7 @@ three
 eight
 nine
 .
-"tst/f/pj/3434216.lab"
+"tst/f/pj/3434216.rec"
 three
 four
 three
@@ -4647,7 +4647,7 @@ two
 one
 six
 .
-"tst/f/pj/3544z6z.lab"
+"tst/f/pj/3544z6z.rec"
 three
 five
 four
@@ -4657,7 +4657,7 @@ zero
 six
 zero
 .
-"tst/f/pj/446o8o6.lab"
+"tst/f/pj/446o8o6.rec"
 four
 four
 six
@@ -4666,7 +4666,7 @@ eight
 oh
 six
 .
-"tst/f/pj/563193o.lab"
+"tst/f/pj/563193o.rec"
 five
 six
 three
@@ -4675,7 +4675,7 @@ nine
 three
 oh
 .
-"tst/f/pj/64z24zz.lab"
+"tst/f/pj/64z24zz.rec"
 six
 four
 zero
@@ -4684,7 +4684,7 @@ four
 zero
 zero
 .
-"tst/f/pj/7788879.lab"
+"tst/f/pj/7788879.rec"
 seven
 seven
 eight
@@ -4693,7 +4693,7 @@ eight
 seven
 nine
 .
-"tst/f/pj/o73643o.lab"
+"tst/f/pj/o73643o.rec"
 oh
 seven
 three
@@ -4702,7 +4702,7 @@ four
 three
 oh
 .
-"tst/f/pj/oo215oo.lab"
+"tst/f/pj/oo215oo.rec"
 oh
 oh
 two
@@ -4711,7 +4711,7 @@ five
 oh
 oh
 .
-"tst/f/pj/z8z2273.lab"
+"tst/f/pj/z8z2273.rec"
 zero
 eight
 zero
@@ -4721,7 +4721,7 @@ seven
 three
 oh
 .
-"tst/f/pj/z9z932z.lab"
+"tst/f/pj/z9z932z.rec"
 zero
 nine
 zero
@@ -4730,7 +4730,7 @@ three
 two
 zero
 .
-"tst/f/pl/129787z.lab"
+"tst/f/pl/129787z.rec"
 one
 two
 nine
@@ -4740,7 +4740,7 @@ seven
 zero
 oh
 .
-"tst/f/pl/225253o.lab"
+"tst/f/pl/225253o.rec"
 two
 two
 five
@@ -4750,7 +4750,7 @@ three
 oh
 oh
 .
-"tst/f/pl/3o6o732.lab"
+"tst/f/pl/3o6o732.rec"
 three
 oh
 six
@@ -4760,7 +4760,7 @@ three
 two
 oh
 .
-"tst/f/pl/3zz8178.lab"
+"tst/f/pl/3zz8178.rec"
 three
 zero
 zero
@@ -4769,7 +4769,7 @@ one
 seven
 eight
 .
-"tst/f/pl/5883228.lab"
+"tst/f/pl/5883228.rec"
 five
 eight
 eight
@@ -4778,7 +4778,7 @@ two
 two
 eight
 .
-"tst/f/pl/5z41736.lab"
+"tst/f/pl/5z41736.rec"
 five
 zero
 four
@@ -4787,7 +4787,7 @@ seven
 three
 six
 .
-"tst/f/pl/6874z3z.lab"
+"tst/f/pl/6874z3z.rec"
 six
 eight
 seven
@@ -4796,7 +4796,7 @@ zero
 three
 zero
 .
-"tst/f/pl/8512455.lab"
+"tst/f/pl/8512455.rec"
 eight
 five
 one
@@ -4805,7 +4805,7 @@ four
 five
 five
 .
-"tst/f/pl/o583779.lab"
+"tst/f/pl/o583779.rec"
 oh
 five
 eight
@@ -4814,7 +4814,7 @@ seven
 seven
 nine
 .
-"tst/f/pl/oo6o137.lab"
+"tst/f/pl/oo6o137.rec"
 oh
 oh
 six
@@ -4823,7 +4823,7 @@ one
 three
 seven
 .
-"tst/f/pl/ooo766o.lab"
+"tst/f/pl/ooo766o.rec"
 oh
 oh
 oh
@@ -4833,7 +4833,7 @@ six
 oh
 oh
 .
-"tst/f/pn/1z8179z.lab"
+"tst/f/pn/1z8179z.rec"
 one
 zero
 eight
@@ -4842,7 +4842,7 @@ seven
 nine
 zero
 .
-"tst/f/pn/3932364.lab"
+"tst/f/pn/3932364.rec"
 three
 nine
 three
@@ -4851,7 +4851,7 @@ three
 six
 four
 .
-"tst/f/pn/4989z65.lab"
+"tst/f/pn/4989z65.rec"
 four
 nine
 eight
@@ -4860,7 +4860,7 @@ zero
 six
 five
 .
-"tst/f/pn/516z34z.lab"
+"tst/f/pn/516z34z.rec"
 five
 one
 six
@@ -4869,7 +4869,7 @@ three
 four
 zero
 .
-"tst/f/pn/6227242.lab"
+"tst/f/pn/6227242.rec"
 six
 two
 two
@@ -4878,7 +4878,7 @@ two
 four
 two
 .
-"tst/f/pn/66o5o1o.lab"
+"tst/f/pn/66o5o1o.rec"
 six
 six
 oh
@@ -4887,7 +4887,7 @@ oh
 one
 oh
 .
-"tst/f/pn/74z9922.lab"
+"tst/f/pn/74z9922.rec"
 seven
 four
 zero
@@ -4897,7 +4897,7 @@ nine
 two
 two
 .
-"tst/f/pn/83z9z58.lab"
+"tst/f/pn/83z9z58.rec"
 eight
 three
 zero
@@ -4906,7 +4906,7 @@ zero
 five
 eight
 .
-"tst/f/pn/9673856.lab"
+"tst/f/pn/9673856.rec"
 nine
 six
 seven
@@ -4915,7 +4915,7 @@ eight
 five
 six
 .
-"tst/f/pn/o7o5629.lab"
+"tst/f/pn/o7o5629.rec"
 oh
 seven
 oh
@@ -4924,7 +4924,7 @@ six
 two
 nine
 .
-"tst/f/pn/z4zz69z.lab"
+"tst/f/pn/z4zz69z.rec"
 zero
 four
 zero
@@ -4933,7 +4933,7 @@ six
 nine
 zero
 .
-"tst/f/pt/42136zz.lab"
+"tst/f/pt/42136zz.rec"
 four
 two
 one
@@ -4942,7 +4942,7 @@ six
 zero
 zero
 .
-"tst/f/pt/4732o11.lab"
+"tst/f/pt/4732o11.rec"
 four
 seven
 three
@@ -4951,7 +4951,7 @@ oh
 one
 one
 .
-"tst/f/pt/4zz2z66.lab"
+"tst/f/pt/4zz2z66.rec"
 four
 zero
 zero
@@ -4960,7 +4960,7 @@ zero
 six
 six
 .
-"tst/f/pt/5487572.lab"
+"tst/f/pt/5487572.rec"
 five
 four
 eight
@@ -4969,7 +4969,7 @@ five
 seven
 two
 .
-"tst/f/pt/6619167.lab"
+"tst/f/pt/6619167.rec"
 six
 six
 one
@@ -4979,7 +4979,7 @@ one
 six
 seven
 .
-"tst/f/pt/7o4o979.lab"
+"tst/f/pt/7o4o979.rec"
 seven
 oh
 four
@@ -4988,7 +4988,7 @@ nine
 seven
 nine
 .
-"tst/f/pt/88z7141.lab"
+"tst/f/pt/88z7141.rec"
 eight
 eight
 zero
@@ -4997,7 +4997,7 @@ one
 four
 one
 .
-"tst/f/pt/8oo7561.lab"
+"tst/f/pt/8oo7561.rec"
 eight
 oh
 oh
@@ -5006,7 +5006,7 @@ five
 six
 one
 .
-"tst/f/pt/o2813o1.lab"
+"tst/f/pt/o2813o1.rec"
 oh
 two
 eight
@@ -5015,7 +5015,7 @@ three
 oh
 one
 .
-"tst/f/pt/z129774.lab"
+"tst/f/pt/z129774.rec"
 zero
 one
 two
@@ -5024,7 +5024,7 @@ seven
 seven
 four
 .
-"tst/f/pt/z939441.lab"
+"tst/f/pt/z939441.rec"
 zero
 nine
 three
@@ -5034,7 +5034,7 @@ four
 four
 one
 .
-"tst/f/rg/1788z42.lab"
+"tst/f/rg/1788z42.rec"
 one
 seven
 eight
@@ -5043,7 +5043,7 @@ zero
 four
 two
 .
-"tst/f/rg/2338367.lab"
+"tst/f/rg/2338367.rec"
 two
 three
 three
@@ -5052,7 +5052,7 @@ three
 six
 seven
 .
-"tst/f/rg/415o868.lab"
+"tst/f/rg/415o868.rec"
 four
 one
 five
@@ -5061,7 +5061,7 @@ eight
 six
 eight
 .
-"tst/f/rg/5695o12.lab"
+"tst/f/rg/5695o12.rec"
 five
 six
 nine
@@ -5070,7 +5070,7 @@ oh
 one
 two
 .
-"tst/f/rg/7846z91.lab"
+"tst/f/rg/7846z91.rec"
 seven
 eight
 four
@@ -5079,7 +5079,7 @@ zero
 nine
 one
 .
-"tst/f/rg/8729zz3.lab"
+"tst/f/rg/8729zz3.rec"
 eight
 seven
 two
@@ -5088,7 +5088,7 @@ zero
 zero
 three
 .
-"tst/f/rg/9258443.lab"
+"tst/f/rg/9258443.rec"
 nine
 two
 five
@@ -5097,7 +5097,7 @@ four
 four
 three
 .
-"tst/f/rg/9387765.lab"
+"tst/f/rg/9387765.rec"
 nine
 three
 eight
@@ -5106,7 +5106,7 @@ seven
 six
 five
 .
-"tst/f/rg/9989276.lab"
+"tst/f/rg/9989276.rec"
 nine
 nine
 eight
@@ -5115,7 +5115,7 @@ two
 seven
 six
 .
-"tst/f/rg/o341o79.lab"
+"tst/f/rg/o341o79.rec"
 oh
 three
 four
@@ -5124,7 +5124,7 @@ oh
 seven
 nine
 .
-"tst/f/rg/ooo824o.lab"
+"tst/f/rg/ooo824o.rec"
 oh
 oh
 oh
@@ -5133,7 +5133,7 @@ two
 four
 oh
 .
-"tst/f/rl/345o3o7.lab"
+"tst/f/rl/345o3o7.rec"
 three
 four
 five
@@ -5142,7 +5142,7 @@ three
 oh
 seven
 .
-"tst/f/rl/382o584.lab"
+"tst/f/rl/382o584.rec"
 three
 eight
 two
@@ -5151,7 +5151,7 @@ five
 eight
 four
 .
-"tst/f/rl/3987527.lab"
+"tst/f/rl/3987527.rec"
 three
 nine
 eight
@@ -5160,7 +5160,7 @@ five
 two
 seven
 .
-"tst/f/rl/4269227.lab"
+"tst/f/rl/4269227.rec"
 four
 two
 six
@@ -5169,7 +5169,7 @@ two
 two
 seven
 .
-"tst/f/rl/5186237.lab"
+"tst/f/rl/5186237.rec"
 five
 one
 eight
@@ -5179,7 +5179,7 @@ three
 seven
 oh
 .
-"tst/f/rl/5z2865z.lab"
+"tst/f/rl/5z2865z.rec"
 five
 zero
 two
@@ -5188,7 +5188,7 @@ six
 five
 zero
 .
-"tst/f/rl/75778z7.lab"
+"tst/f/rl/75778z7.rec"
 seven
 five
 seven
@@ -5198,7 +5198,7 @@ eight
 zero
 seven
 .
-"tst/f/rl/962z443.lab"
+"tst/f/rl/962z443.rec"
 nine
 six
 two
@@ -5207,7 +5207,7 @@ four
 four
 three
 .
-"tst/f/rl/z193z36.lab"
+"tst/f/rl/z193z36.rec"
 zero
 one
 nine
@@ -5217,7 +5217,7 @@ zero
 three
 six
 .
-"tst/f/rl/z474563.lab"
+"tst/f/rl/z474563.rec"
 zero
 four
 seven
@@ -5226,7 +5226,7 @@ five
 six
 three
 .
-"tst/f/rl/zz68478.lab"
+"tst/f/rl/zz68478.rec"
 zero
 zero
 six
@@ -5236,7 +5236,7 @@ one
 seven
 eight
 .
-"tst/f/rm/1231374.lab"
+"tst/f/rm/1231374.rec"
 one
 two
 three
@@ -5246,7 +5246,7 @@ seven
 four
 oh
 .
-"tst/f/rm/29z3811.lab"
+"tst/f/rm/29z3811.rec"
 two
 nine
 zero
@@ -5256,7 +5256,7 @@ one
 one
 oh
 .
-"tst/f/rm/4527o57.lab"
+"tst/f/rm/4527o57.rec"
 four
 five
 two
@@ -5265,7 +5265,7 @@ oh
 five
 seven
 .
-"tst/f/rm/484178z.lab"
+"tst/f/rm/484178z.rec"
 four
 eight
 four
@@ -5274,7 +5274,7 @@ seven
 eight
 zero
 .
-"tst/f/rm/51z6795.lab"
+"tst/f/rm/51z6795.rec"
 five
 one
 zero
@@ -5283,7 +5283,7 @@ seven
 nine
 five
 .
-"tst/f/rm/5789435.lab"
+"tst/f/rm/5789435.rec"
 five
 seven
 eight
@@ -5292,7 +5292,7 @@ four
 three
 five
 .
-"tst/f/rm/6629446.lab"
+"tst/f/rm/6629446.rec"
 six
 six
 two
@@ -5301,7 +5301,7 @@ four
 four
 six
 .
-"tst/f/rm/971o656.lab"
+"tst/f/rm/971o656.rec"
 nine
 seven
 one
@@ -5310,7 +5310,7 @@ six
 five
 six
 .
-"tst/f/rm/o433o68.lab"
+"tst/f/rm/o433o68.rec"
 oh
 four
 three
@@ -5320,7 +5320,7 @@ six
 eight
 oh
 .
-"tst/f/rm/oo9o318.lab"
+"tst/f/rm/oo9o318.rec"
 oh
 oh
 nine
@@ -5329,7 +5329,7 @@ three
 one
 eight
 .
-"tst/f/rm/z47z759.lab"
+"tst/f/rm/z47z759.rec"
 zero
 four
 seven
@@ -5338,7 +5338,7 @@ seven
 five
 nine
 .
-"tst/f/si/16oo931.lab"
+"tst/f/si/16oo931.rec"
 one
 six
 oh
@@ -5347,7 +5347,7 @@ nine
 three
 one
 .
-"tst/f/si/212o342.lab"
+"tst/f/si/212o342.rec"
 one
 two
 oh
@@ -5356,7 +5356,7 @@ three
 four
 two
 .
-"tst/f/si/48881z3.lab"
+"tst/f/si/48881z3.rec"
 four
 eight
 eight
@@ -5365,7 +5365,7 @@ one
 zero
 three
 .
-"tst/f/si/5846959.lab"
+"tst/f/si/5846959.rec"
 five
 eight
 four
@@ -5374,7 +5374,7 @@ nine
 five
 nine
 .
-"tst/f/si/77z5152.lab"
+"tst/f/si/77z5152.rec"
 seven
 seven
 zero
@@ -5383,7 +5383,7 @@ one
 five
 two
 .
-"tst/f/si/85zz433.lab"
+"tst/f/si/85zz433.rec"
 eight
 five
 zero
@@ -5392,7 +5392,7 @@ four
 three
 three
 .
-"tst/f/si/9o25787.lab"
+"tst/f/si/9o25787.rec"
 nine
 oh
 two
@@ -5401,7 +5401,7 @@ seven
 eight
 seven
 .
-"tst/f/si/o54o75o.lab"
+"tst/f/si/o54o75o.rec"
 oh
 five
 four
@@ -5410,7 +5410,7 @@ seven
 five
 oh
 .
-"tst/f/si/oo5313o.lab"
+"tst/f/si/oo5313o.rec"
 oh
 oh
 five
@@ -5419,7 +5419,7 @@ one
 three
 oh
 .
-"tst/f/si/z398422.lab"
+"tst/f/si/z398422.rec"
 zero
 three
 nine
@@ -5428,7 +5428,7 @@ four
 two
 two
 .
-"tst/f/si/z7z6572.lab"
+"tst/f/si/z7z6572.rec"
 zero
 seven
 zero
@@ -5437,7 +5437,7 @@ five
 seven
 two
 .
-"tst/f/sm/1o14971.lab"
+"tst/f/sm/1o14971.rec"
 one
 oh
 one
@@ -5446,7 +5446,7 @@ nine
 seven
 one
 .
-"tst/f/sm/1o42o73.lab"
+"tst/f/sm/1o42o73.rec"
 one
 oh
 four
@@ -5455,7 +5455,7 @@ oh
 seven
 three
 .
-"tst/f/sm/1z57z85.lab"
+"tst/f/sm/1z57z85.rec"
 one
 zero
 five
@@ -5464,7 +5464,7 @@ zero
 eight
 five
 .
-"tst/f/sm/2346455.lab"
+"tst/f/sm/2346455.rec"
 two
 three
 four
@@ -5473,7 +5473,7 @@ four
 five
 five
 .
-"tst/f/sm/2672988.lab"
+"tst/f/sm/2672988.rec"
 two
 six
 seven
@@ -5482,7 +5482,7 @@ nine
 eight
 eight
 .
-"tst/f/sm/382812o.lab"
+"tst/f/sm/382812o.rec"
 three
 eight
 eight
@@ -5492,7 +5492,7 @@ one
 two
 oh
 .
-"tst/f/sm/43186z6.lab"
+"tst/f/sm/43186z6.rec"
 four
 three
 one
@@ -5501,7 +5501,7 @@ six
 zero
 six
 .
-"tst/f/sm/5296o9o.lab"
+"tst/f/sm/5296o9o.rec"
 five
 two
 nine
@@ -5511,7 +5511,7 @@ nine
 nine
 oh
 .
-"tst/f/sm/535153o.lab"
+"tst/f/sm/535153o.rec"
 five
 three
 five
@@ -5520,7 +5520,7 @@ five
 three
 nine
 .
-"tst/f/sm/814z13z.lab"
+"tst/f/sm/814z13z.rec"
 eight
 one
 four
@@ -5530,7 +5530,7 @@ three
 zero
 oh
 .
-"tst/f/sm/zz66552.lab"
+"tst/f/sm/zz66552.rec"
 zero
 zero
 six
@@ -5540,7 +5540,7 @@ five
 two
 eight
 .
-"tst/f/sn/1328419.lab"
+"tst/f/sn/1328419.rec"
 one
 three
 two
@@ -5549,7 +5549,7 @@ four
 one
 nine
 .
-"tst/f/sn/2431536.lab"
+"tst/f/sn/2431536.rec"
 two
 four
 three
@@ -5558,7 +5558,7 @@ five
 three
 six
 .
-"tst/f/sn/4589533.lab"
+"tst/f/sn/4589533.rec"
 four
 five
 five
@@ -5568,7 +5568,7 @@ five
 three
 three
 .
-"tst/f/sn/5147338.lab"
+"tst/f/sn/5147338.rec"
 five
 one
 four
@@ -5577,7 +5577,7 @@ three
 three
 eight
 .
-"tst/f/sn/57229o6.lab"
+"tst/f/sn/57229o6.rec"
 five
 seven
 two
@@ -5586,7 +5586,7 @@ nine
 oh
 six
 .
-"tst/f/sn/5z15z57.lab"
+"tst/f/sn/5z15z57.rec"
 five
 zero
 one
@@ -5595,7 +5595,7 @@ zero
 five
 seven
 .
-"tst/f/sn/7559279.lab"
+"tst/f/sn/7559279.rec"
 seven
 five
 five
@@ -5604,7 +5604,7 @@ two
 seven
 nine
 .
-"tst/f/sn/7941z5z.lab"
+"tst/f/sn/7941z5z.rec"
 seven
 nine
 four
@@ -5613,7 +5613,7 @@ zero
 five
 zero
 .
-"tst/f/sn/85235o5.lab"
+"tst/f/sn/85235o5.rec"
 eight
 five
 two
@@ -5622,7 +5622,7 @@ five
 oh
 five
 .
-"tst/f/sn/8639686.lab"
+"tst/f/sn/8639686.rec"
 eight
 six
 three
@@ -5631,7 +5631,7 @@ six
 eight
 six
 .
-"tst/f/sn/ooo2878.lab"
+"tst/f/sn/ooo2878.rec"
 oh
 oh
 oh
@@ -5641,7 +5641,7 @@ seven
 nine
 eight
 .
-"tst/f/tb/24378zz.lab"
+"tst/f/tb/24378zz.rec"
 two
 four
 three
@@ -5650,7 +5650,7 @@ eight
 zero
 zero
 .
-"tst/f/tb/3892231.lab"
+"tst/f/tb/3892231.rec"
 three
 eight
 nine
@@ -5659,7 +5659,7 @@ two
 three
 one
 .
-"tst/f/tb/3z9z322.lab"
+"tst/f/tb/3z9z322.rec"
 three
 zero
 nine
@@ -5669,7 +5669,7 @@ two
 two
 oh
 .
-"tst/f/tb/4154oo1.lab"
+"tst/f/tb/4154oo1.rec"
 four
 one
 five
@@ -5678,7 +5678,7 @@ oh
 oh
 one
 .
-"tst/f/tb/576zz9z.lab"
+"tst/f/tb/576zz9z.rec"
 five
 seven
 six
@@ -5687,7 +5687,7 @@ zero
 nine
 zero
 .
-"tst/f/tb/5897511.lab"
+"tst/f/tb/5897511.rec"
 five
 eight
 nine
@@ -5696,7 +5696,7 @@ five
 one
 one
 .
-"tst/f/tb/5z7652z.lab"
+"tst/f/tb/5z7652z.rec"
 five
 zero
 seven
@@ -5705,7 +5705,7 @@ five
 two
 zero
 .
-"tst/f/tb/79392z5.lab"
+"tst/f/tb/79392z5.rec"
 seven
 nine
 three
@@ -5714,7 +5714,7 @@ two
 zero
 five
 .
-"tst/f/tb/8142859.lab"
+"tst/f/tb/8142859.rec"
 eight
 one
 four
@@ -5723,7 +5723,7 @@ eight
 five
 nine
 .
-"tst/f/tb/9836oo4.lab"
+"tst/f/tb/9836oo4.rec"
 nine
 eight
 three
@@ -5732,7 +5732,7 @@ oh
 oh
 four
 .
-"tst/f/tb/oo85346.lab"
+"tst/f/tb/oo85346.rec"
 oh
 oh
 eight
@@ -5741,7 +5741,7 @@ three
 four
 six
 .
-"tst/m/ah/24z982z.lab"
+"tst/m/ah/24z982z.rec"
 two
 four
 zero
@@ -5750,7 +5750,7 @@ eight
 two
 zero
 .
-"tst/m/ah/25896o4.lab"
+"tst/m/ah/25896o4.rec"
 two
 five
 eight
@@ -5759,7 +5759,7 @@ six
 oh
 four
 .
-"tst/m/ah/27o6571.lab"
+"tst/m/ah/27o6571.rec"
 two
 seven
 oh
@@ -5768,7 +5768,7 @@ five
 seven
 one
 .
-"tst/m/ah/3o33951.lab"
+"tst/m/ah/3o33951.rec"
 three
 oh
 three
@@ -5778,7 +5778,7 @@ five
 one
 oh
 .
-"tst/m/ah/428ooo9.lab"
+"tst/m/ah/428ooo9.rec"
 four
 two
 eight
@@ -5787,7 +5787,7 @@ oh
 oh
 nine
 .
-"tst/m/ah/6z8zz64.lab"
+"tst/m/ah/6z8zz64.rec"
 six
 zero
 eight
@@ -5796,7 +5796,7 @@ zero
 six
 four
 .
-"tst/m/ah/74o8o12.lab"
+"tst/m/ah/74o8o12.rec"
 seven
 four
 oh
@@ -5805,7 +5805,7 @@ oh
 one
 two
 .
-"tst/m/ah/8729726.lab"
+"tst/m/ah/8729726.rec"
 eight
 seven
 two
@@ -5814,7 +5814,7 @@ seven
 two
 six
 .
-"tst/m/ah/9zz1998.lab"
+"tst/m/ah/9zz1998.rec"
 nine
 zero
 zero
@@ -5823,7 +5823,7 @@ nine
 nine
 eight
 .
-"tst/m/ah/o321oo7.lab"
+"tst/m/ah/o321oo7.rec"
 oh
 three
 two
@@ -5832,7 +5832,7 @@ oh
 oh
 seven
 .
-"tst/m/ah/o5o6671.lab"
+"tst/m/ah/o5o6671.rec"
 oh
 five
 oh
@@ -5841,7 +5841,7 @@ six
 seven
 one
 .
-"tst/m/ar/13zz637.lab"
+"tst/m/ar/13zz637.rec"
 one
 three
 zero
@@ -5850,7 +5850,7 @@ six
 three
 seven
 .
-"tst/m/ar/1o66739.lab"
+"tst/m/ar/1o66739.rec"
 one
 oh
 six
@@ -5859,7 +5859,7 @@ seven
 three
 nine
 .
-"tst/m/ar/2554454.lab"
+"tst/m/ar/2554454.rec"
 two
 five
 five
@@ -5868,7 +5868,7 @@ four
 five
 four
 .
-"tst/m/ar/31z5881.lab"
+"tst/m/ar/31z5881.rec"
 three
 one
 zero
@@ -5877,7 +5877,7 @@ eight
 eight
 one
 .
-"tst/m/ar/46211z8.lab"
+"tst/m/ar/46211z8.rec"
 four
 six
 two
@@ -5886,7 +5886,7 @@ one
 zero
 eight
 .
-"tst/m/ar/5376869.lab"
+"tst/m/ar/5376869.rec"
 five
 three
 seven
@@ -5895,7 +5895,7 @@ eight
 six
 nine
 .
-"tst/m/ar/66o1348.lab"
+"tst/m/ar/66o1348.rec"
 six
 six
 oh
@@ -5904,7 +5904,7 @@ three
 four
 eight
 .
-"tst/m/ar/7567979.lab"
+"tst/m/ar/7567979.rec"
 seven
 five
 six
@@ -5913,7 +5913,7 @@ nine
 seven
 nine
 .
-"tst/m/ar/7764214.lab"
+"tst/m/ar/7764214.rec"
 seven
 seven
 six
@@ -5922,7 +5922,7 @@ two
 one
 four
 .
-"tst/m/ar/8z11243.lab"
+"tst/m/ar/8z11243.rec"
 eight
 zero
 one
@@ -5931,7 +5931,7 @@ two
 four
 three
 .
-"tst/m/ar/z324849.lab"
+"tst/m/ar/z324849.rec"
 zero
 three
 two
@@ -5940,7 +5940,7 @@ eight
 four
 nine
 .
-"tst/m/at/1752o4o.lab"
+"tst/m/at/1752o4o.rec"
 one
 seven
 five
@@ -5950,7 +5950,7 @@ oh
 four
 oh
 .
-"tst/m/at/2165482.lab"
+"tst/m/at/2165482.rec"
 two
 one
 six
@@ -5959,7 +5959,7 @@ four
 eight
 two
 .
-"tst/m/at/4496o15.lab"
+"tst/m/at/4496o15.rec"
 four
 four
 nine
@@ -5968,7 +5968,7 @@ oh
 one
 five
 .
-"tst/m/at/4z55268.lab"
+"tst/m/at/4z55268.rec"
 four
 zero
 five
@@ -5977,7 +5977,7 @@ two
 six
 eight
 .
-"tst/m/at/6389z9z.lab"
+"tst/m/at/6389z9z.rec"
 six
 three
 eight
@@ -5986,7 +5986,7 @@ zero
 nine
 zero
 .
-"tst/m/at/736883o.lab"
+"tst/m/at/736883o.rec"
 seven
 three
 six
@@ -5995,7 +5995,7 @@ eight
 three
 oh
 .
-"tst/m/at/8429332.lab"
+"tst/m/at/8429332.rec"
 eight
 four
 two
@@ -6004,7 +6004,7 @@ three
 three
 two
 .
-"tst/m/at/87585z1.lab"
+"tst/m/at/87585z1.rec"
 eight
 seven
 five
@@ -6013,7 +6013,7 @@ five
 zero
 one
 .
-"tst/m/at/oo37o72.lab"
+"tst/m/at/oo37o72.rec"
 oh
 oh
 three
@@ -6022,7 +6022,7 @@ oh
 seven
 two
 .
-"tst/m/at/z6778z8.lab"
+"tst/m/at/z6778z8.rec"
 zero
 six
 seven
@@ -6032,7 +6032,7 @@ zero
 eight
 eight
 .
-"tst/m/bc/15zz277.lab"
+"tst/m/bc/15zz277.rec"
 one
 five
 zero
@@ -6041,7 +6041,7 @@ two
 seven
 seven
 .
-"tst/m/bc/1o35217.lab"
+"tst/m/bc/1o35217.rec"
 one
 oh
 three
@@ -6050,7 +6050,7 @@ two
 one
 seven
 .
-"tst/m/bc/311z656.lab"
+"tst/m/bc/311z656.rec"
 three
 one
 one
@@ -6059,7 +6059,7 @@ six
 five
 six
 .
-"tst/m/bc/4336463.lab"
+"tst/m/bc/4336463.rec"
 four
 three
 three
@@ -6068,7 +6068,7 @@ four
 six
 three
 .
-"tst/m/bc/4518395.lab"
+"tst/m/bc/4518395.rec"
 four
 five
 one
@@ -6077,7 +6077,7 @@ three
 nine
 five
 .
-"tst/m/bc/5811244.lab"
+"tst/m/bc/5811244.rec"
 five
 eight
 one
@@ -6087,7 +6087,7 @@ four
 four
 oh
 .
-"tst/m/bc/5o38523.lab"
+"tst/m/bc/5o38523.rec"
 five
 oh
 three
@@ -6096,7 +6096,7 @@ five
 two
 three
 .
-"tst/m/bc/6o92oo4.lab"
+"tst/m/bc/6o92oo4.rec"
 six
 oh
 nine
@@ -6105,7 +6105,7 @@ oh
 oh
 four
 .
-"tst/m/bc/8327826.lab"
+"tst/m/bc/8327826.rec"
 eight
 three
 two
@@ -6114,7 +6114,7 @@ eight
 two
 six
 .
-"tst/m/bc/8zz7559.lab"
+"tst/m/bc/8zz7559.rec"
 eight
 zero
 zero
@@ -6123,7 +6123,7 @@ five
 five
 nine
 .
-"tst/m/bc/o57651o.lab"
+"tst/m/bc/o57651o.rec"
 oh
 five
 seven
@@ -6133,7 +6133,7 @@ one
 oh
 oh
 .
-"tst/m/be/234525z.lab"
+"tst/m/be/234525z.rec"
 two
 three
 four
@@ -6142,7 +6142,7 @@ two
 five
 zero
 .
-"tst/m/be/36o4o69.lab"
+"tst/m/be/36o4o69.rec"
 three
 six
 oh
@@ -6152,7 +6152,7 @@ six
 nine
 oh
 .
-"tst/m/be/4167478.lab"
+"tst/m/be/4167478.rec"
 four
 one
 six
@@ -6161,7 +6161,7 @@ four
 seven
 eight
 .
-"tst/m/be/432151o.lab"
+"tst/m/be/432151o.rec"
 four
 three
 two
@@ -6170,7 +6170,7 @@ five
 one
 oh
 .
-"tst/m/be/9759462.lab"
+"tst/m/be/9759462.rec"
 nine
 seven
 five
@@ -6179,7 +6179,7 @@ four
 six
 two
 .
-"tst/m/be/987345z.lab"
+"tst/m/be/987345z.rec"
 nine
 eight
 seven
@@ -6188,7 +6188,7 @@ four
 five
 zero
 .
-"tst/m/be/o3o8oo1.lab"
+"tst/m/be/o3o8oo1.rec"
 oh
 three
 oh
@@ -6196,7 +6196,7 @@ eight
 oh
 one
 .
-"tst/m/be/o9o8o2o.lab"
+"tst/m/be/o9o8o2o.rec"
 oh
 nine
 oh
@@ -6205,7 +6205,7 @@ oh
 two
 oh
 .
-"tst/m/be/z5z3z86.lab"
+"tst/m/be/z5z3z86.rec"
 zero
 five
 zero
@@ -6215,7 +6215,7 @@ eight
 six
 oh
 .
-"tst/m/be/z669547.lab"
+"tst/m/be/z669547.rec"
 zero
 six
 six
@@ -6224,7 +6224,7 @@ five
 four
 seven
 .
-"tst/m/be/z9z8zz3.lab"
+"tst/m/be/z9z8zz3.rec"
 zero
 nine
 zero
@@ -6233,7 +6233,7 @@ zero
 zero
 three
 .
-"tst/m/bm/1487757.lab"
+"tst/m/bm/1487757.rec"
 one
 four
 eight
@@ -6242,7 +6242,7 @@ seven
 five
 seven
 .
-"tst/m/bm/1491zz3.lab"
+"tst/m/bm/1491zz3.rec"
 one
 four
 nine
@@ -6251,7 +6251,7 @@ zero
 zero
 three
 .
-"tst/m/bm/22944o5.lab"
+"tst/m/bm/22944o5.rec"
 two
 two
 nine
@@ -6260,7 +6260,7 @@ four
 oh
 five
 .
-"tst/m/bm/35548o7.lab"
+"tst/m/bm/35548o7.rec"
 three
 five
 five
@@ -6269,7 +6269,7 @@ eight
 oh
 seven
 .
-"tst/m/bm/463255o.lab"
+"tst/m/bm/463255o.rec"
 four
 six
 three
@@ -6278,7 +6278,7 @@ five
 five
 oh
 .
-"tst/m/bm/5672o24.lab"
+"tst/m/bm/5672o24.rec"
 five
 six
 seven
@@ -6287,7 +6287,7 @@ oh
 two
 four
 .
-"tst/m/bm/7z69616.lab"
+"tst/m/bm/7z69616.rec"
 seven
 zero
 six
@@ -6296,7 +6296,7 @@ six
 one
 six
 .
-"tst/m/bm/8311288.lab"
+"tst/m/bm/8311288.rec"
 eight
 three
 one
@@ -6306,7 +6306,7 @@ eight
 eight
 oh
 .
-"tst/m/bm/8o6645o.lab"
+"tst/m/bm/8o6645o.rec"
 eight
 oh
 six
@@ -6315,7 +6315,7 @@ four
 five
 oh
 .
-"tst/m/bm/8z64368.lab"
+"tst/m/bm/8z64368.rec"
 eight
 zero
 six
@@ -6324,7 +6324,7 @@ three
 six
 eight
 .
-"tst/m/bm/zz5z896.lab"
+"tst/m/bm/zz5z896.rec"
 zero
 zero
 five
@@ -6333,7 +6333,7 @@ eight
 nine
 six
 .
-"tst/m/bn/11o646o.lab"
+"tst/m/bn/11o646o.rec"
 one
 one
 oh
@@ -6342,7 +6342,7 @@ four
 six
 oh
 .
-"tst/m/bn/24z8828.lab"
+"tst/m/bn/24z8828.rec"
 two
 four
 zero
@@ -6351,7 +6351,7 @@ eight
 two
 eight
 .
-"tst/m/bn/2oo22o4.lab"
+"tst/m/bn/2oo22o4.rec"
 two
 oh
 oh
@@ -6360,7 +6360,7 @@ two
 oh
 four
 .
-"tst/m/bn/357236z.lab"
+"tst/m/bn/357236z.rec"
 three
 five
 seven
@@ -6369,7 +6369,7 @@ three
 six
 zero
 .
-"tst/m/bn/47631zz.lab"
+"tst/m/bn/47631zz.rec"
 four
 seven
 six
@@ -6378,7 +6378,7 @@ one
 zero
 zero
 .
-"tst/m/bn/612z781.lab"
+"tst/m/bn/612z781.rec"
 six
 one
 two
@@ -6387,7 +6387,7 @@ seven
 eight
 one
 .
-"tst/m/bn/6773266.lab"
+"tst/m/bn/6773266.rec"
 six
 seven
 seven
@@ -6396,7 +6396,7 @@ two
 six
 six
 .
-"tst/m/bn/8333779.lab"
+"tst/m/bn/8333779.rec"
 eight
 three
 three
@@ -6405,7 +6405,7 @@ seven
 seven
 nine
 .
-"tst/m/bn/84o1636.lab"
+"tst/m/bn/84o1636.rec"
 eight
 four
 oh
@@ -6414,7 +6414,7 @@ six
 three
 six
 .
-"tst/m/bn/91832o8.lab"
+"tst/m/bn/91832o8.rec"
 nine
 one
 eight
@@ -6423,7 +6423,7 @@ two
 oh
 eight
 .
-"tst/m/bn/9796586.lab"
+"tst/m/bn/9796586.rec"
 nine
 seven
 nine
@@ -6432,7 +6432,7 @@ five
 eight
 six
 .
-"tst/m/cc/24662o5.lab"
+"tst/m/cc/24662o5.rec"
 two
 four
 six
@@ -6441,7 +6441,7 @@ two
 oh
 five
 .
-"tst/m/cc/2z58z72.lab"
+"tst/m/cc/2z58z72.rec"
 two
 zero
 five
@@ -6450,7 +6450,7 @@ zero
 seven
 two
 .
-"tst/m/cc/445o89o.lab"
+"tst/m/cc/445o89o.rec"
 four
 four
 five
@@ -6459,7 +6459,7 @@ eight
 nine
 oh
 .
-"tst/m/cc/532535z.lab"
+"tst/m/cc/532535z.rec"
 five
 three
 two
@@ -6468,7 +6468,7 @@ three
 five
 zero
 .
-"tst/m/cc/65z8z94.lab"
+"tst/m/cc/65z8z94.rec"
 six
 five
 zero
@@ -6477,7 +6477,7 @@ zero
 nine
 four
 .
-"tst/m/cc/8322346.lab"
+"tst/m/cc/8322346.rec"
 eight
 three
 two
@@ -6486,7 +6486,7 @@ three
 four
 six
 .
-"tst/m/cc/83z6744.lab"
+"tst/m/cc/83z6744.rec"
 eight
 three
 zero
@@ -6495,7 +6495,7 @@ seven
 four
 four
 .
-"tst/m/cc/93o49oo.lab"
+"tst/m/cc/93o49oo.rec"
 nine
 three
 oh
@@ -6504,7 +6504,7 @@ nine
 oh
 oh
 .
-"tst/m/cc/o28o16o.lab"
+"tst/m/cc/o28o16o.rec"
 oh
 two
 eight
@@ -6513,7 +6513,7 @@ one
 six
 oh
 .
-"tst/m/cc/o92o387.lab"
+"tst/m/cc/o92o387.rec"
 oh
 nine
 two
@@ -6522,7 +6522,7 @@ three
 eight
 seven
 .
-"tst/m/cc/zz31298.lab"
+"tst/m/cc/zz31298.rec"
 zero
 zero
 three
@@ -6531,7 +6531,7 @@ two
 nine
 eight
 .
-"tst/m/ce/15114o6.lab"
+"tst/m/ce/15114o6.rec"
 one
 five
 one
@@ -6540,7 +6540,7 @@ four
 oh
 six
 .
-"tst/m/ce/18zz985.lab"
+"tst/m/ce/18zz985.rec"
 one
 eight
 zero
@@ -6549,7 +6549,7 @@ nine
 eight
 five
 .
-"tst/m/ce/197o486.lab"
+"tst/m/ce/197o486.rec"
 one
 nine
 seven
@@ -6558,7 +6558,7 @@ four
 eight
 six
 .
-"tst/m/ce/2o28691.lab"
+"tst/m/ce/2o28691.rec"
 two
 oh
 two
@@ -6568,7 +6568,7 @@ nine
 oh
 one
 .
-"tst/m/ce/3943zz8.lab"
+"tst/m/ce/3943zz8.rec"
 three
 nine
 four
@@ -6577,7 +6577,7 @@ zero
 zero
 eight
 .
-"tst/m/ce/536o364.lab"
+"tst/m/ce/536o364.rec"
 five
 three
 six
@@ -6586,7 +6586,7 @@ three
 six
 four
 .
-"tst/m/ce/569z754.lab"
+"tst/m/ce/569z754.rec"
 five
 six
 nine
@@ -6595,7 +6595,7 @@ seven
 five
 four
 .
-"tst/m/ce/5844557.lab"
+"tst/m/ce/5844557.rec"
 five
 eight
 four
@@ -6604,7 +6604,7 @@ five
 five
 seven
 .
-"tst/m/ce/591z5z7.lab"
+"tst/m/ce/591z5z7.rec"
 five
 nine
 one
@@ -6613,7 +6613,7 @@ five
 zero
 seven
 .
-"tst/m/ce/8o59956.lab"
+"tst/m/ce/8o59956.rec"
 eight
 oh
 five
@@ -6622,7 +6622,7 @@ nine
 five
 six
 .
-"tst/m/ce/929o433.lab"
+"tst/m/ce/929o433.rec"
 nine
 two
 nine
@@ -6631,7 +6631,7 @@ four
 three
 three
 .
-"tst/m/cp/1273o73.lab"
+"tst/m/cp/1273o73.rec"
 one
 two
 seven
@@ -6640,7 +6640,7 @@ oh
 seven
 three
 .
-"tst/m/cp/152o472.lab"
+"tst/m/cp/152o472.rec"
 one
 five
 two
@@ -6649,7 +6649,7 @@ four
 seven
 two
 .
-"tst/m/cp/249798o.lab"
+"tst/m/cp/249798o.rec"
 two
 four
 nine
@@ -6658,7 +6658,7 @@ nine
 eight
 oh
 .
-"tst/m/cp/3185743.lab"
+"tst/m/cp/3185743.rec"
 three
 one
 eight
@@ -6667,7 +6667,7 @@ seven
 four
 three
 .
-"tst/m/cp/441o46o.lab"
+"tst/m/cp/441o46o.rec"
 four
 four
 oh
@@ -6677,7 +6677,7 @@ four
 six
 oh
 .
-"tst/m/cp/5337z77.lab"
+"tst/m/cp/5337z77.rec"
 five
 three
 three
@@ -6686,7 +6686,7 @@ zero
 seven
 seven
 .
-"tst/m/cp/7z87621.lab"
+"tst/m/cp/7z87621.rec"
 seven
 zero
 eight
@@ -6695,7 +6695,7 @@ six
 two
 one
 .
-"tst/m/cp/8281545.lab"
+"tst/m/cp/8281545.rec"
 eight
 two
 eight
@@ -6704,7 +6704,7 @@ five
 four
 five
 .
-"tst/m/cp/9z7953z.lab"
+"tst/m/cp/9z7953z.rec"
 nine
 zero
 seven
@@ -6713,7 +6713,7 @@ five
 three
 zero
 .
-"tst/m/cp/z16z518.lab"
+"tst/m/cp/z16z518.rec"
 zero
 one
 six
@@ -6722,7 +6722,7 @@ five
 one
 eight
 .
-"tst/m/cp/z4131zz.lab"
+"tst/m/cp/z4131zz.rec"
 zero
 four
 one
@@ -6731,7 +6731,7 @@ one
 zero
 zero
 .
-"tst/m/df/2461421.lab"
+"tst/m/df/2461421.rec"
 two
 four
 six
@@ -6740,7 +6740,7 @@ four
 two
 one
 .
-"tst/m/df/28z2814.lab"
+"tst/m/df/28z2814.rec"
 two
 eight
 zero
@@ -6749,7 +6749,7 @@ eight
 one
 four
 .
-"tst/m/df/3482663.lab"
+"tst/m/df/3482663.rec"
 three
 four
 eight
@@ -6758,7 +6758,7 @@ six
 six
 three
 .
-"tst/m/df/41575o1.lab"
+"tst/m/df/41575o1.rec"
 four
 one
 five
@@ -6767,7 +6767,7 @@ five
 oh
 one
 .
-"tst/m/df/4671198.lab"
+"tst/m/df/4671198.rec"
 four
 six
 seven
@@ -6776,7 +6776,7 @@ one
 nine
 eight
 .
-"tst/m/df/532o668.lab"
+"tst/m/df/532o668.rec"
 five
 three
 two
@@ -6786,7 +6786,7 @@ six
 eight
 oh
 .
-"tst/m/df/6726491.lab"
+"tst/m/df/6726491.rec"
 six
 seven
 two
@@ -6795,7 +6795,7 @@ four
 nine
 one
 .
-"tst/m/df/76zz889.lab"
+"tst/m/df/76zz889.rec"
 seven
 six
 zero
@@ -6804,7 +6804,7 @@ eight
 eight
 nine
 .
-"tst/m/df/972z1zz.lab"
+"tst/m/df/972z1zz.rec"
 nine
 seven
 two
@@ -6813,7 +6813,7 @@ one
 zero
 zero
 .
-"tst/m/df/99z847z.lab"
+"tst/m/df/99z847z.rec"
 nine
 nine
 zero
@@ -6822,7 +6822,7 @@ four
 seven
 zero
 .
-"tst/m/df/o831179.lab"
+"tst/m/df/o831179.rec"
 four
 eight
 three
@@ -6832,7 +6832,7 @@ seven
 nine
 oh
 .
-"tst/m/dj/1696289.lab"
+"tst/m/dj/1696289.rec"
 one
 six
 nine
@@ -6841,7 +6841,7 @@ two
 eight
 nine
 .
-"tst/m/dj/17415z9.lab"
+"tst/m/dj/17415z9.rec"
 one
 seven
 four
@@ -6850,7 +6850,7 @@ five
 zero
 nine
 .
-"tst/m/dj/1z67931.lab"
+"tst/m/dj/1z67931.rec"
 one
 zero
 six
@@ -6859,7 +6859,7 @@ nine
 three
 one
 .
-"tst/m/dj/225259o.lab"
+"tst/m/dj/225259o.rec"
 two
 five
 two
@@ -6867,7 +6867,7 @@ five
 nine
 oh
 .
-"tst/m/dj/32z5653.lab"
+"tst/m/dj/32z5653.rec"
 three
 two
 zero
@@ -6876,7 +6876,7 @@ six
 five
 three
 .
-"tst/m/dj/3381192.lab"
+"tst/m/dj/3381192.rec"
 three
 three
 eight
@@ -6885,7 +6885,7 @@ one
 nine
 two
 .
-"tst/m/dj/5858735.lab"
+"tst/m/dj/5858735.rec"
 five
 eight
 five
@@ -6894,7 +6894,7 @@ seven
 three
 five
 .
-"tst/m/dj/6zz4965.lab"
+"tst/m/dj/6zz4965.rec"
 six
 zero
 zero
@@ -6903,7 +6903,7 @@ nine
 six
 five
 .
-"tst/m/dj/716o481.lab"
+"tst/m/dj/716o481.rec"
 seven
 one
 six
@@ -6912,7 +6912,7 @@ four
 eight
 one
 .
-"tst/m/dj/zz3z736.lab"
+"tst/m/dj/zz3z736.rec"
 zero
 zero
 three
@@ -6921,7 +6921,7 @@ seven
 three
 six
 .
-"tst/m/dj/zzz9139.lab"
+"tst/m/dj/zzz9139.rec"
 zero
 zero
 zero
@@ -6930,7 +6930,7 @@ one
 three
 nine
 .
-"tst/m/ed/1o11296.lab"
+"tst/m/ed/1o11296.rec"
 one
 oh
 one
@@ -6939,7 +6939,7 @@ two
 nine
 six
 .
-"tst/m/ed/3322483.lab"
+"tst/m/ed/3322483.rec"
 three
 three
 two
@@ -6948,7 +6948,7 @@ four
 eight
 three
 .
-"tst/m/ed/47z68zz.lab"
+"tst/m/ed/47z68zz.rec"
 four
 seven
 zero
@@ -6958,7 +6958,7 @@ zero
 zero
 oh
 .
-"tst/m/ed/56o6362.lab"
+"tst/m/ed/56o6362.rec"
 five
 six
 oh
@@ -6967,7 +6967,7 @@ three
 six
 two
 .
-"tst/m/ed/5978z98.lab"
+"tst/m/ed/5978z98.rec"
 five
 nine
 seven
@@ -6976,7 +6976,7 @@ zero
 nine
 eight
 .
-"tst/m/ed/69o2385.lab"
+"tst/m/ed/69o2385.rec"
 six
 nine
 oh
@@ -6985,7 +6985,7 @@ three
 eight
 five
 .
-"tst/m/ed/8453791.lab"
+"tst/m/ed/8453791.rec"
 eight
 four
 five
@@ -6994,7 +6994,7 @@ seven
 nine
 one
 .
-"tst/m/ed/861672z.lab"
+"tst/m/ed/861672z.rec"
 eight
 six
 one
@@ -7003,7 +7003,7 @@ seven
 two
 zero
 .
-"tst/m/ed/968864o.lab"
+"tst/m/ed/968864o.rec"
 nine
 six
 eight
@@ -7012,7 +7012,7 @@ six
 four
 oh
 .
-"tst/m/ed/o5o9465.lab"
+"tst/m/ed/o5o9465.rec"
 oh
 five
 oh
@@ -7021,7 +7021,7 @@ four
 six
 five
 .
-"tst/m/ed/z231327.lab"
+"tst/m/ed/z231327.rec"
 zero
 two
 three
@@ -7030,7 +7030,7 @@ three
 two
 seven
 .
-"tst/m/ef/26zzz72.lab"
+"tst/m/ef/26zzz72.rec"
 two
 six
 zero
@@ -7039,7 +7039,7 @@ zero
 seven
 two
 .
-"tst/m/ef/3o42o1o.lab"
+"tst/m/ef/3o42o1o.rec"
 three
 oh
 four
@@ -7048,7 +7048,7 @@ oh
 one
 oh
 .
-"tst/m/ef/4297639.lab"
+"tst/m/ef/4297639.rec"
 four
 two
 nine
@@ -7057,7 +7057,7 @@ six
 three
 nine
 .
-"tst/m/ef/499455z.lab"
+"tst/m/ef/499455z.rec"
 four
 nine
 nine
@@ -7066,7 +7066,7 @@ five
 five
 zero
 .
-"tst/m/ef/6215479.lab"
+"tst/m/ef/6215479.rec"
 six
 two
 one
@@ -7075,7 +7075,7 @@ four
 seven
 nine
 .
-"tst/m/ef/7o166o2.lab"
+"tst/m/ef/7o166o2.rec"
 seven
 oh
 one
@@ -7084,7 +7084,7 @@ six
 oh
 two
 .
-"tst/m/ef/7z634z8.lab"
+"tst/m/ef/7z634z8.rec"
 seven
 zero
 six
@@ -7093,7 +7093,7 @@ four
 zero
 eight
 .
-"tst/m/ef/8473565.lab"
+"tst/m/ef/8473565.rec"
 eight
 four
 seven
@@ -7102,7 +7102,7 @@ five
 six
 five
 .
-"tst/m/ef/9678zz2.lab"
+"tst/m/ef/9678zz2.rec"
 nine
 six
 seven
@@ -7111,7 +7111,7 @@ zero
 zero
 two
 .
-"tst/m/ef/o83o911.lab"
+"tst/m/ef/o83o911.rec"
 oh
 eight
 three
@@ -7120,7 +7120,7 @@ nine
 one
 one
 .
-"tst/m/ef/z249269.lab"
+"tst/m/ef/z249269.rec"
 zero
 two
 four
@@ -7129,7 +7129,7 @@ two
 six
 nine
 .
-"tst/m/et/1939628.lab"
+"tst/m/et/1939628.rec"
 one
 nine
 three
@@ -7138,7 +7138,7 @@ six
 two
 eight
 .
-"tst/m/et/2338712.lab"
+"tst/m/et/2338712.rec"
 two
 three
 three
@@ -7147,7 +7147,7 @@ seven
 one
 two
 .
-"tst/m/et/234z479.lab"
+"tst/m/et/234z479.rec"
 two
 three
 four
@@ -7156,7 +7156,7 @@ four
 seven
 nine
 .
-"tst/m/et/3182976.lab"
+"tst/m/et/3182976.rec"
 three
 one
 eight
@@ -7165,7 +7165,7 @@ nine
 seven
 six
 .
-"tst/m/et/45o2426.lab"
+"tst/m/et/45o2426.rec"
 four
 five
 oh
@@ -7174,7 +7174,7 @@ four
 two
 six
 .
-"tst/m/et/521z11z.lab"
+"tst/m/et/521z11z.rec"
 five
 two
 one
@@ -7183,7 +7183,7 @@ one
 one
 zero
 .
-"tst/m/et/5z64668.lab"
+"tst/m/et/5z64668.rec"
 five
 zero
 six
@@ -7192,7 +7192,7 @@ six
 six
 eight
 .
-"tst/m/et/7z5596z.lab"
+"tst/m/et/7z5596z.rec"
 seven
 zero
 five
@@ -7201,7 +7201,7 @@ nine
 six
 zero
 .
-"tst/m/et/8763285.lab"
+"tst/m/et/8763285.rec"
 eight
 seven
 six
@@ -7210,7 +7210,7 @@ two
 eight
 five
 .
-"tst/m/et/9z78zz5.lab"
+"tst/m/et/9z78zz5.rec"
 nine
 zero
 seven
@@ -7219,7 +7219,7 @@ zero
 zero
 five
 .
-"tst/m/et/o135655.lab"
+"tst/m/et/o135655.rec"
 oh
 one
 three
@@ -7228,7 +7228,7 @@ six
 five
 five
 .
-"tst/m/fa/2949578.lab"
+"tst/m/fa/2949578.rec"
 two
 nine
 four
@@ -7237,7 +7237,7 @@ five
 seven
 eight
 .
-"tst/m/fa/399o467.lab"
+"tst/m/fa/399o467.rec"
 three
 nine
 nine
@@ -7246,7 +7246,7 @@ four
 six
 seven
 .
-"tst/m/fa/43zzz36.lab"
+"tst/m/fa/43zzz36.rec"
 four
 three
 zero
@@ -7255,7 +7255,7 @@ zero
 three
 six
 .
-"tst/m/fa/5z47972.lab"
+"tst/m/fa/5z47972.rec"
 five
 zero
 four
@@ -7264,7 +7264,7 @@ nine
 seven
 two
 .
-"tst/m/fa/64o23o8.lab"
+"tst/m/fa/64o23o8.rec"
 six
 four
 oh
@@ -7274,7 +7274,7 @@ three
 oh
 eight
 .
-"tst/m/fa/6z69852.lab"
+"tst/m/fa/6z69852.rec"
 six
 zero
 six
@@ -7283,7 +7283,7 @@ eight
 five
 two
 .
-"tst/m/fa/7z84276.lab"
+"tst/m/fa/7z84276.rec"
 seven
 zero
 eight
@@ -7292,7 +7292,7 @@ two
 seven
 six
 .
-"tst/m/fa/8828965.lab"
+"tst/m/fa/8828965.rec"
 eight
 eight
 two
@@ -7302,7 +7302,7 @@ nine
 six
 five
 .
-"tst/m/fa/9892316.lab"
+"tst/m/fa/9892316.rec"
 nine
 eight
 nine
@@ -7311,7 +7311,7 @@ three
 one
 six
 .
-"tst/m/fa/9zz437z.lab"
+"tst/m/fa/9zz437z.rec"
 nine
 zero
 zero
@@ -7320,7 +7320,7 @@ three
 seven
 zero
 .
-"tst/m/fa/z62z285.lab"
+"tst/m/fa/z62z285.rec"
 zero
 six
 two
@@ -7329,7 +7329,7 @@ two
 eight
 five
 .
-"tst/m/fg/3654827.lab"
+"tst/m/fg/3654827.rec"
 three
 six
 five
@@ -7338,7 +7338,7 @@ eight
 two
 seven
 .
-"tst/m/fg/3z9zz18.lab"
+"tst/m/fg/3z9zz18.rec"
 three
 zero
 nine
@@ -7347,7 +7347,7 @@ zero
 one
 eight
 .
-"tst/m/fg/451o521.lab"
+"tst/m/fg/451o521.rec"
 four
 five
 one
@@ -7356,7 +7356,7 @@ five
 two
 one
 .
-"tst/m/fg/512484z.lab"
+"tst/m/fg/512484z.rec"
 five
 one
 two
@@ -7366,7 +7366,7 @@ four
 zero
 oh
 .
-"tst/m/fg/52z7783.lab"
+"tst/m/fg/52z7783.rec"
 five
 two
 zero
@@ -7376,7 +7376,7 @@ eight
 three
 oh
 .
-"tst/m/fg/7411599.lab"
+"tst/m/fg/7411599.rec"
 seven
 four
 one
@@ -7386,7 +7386,7 @@ nine
 nine
 oh
 .
-"tst/m/fg/743955z.lab"
+"tst/m/fg/743955z.rec"
 seven
 four
 three
@@ -7396,7 +7396,7 @@ five
 five
 zero
 .
-"tst/m/fg/7737394.lab"
+"tst/m/fg/7737394.rec"
 seven
 seven
 three
@@ -7405,7 +7405,7 @@ three
 nine
 four
 .
-"tst/m/fg/9334472.lab"
+"tst/m/fg/9334472.rec"
 nine
 three
 three
@@ -7415,7 +7415,7 @@ seven
 two
 oh
 .
-"tst/m/fg/o538899.lab"
+"tst/m/fg/o538899.rec"
 oh
 five
 three
@@ -7424,7 +7424,7 @@ eight
 nine
 nine
 .
-"tst/m/fg/z558z28.lab"
+"tst/m/fg/z558z28.rec"
 zero
 five
 five
@@ -7433,7 +7433,7 @@ zero
 two
 eight
 .
-"tst/m/fh/1577z27.lab"
+"tst/m/fh/1577z27.rec"
 one
 five
 seven
@@ -7443,7 +7443,7 @@ two
 seven
 oh
 .
-"tst/m/fh/1878358.lab"
+"tst/m/fh/1878358.rec"
 one
 eight
 seven
@@ -7452,7 +7452,7 @@ three
 five
 eight
 .
-"tst/m/fh/2343144.lab"
+"tst/m/fh/2343144.rec"
 two
 three
 four
@@ -7461,7 +7461,7 @@ one
 four
 four
 .
-"tst/m/fh/3571538.lab"
+"tst/m/fh/3571538.rec"
 three
 five
 seven
@@ -7470,7 +7470,7 @@ five
 three
 eight
 .
-"tst/m/fh/446931o.lab"
+"tst/m/fh/446931o.rec"
 four
 four
 six
@@ -7479,7 +7479,7 @@ three
 one
 oh
 .
-"tst/m/fh/484z5z7.lab"
+"tst/m/fh/484z5z7.rec"
 four
 eight
 four
@@ -7488,7 +7488,7 @@ five
 zero
 seven
 .
-"tst/m/fh/5262176.lab"
+"tst/m/fh/5262176.rec"
 five
 two
 six
@@ -7497,7 +7497,7 @@ one
 seven
 six
 .
-"tst/m/fh/73219o4.lab"
+"tst/m/fh/73219o4.rec"
 seven
 three
 two
@@ -7506,7 +7506,7 @@ nine
 oh
 four
 .
-"tst/m/fh/853o51o.lab"
+"tst/m/fh/853o51o.rec"
 eight
 five
 three
@@ -7515,7 +7515,7 @@ five
 one
 oh
 .
-"tst/m/fh/9718476.lab"
+"tst/m/fh/9718476.rec"
 nine
 seven
 oh
@@ -7525,7 +7525,7 @@ four
 seven
 six
 .
-"tst/m/fh/o36o7o4.lab"
+"tst/m/fh/o36o7o4.rec"
 oh
 three
 six
@@ -7534,7 +7534,7 @@ seven
 oh
 four
 .
-"tst/m/fm/2332z8z.lab"
+"tst/m/fm/2332z8z.rec"
 two
 three
 three
@@ -7543,7 +7543,7 @@ zero
 eight
 zero
 .
-"tst/m/fm/271o124.lab"
+"tst/m/fm/271o124.rec"
 two
 seven
 one
@@ -7552,7 +7552,7 @@ one
 two
 four
 .
-"tst/m/fm/4288967.lab"
+"tst/m/fm/4288967.rec"
 four
 two
 eight
@@ -7561,7 +7561,7 @@ nine
 six
 seven
 .
-"tst/m/fm/4919o92.lab"
+"tst/m/fm/4919o92.rec"
 four
 nine
 one
@@ -7570,7 +7570,7 @@ oh
 nine
 two
 .
-"tst/m/fm/53z1736.lab"
+"tst/m/fm/53z1736.rec"
 five
 three
 zero
@@ -7579,7 +7579,7 @@ seven
 three
 six
 .
-"tst/m/fm/58oo8o6.lab"
+"tst/m/fm/58oo8o6.rec"
 five
 eight
 oh
@@ -7588,7 +7588,7 @@ eight
 oh
 six
 .
-"tst/m/fm/88zz285.lab"
+"tst/m/fm/88zz285.rec"
 eight
 eight
 zero
@@ -7598,7 +7598,7 @@ oh
 eight
 five
 .
-"tst/m/fm/o221481.lab"
+"tst/m/fm/o221481.rec"
 oh
 two
 two
@@ -7607,7 +7607,7 @@ four
 eight
 one
 .
-"tst/m/fm/z6991z3.lab"
+"tst/m/fm/z6991z3.rec"
 zero
 six
 nine
@@ -7616,7 +7616,7 @@ one
 zero
 three
 .
-"tst/m/fm/z868713.lab"
+"tst/m/fm/z868713.rec"
 zero
 eight
 six
@@ -7625,7 +7625,7 @@ seven
 one
 three
 .
-"tst/m/fm/zz98257.lab"
+"tst/m/fm/zz98257.rec"
 zero
 zero
 nine
@@ -7634,7 +7634,7 @@ two
 five
 seven
 .
-"tst/m/fp/2586o8o.lab"
+"tst/m/fp/2586o8o.rec"
 five
 eight
 six
@@ -7642,7 +7642,7 @@ oh
 eight
 oh
 .
-"tst/m/fp/35371z9.lab"
+"tst/m/fp/35371z9.rec"
 five
 three
 seven
@@ -7650,7 +7650,7 @@ one
 zero
 nine
 .
-"tst/m/fp/5o61876.lab"
+"tst/m/fp/5o61876.rec"
 five
 oh
 six
@@ -7659,7 +7659,7 @@ eight
 seven
 six
 .
-"tst/m/fp/6z5z498.lab"
+"tst/m/fp/6z5z498.rec"
 six
 zero
 five
@@ -7668,7 +7668,7 @@ four
 nine
 eight
 .
-"tst/m/fp/782o7oo.lab"
+"tst/m/fp/782o7oo.rec"
 seven
 eight
 two
@@ -7678,7 +7678,7 @@ seven
 oh
 oh
 .
-"tst/m/fp/844o514.lab"
+"tst/m/fp/844o514.rec"
 eight
 four
 four
@@ -7687,7 +7687,7 @@ five
 one
 four
 .
-"tst/m/fp/8551132.lab"
+"tst/m/fp/8551132.rec"
 eight
 five
 five
@@ -7696,7 +7696,7 @@ one
 three
 two
 .
-"tst/m/fp/o4639o9.lab"
+"tst/m/fp/o4639o9.rec"
 four
 six
 three
@@ -7705,7 +7705,7 @@ oh
 nine
 oh
 .
-"tst/m/fp/z268224.lab"
+"tst/m/fp/z268224.rec"
 zero
 two
 six
@@ -7714,7 +7714,7 @@ two
 two
 four
 .
-"tst/m/fp/z314723.lab"
+"tst/m/fp/z314723.rec"
 zero
 three
 one
@@ -7724,7 +7724,7 @@ two
 three
 oh
 .
-"tst/m/fp/z98zzz1.lab"
+"tst/m/fp/z98zzz1.rec"
 zero
 nine
 eight
@@ -7733,7 +7733,7 @@ zero
 zero
 one
 .
-"tst/m/fr/11ooo74.lab"
+"tst/m/fr/11ooo74.rec"
 one
 one
 oh
@@ -7742,7 +7742,7 @@ oh
 seven
 four
 .
-"tst/m/fr/3o44o55.lab"
+"tst/m/fr/3o44o55.rec"
 three
 oh
 four
@@ -7751,7 +7751,7 @@ oh
 five
 five
 .
-"tst/m/fr/49245z6.lab"
+"tst/m/fr/49245z6.rec"
 four
 nine
 two
@@ -7760,7 +7760,7 @@ five
 zero
 six
 .
-"tst/m/fr/5121876.lab"
+"tst/m/fr/5121876.rec"
 five
 one
 two
@@ -7769,7 +7769,7 @@ eight
 seven
 six
 .
-"tst/m/fr/67o5381.lab"
+"tst/m/fr/67o5381.rec"
 six
 seven
 oh
@@ -7778,7 +7778,7 @@ three
 eight
 one
 .
-"tst/m/fr/7586283.lab"
+"tst/m/fr/7586283.rec"
 seven
 five
 eight
@@ -7788,7 +7788,7 @@ eight
 three
 oh
 .
-"tst/m/fr/7811351.lab"
+"tst/m/fr/7811351.rec"
 seven
 eight
 one
@@ -7797,7 +7797,7 @@ three
 five
 one
 .
-"tst/m/fr/8925z85.lab"
+"tst/m/fr/8925z85.rec"
 eight
 nine
 two
@@ -7806,7 +7806,7 @@ zero
 eight
 five
 .
-"tst/m/fr/9o23o63.lab"
+"tst/m/fr/9o23o63.rec"
 nine
 oh
 two
@@ -7815,7 +7815,7 @@ oh
 six
 three
 .
-"tst/m/fr/o148o46.lab"
+"tst/m/fr/o148o46.rec"
 oh
 one
 four
@@ -7824,7 +7824,7 @@ oh
 four
 six
 .
-"tst/m/fr/z474183.lab"
+"tst/m/fr/z474183.rec"
 zero
 four
 seven
@@ -7833,7 +7833,7 @@ one
 eight
 three
 .
-"tst/m/fs/122974o.lab"
+"tst/m/fs/122974o.rec"
 one
 three
 two
@@ -7842,7 +7842,7 @@ seven
 four
 oh
 .
-"tst/m/fs/2146598.lab"
+"tst/m/fs/2146598.rec"
 two
 one
 four
@@ -7851,7 +7851,7 @@ five
 nine
 eight
 .
-"tst/m/fs/5271848.lab"
+"tst/m/fs/5271848.rec"
 five
 two
 seven
@@ -7861,7 +7861,7 @@ eight
 four
 eight
 .
-"tst/m/fs/5318o91.lab"
+"tst/m/fs/5318o91.rec"
 five
 three
 one
@@ -7870,7 +7870,7 @@ nine
 oh
 one
 .
-"tst/m/fs/5z55z29.lab"
+"tst/m/fs/5z55z29.rec"
 five
 zero
 five
@@ -7879,7 +7879,7 @@ zero
 two
 nine
 .
-"tst/m/fs/649z2z3.lab"
+"tst/m/fs/649z2z3.rec"
 six
 four
 nine
@@ -7888,7 +7888,7 @@ two
 zero
 three
 .
-"tst/m/fs/6662o71.lab"
+"tst/m/fs/6662o71.rec"
 six
 six
 six
@@ -7898,7 +7898,7 @@ seven
 one
 oh
 .
-"tst/m/fs/72582o8.lab"
+"tst/m/fs/72582o8.rec"
 seven
 two
 five
@@ -7908,7 +7908,7 @@ oh
 one
 eight
 .
-"tst/m/fs/734778z.lab"
+"tst/m/fs/734778z.rec"
 seven
 three
 four
@@ -7917,7 +7917,7 @@ seven
 eight
 zero
 .
-"tst/m/fs/o1oo812.lab"
+"tst/m/fs/o1oo812.rec"
 oh
 one
 oh
@@ -7926,7 +7926,7 @@ eight
 one
 two
 .
-"tst/m/fs/z6723z6.lab"
+"tst/m/fs/z6723z6.rec"
 zero
 six
 oh
@@ -7936,7 +7936,7 @@ three
 zero
 six
 .
-"tst/m/ft/1384377.lab"
+"tst/m/ft/1384377.rec"
 one
 three
 eight
@@ -7945,7 +7945,7 @@ three
 seven
 seven
 .
-"tst/m/ft/2zz3199.lab"
+"tst/m/ft/2zz3199.rec"
 two
 zero
 zero
@@ -7954,7 +7954,7 @@ one
 nine
 nine
 .
-"tst/m/ft/321zz4z.lab"
+"tst/m/ft/321zz4z.rec"
 three
 two
 one
@@ -7964,7 +7964,7 @@ four
 zero
 oh
 .
-"tst/m/ft/3594928.lab"
+"tst/m/ft/3594928.rec"
 three
 five
 nine
@@ -7973,7 +7973,7 @@ nine
 two
 eight
 .
-"tst/m/ft/4423326.lab"
+"tst/m/ft/4423326.rec"
 four
 four
 two
@@ -7982,7 +7982,7 @@ three
 two
 six
 .
-"tst/m/ft/5216988.lab"
+"tst/m/ft/5216988.rec"
 five
 two
 one
@@ -7991,7 +7991,7 @@ nine
 eight
 eight
 .
-"tst/m/ft/564295o.lab"
+"tst/m/ft/564295o.rec"
 five
 six
 four
@@ -8000,7 +8000,7 @@ nine
 five
 oh
 .
-"tst/m/ft/5853z27.lab"
+"tst/m/ft/5853z27.rec"
 five
 eight
 five
@@ -8009,7 +8009,7 @@ zero
 two
 seven
 .
-"tst/m/ft/7o8o193.lab"
+"tst/m/ft/7o8o193.rec"
 seven
 oh
 eight
@@ -8018,7 +8018,7 @@ one
 nine
 three
 .
-"tst/m/ft/966381z.lab"
+"tst/m/ft/966381z.rec"
 nine
 six
 six
@@ -8027,7 +8027,7 @@ eight
 one
 zero
 .
-"tst/m/ft/oo2497o.lab"
+"tst/m/ft/oo2497o.rec"
 oh
 oh
 two
@@ -8036,7 +8036,7 @@ nine
 seven
 oh
 .
-"tst/m/ga/1168522.lab"
+"tst/m/ga/1168522.rec"
 one
 one
 six
@@ -8045,7 +8045,7 @@ five
 two
 two
 .
-"tst/m/ga/1zz5837.lab"
+"tst/m/ga/1zz5837.rec"
 one
 zero
 zero
@@ -8054,7 +8054,7 @@ eight
 three
 seven
 .
-"tst/m/ga/281o24o.lab"
+"tst/m/ga/281o24o.rec"
 two
 eight
 one
@@ -8063,7 +8063,7 @@ two
 four
 oh
 .
-"tst/m/ga/53148o3.lab"
+"tst/m/ga/53148o3.rec"
 five
 three
 one
@@ -8073,7 +8073,7 @@ oh
 three
 oh
 .
-"tst/m/ga/5547z97.lab"
+"tst/m/ga/5547z97.rec"
 five
 five
 four
@@ -8082,7 +8082,7 @@ zero
 nine
 seven
 .
-"tst/m/ga/5743251.lab"
+"tst/m/ga/5743251.rec"
 five
 seven
 four
@@ -8091,7 +8091,7 @@ two
 five
 one
 .
-"tst/m/ga/6281638.lab"
+"tst/m/ga/6281638.rec"
 six
 two
 oh
@@ -8101,7 +8101,7 @@ six
 three
 eight
 .
-"tst/m/ga/6772356.lab"
+"tst/m/ga/6772356.rec"
 six
 seven
 seven
@@ -8110,7 +8110,7 @@ three
 five
 six
 .
-"tst/m/ga/69z3879.lab"
+"tst/m/ga/69z3879.rec"
 six
 nine
 zero
@@ -8119,7 +8119,7 @@ eight
 seven
 nine
 .
-"tst/m/ga/72oo499.lab"
+"tst/m/ga/72oo499.rec"
 seven
 two
 oh
@@ -8129,7 +8129,7 @@ nine
 nine
 eight
 .
-"tst/m/ga/o199113.lab"
+"tst/m/ga/o199113.rec"
 oh
 one
 nine
@@ -8138,7 +8138,7 @@ one
 one
 three
 .
-"tst/m/gp/15z8973.lab"
+"tst/m/gp/15z8973.rec"
 one
 five
 zero
@@ -8147,7 +8147,7 @@ nine
 seven
 three
 .
-"tst/m/gp/24o7o6o.lab"
+"tst/m/gp/24o7o6o.rec"
 two
 four
 oh
@@ -8156,7 +8156,7 @@ oh
 six
 oh
 .
-"tst/m/gp/4434427.lab"
+"tst/m/gp/4434427.rec"
 four
 four
 three
@@ -8165,7 +8165,7 @@ four
 two
 seven
 .
-"tst/m/gp/52814zz.lab"
+"tst/m/gp/52814zz.rec"
 five
 two
 eight
@@ -8175,7 +8175,7 @@ zero
 zero
 oh
 .
-"tst/m/gp/568z829.lab"
+"tst/m/gp/568z829.rec"
 five
 six
 eight
@@ -8184,7 +8184,7 @@ eight
 two
 nine
 .
-"tst/m/gp/5o29762.lab"
+"tst/m/gp/5o29762.rec"
 five
 oh
 two
@@ -8193,7 +8193,7 @@ seven
 six
 two
 .
-"tst/m/gp/66oo985.lab"
+"tst/m/gp/66oo985.rec"
 six
 six
 oh
@@ -8202,7 +8202,7 @@ nine
 eight
 five
 .
-"tst/m/gp/6968717.lab"
+"tst/m/gp/6968717.rec"
 six
 nine
 six
@@ -8211,7 +8211,7 @@ seven
 one
 seven
 .
-"tst/m/gp/8139oo7.lab"
+"tst/m/gp/8139oo7.rec"
 eight
 one
 three
@@ -8220,7 +8220,7 @@ oh
 oh
 seven
 .
-"tst/m/gp/9243262.lab"
+"tst/m/gp/9243262.rec"
 nine
 two
 four
@@ -8229,7 +8229,7 @@ two
 six
 two
 .
-"tst/m/gp/z38z467.lab"
+"tst/m/gp/z38z467.rec"
 zero
 three
 eight
@@ -8238,7 +8238,7 @@ four
 six
 seven
 .
-"tst/m/gs/1z39z21.lab"
+"tst/m/gs/1z39z21.rec"
 one
 zero
 three
@@ -8247,7 +8247,7 @@ zero
 two
 one
 .
-"tst/m/gs/274856z.lab"
+"tst/m/gs/274856z.rec"
 two
 seven
 four
@@ -8256,7 +8256,7 @@ five
 six
 zero
 .
-"tst/m/gs/5247636.lab"
+"tst/m/gs/5247636.rec"
 five
 two
 four
@@ -8265,7 +8265,7 @@ six
 three
 six
 .
-"tst/m/gs/6811732.lab"
+"tst/m/gs/6811732.rec"
 six
 eight
 one
@@ -8274,7 +8274,7 @@ seven
 three
 two
 .
-"tst/m/gs/6z4z8z5.lab"
+"tst/m/gs/6z4z8z5.rec"
 six
 zero
 four
@@ -8283,7 +8283,7 @@ eight
 zero
 five
 .
-"tst/m/gs/71412zz.lab"
+"tst/m/gs/71412zz.rec"
 seven
 one
 four
@@ -8292,7 +8292,7 @@ two
 zero
 zero
 .
-"tst/m/gs/747z499.lab"
+"tst/m/gs/747z499.rec"
 seven
 four
 seven
@@ -8301,7 +8301,7 @@ four
 nine
 nine
 .
-"tst/m/gs/85573z6.lab"
+"tst/m/gs/85573z6.rec"
 eight
 five
 five
@@ -8310,7 +8310,7 @@ three
 zero
 six
 .
-"tst/m/gs/945zz64.lab"
+"tst/m/gs/945zz64.rec"
 nine
 four
 five
@@ -8320,7 +8320,7 @@ six
 four
 oh
 .
-"tst/m/gs/o331226.lab"
+"tst/m/gs/o331226.rec"
 oh
 three
 three
@@ -8329,7 +8329,7 @@ two
 two
 six
 .
-"tst/m/gs/z97238z.lab"
+"tst/m/gs/z97238z.rec"
 zero
 nine
 seven
@@ -8338,7 +8338,7 @@ three
 eight
 zero
 .
-"tst/m/gw/179z838.lab"
+"tst/m/gw/179z838.rec"
 one
 seven
 nine
@@ -8347,7 +8347,7 @@ eight
 three
 eight
 .
-"tst/m/gw/2887897.lab"
+"tst/m/gw/2887897.rec"
 two
 oh
 eight
@@ -8358,7 +8358,7 @@ nine
 seven
 oh
 .
-"tst/m/gw/324163z.lab"
+"tst/m/gw/324163z.rec"
 three
 two
 four
@@ -8367,7 +8367,7 @@ six
 three
 zero
 .
-"tst/m/gw/4zz7z3z.lab"
+"tst/m/gw/4zz7z3z.rec"
 four
 zero
 zero
@@ -8376,7 +8376,7 @@ zero
 three
 zero
 .
-"tst/m/gw/7418261.lab"
+"tst/m/gw/7418261.rec"
 seven
 four
 one
@@ -8385,7 +8385,7 @@ two
 six
 one
 .
-"tst/m/gw/7758o54.lab"
+"tst/m/gw/7758o54.rec"
 seven
 seven
 five
@@ -8394,7 +8394,7 @@ oh
 five
 four
 .
-"tst/m/gw/812z276.lab"
+"tst/m/gw/812z276.rec"
 eight
 one
 two
@@ -8404,7 +8404,7 @@ two
 seven
 six
 .
-"tst/m/gw/911o4o8.lab"
+"tst/m/gw/911o4o8.rec"
 nine
 one
 one
@@ -8413,7 +8413,7 @@ four
 oh
 eight
 .
-"tst/m/gw/9231518.lab"
+"tst/m/gw/9231518.rec"
 nine
 two
 three
@@ -8423,7 +8423,7 @@ five
 one
 eight
 .
-"tst/m/gw/9345356.lab"
+"tst/m/gw/9345356.rec"
 nine
 three
 four
@@ -8432,7 +8432,7 @@ three
 five
 six
 .
-"tst/m/gw/o33o2o5.lab"
+"tst/m/gw/o33o2o5.rec"
 oh
 three
 three
@@ -8442,7 +8442,7 @@ oh
 oh
 five
 .
-"tst/m/hc/2125z26.lab"
+"tst/m/hc/2125z26.rec"
 two
 one
 two
@@ -8451,7 +8451,7 @@ zero
 two
 six
 .
-"tst/m/hc/3oo3184.lab"
+"tst/m/hc/3oo3184.rec"
 three
 oh
 oh
@@ -8460,7 +8460,7 @@ one
 eight
 four
 .
-"tst/m/hc/428o5oo.lab"
+"tst/m/hc/428o5oo.rec"
 four
 two
 eight
@@ -8469,7 +8469,7 @@ five
 oh
 oh
 .
-"tst/m/hc/4456614.lab"
+"tst/m/hc/4456614.rec"
 four
 four
 five
@@ -8478,7 +8478,7 @@ six
 one
 four
 .
-"tst/m/hc/5416817.lab"
+"tst/m/hc/5416817.rec"
 five
 four
 one
@@ -8487,7 +8487,7 @@ eight
 one
 seven
 .
-"tst/m/hc/7522851.lab"
+"tst/m/hc/7522851.rec"
 seven
 five
 two
@@ -8496,7 +8496,7 @@ eight
 five
 one
 .
-"tst/m/hc/7z43zz7.lab"
+"tst/m/hc/7z43zz7.rec"
 seven
 zero
 four
@@ -8505,7 +8505,7 @@ zero
 zero
 seven
 .
-"tst/m/hc/8zz2359.lab"
+"tst/m/hc/8zz2359.rec"
 eight
 zero
 zero
@@ -8514,7 +8514,7 @@ three
 five
 nine
 .
-"tst/m/hc/o7o2647.lab"
+"tst/m/hc/o7o2647.rec"
 oh
 seven
 oh
@@ -8523,7 +8523,7 @@ six
 four
 seven
 .
-"tst/m/hc/z94zz32.lab"
+"tst/m/hc/z94zz32.rec"
 zero
 nine
 four
@@ -8532,7 +8532,7 @@ zero
 three
 two
 .
-"tst/m/hc/zz5782z.lab"
+"tst/m/hc/zz5782z.rec"
 zero
 zero
 five
@@ -8541,7 +8541,7 @@ eight
 two
 zero
 .
-"tst/m/hj/1228845.lab"
+"tst/m/hj/1228845.rec"
 one
 two
 two
@@ -8550,7 +8550,7 @@ eight
 four
 five
 .
-"tst/m/hj/3483586.lab"
+"tst/m/hj/3483586.rec"
 three
 four
 eight
@@ -8559,7 +8559,7 @@ five
 eight
 six
 .
-"tst/m/hj/375943z.lab"
+"tst/m/hj/375943z.rec"
 three
 seven
 five
@@ -8568,7 +8568,7 @@ four
 three
 zero
 .
-"tst/m/hj/4zzz647.lab"
+"tst/m/hj/4zzz647.rec"
 four
 zero
 zero
@@ -8577,7 +8577,7 @@ six
 four
 seven
 .
-"tst/m/hj/6599z85.lab"
+"tst/m/hj/6599z85.rec"
 six
 five
 nine
@@ -8587,7 +8587,7 @@ eight
 five
 oh
 .
-"tst/m/hj/7589927.lab"
+"tst/m/hj/7589927.rec"
 seven
 five
 eight
@@ -8597,7 +8597,7 @@ nine
 two
 seven
 .
-"tst/m/hj/7672856.lab"
+"tst/m/hj/7672856.rec"
 seven
 six
 seven
@@ -8606,7 +8606,7 @@ eight
 five
 six
 .
-"tst/m/hj/7724136.lab"
+"tst/m/hj/7724136.rec"
 seven
 seven
 two
@@ -8615,7 +8615,7 @@ one
 three
 six
 .
-"tst/m/hj/8367413.lab"
+"tst/m/hj/8367413.rec"
 eight
 three
 six
@@ -8624,7 +8624,7 @@ four
 one
 three
 .
-"tst/m/hj/o39o23o.lab"
+"tst/m/hj/o39o23o.rec"
 oh
 three
 nine
@@ -8634,7 +8634,7 @@ three
 eight
 oh
 .
-"tst/m/hj/o5o2187.lab"
+"tst/m/hj/o5o2187.rec"
 oh
 five
 oh
@@ -8644,7 +8644,7 @@ eight
 seven
 oh
 .
-"tst/m/hm/2o27869.lab"
+"tst/m/hm/2o27869.rec"
 two
 oh
 oh
@@ -8656,7 +8656,7 @@ six
 nine
 eight
 .
-"tst/m/hm/4966o97.lab"
+"tst/m/hm/4966o97.rec"
 four
 nine
 six
@@ -8666,7 +8666,7 @@ nine
 seven
 eight
 .
-"tst/m/hm/4z71611.lab"
+"tst/m/hm/4z71611.rec"
 four
 zero
 seven
@@ -8676,7 +8676,7 @@ one
 one
 eight
 .
-"tst/m/hm/5oo4o32.lab"
+"tst/m/hm/5oo4o32.rec"
 five
 oh
 oh
@@ -8688,7 +8688,7 @@ two
 oh
 two
 .
-"tst/m/hm/713453o.lab"
+"tst/m/hm/713453o.rec"
 seven
 one
 three
@@ -8698,7 +8698,7 @@ three
 oh
 eight
 .
-"tst/m/hm/798188o.lab"
+"tst/m/hm/798188o.rec"
 seven
 nine
 eight
@@ -8708,7 +8708,7 @@ eight
 oh
 eight
 .
-"tst/m/hm/8258146.lab"
+"tst/m/hm/8258146.rec"
 eight
 two
 oh
@@ -8718,7 +8718,7 @@ one
 four
 six
 .
-"tst/m/hm/8755931.lab"
+"tst/m/hm/8755931.rec"
 eight
 seven
 five
@@ -8727,7 +8727,7 @@ nine
 three
 one
 .
-"tst/m/hm/o384899.lab"
+"tst/m/hm/o384899.rec"
 oh
 three
 eight
@@ -8736,7 +8736,7 @@ eight
 nine
 nine
 .
-"tst/m/hm/o5167oo.lab"
+"tst/m/hm/o5167oo.rec"
 oh
 oh
 five
@@ -8746,7 +8746,7 @@ seven
 oh
 oh
 .
-"tst/m/hm/z94761z.lab"
+"tst/m/hm/z94761z.rec"
 zero
 nine
 four
@@ -8756,7 +8756,7 @@ one
 zero
 oh
 .
-"tst/m/hr/13z4193.lab"
+"tst/m/hr/13z4193.rec"
 one
 three
 zero
@@ -8765,7 +8765,7 @@ one
 nine
 three
 .
-"tst/m/hr/2428774.lab"
+"tst/m/hr/2428774.rec"
 two
 four
 two
@@ -8774,7 +8774,7 @@ seven
 seven
 four
 .
-"tst/m/hr/24o9221.lab"
+"tst/m/hr/24o9221.rec"
 two
 four
 oh
@@ -8783,7 +8783,7 @@ two
 two
 one
 .
-"tst/m/hr/34o69o1.lab"
+"tst/m/hr/34o69o1.rec"
 three
 four
 oh
@@ -8792,7 +8792,7 @@ nine
 oh
 one
 .
-"tst/m/hr/36135o9.lab"
+"tst/m/hr/36135o9.rec"
 three
 six
 one
@@ -8801,7 +8801,7 @@ five
 oh
 nine
 .
-"tst/m/hr/45z45z1.lab"
+"tst/m/hr/45z45z1.rec"
 four
 five
 zero
@@ -8810,7 +8810,7 @@ five
 zero
 one
 .
-"tst/m/hr/664637o.lab"
+"tst/m/hr/664637o.rec"
 six
 six
 four
@@ -8819,7 +8819,7 @@ three
 seven
 oh
 .
-"tst/m/hr/96997z2.lab"
+"tst/m/hr/96997z2.rec"
 nine
 six
 nine
@@ -8828,7 +8828,7 @@ seven
 zero
 two
 .
-"tst/m/hr/9oo3584.lab"
+"tst/m/hr/9oo3584.rec"
 nine
 oh
 oh
@@ -8837,7 +8837,7 @@ five
 eight
 four
 .
-"tst/m/hr/z5761z6.lab"
+"tst/m/hr/z5761z6.rec"
 zero
 five
 seven
@@ -8846,7 +8846,7 @@ one
 zero
 six
 .
-"tst/m/hr/z7z1zz9.lab"
+"tst/m/hr/z7z1zz9.rec"
 zero
 seven
 zero
@@ -8855,7 +8855,7 @@ zero
 zero
 nine
 .
-"tst/m/ia/1582z3z.lab"
+"tst/m/ia/1582z3z.rec"
 one
 five
 oh
@@ -8865,7 +8865,7 @@ zero
 three
 zero
 .
-"tst/m/ia/1635976.lab"
+"tst/m/ia/1635976.rec"
 one
 six
 three
@@ -8874,7 +8874,7 @@ nine
 seven
 six
 .
-"tst/m/ia/1z95196.lab"
+"tst/m/ia/1z95196.rec"
 one
 zero
 nine
@@ -8883,7 +8883,7 @@ one
 nine
 six
 .
-"tst/m/ia/29274o5.lab"
+"tst/m/ia/29274o5.rec"
 nine
 two
 seven
@@ -8892,7 +8892,7 @@ oh
 five
 oh
 .
-"tst/m/ia/3252856.lab"
+"tst/m/ia/3252856.rec"
 three
 two
 five
@@ -8901,7 +8901,7 @@ eight
 five
 six
 .
-"tst/m/ia/3o7988o.lab"
+"tst/m/ia/3o7988o.rec"
 three
 oh
 seven
@@ -8910,7 +8910,7 @@ eight
 eight
 oh
 .
-"tst/m/ia/46966o4.lab"
+"tst/m/ia/46966o4.rec"
 four
 six
 nine
@@ -8919,7 +8919,7 @@ six
 oh
 four
 .
-"tst/m/ia/72o3317.lab"
+"tst/m/ia/72o3317.rec"
 seven
 two
 oh
@@ -8928,7 +8928,7 @@ three
 one
 seven
 .
-"tst/m/ia/8265374.lab"
+"tst/m/ia/8265374.rec"
 eight
 two
 six
@@ -8937,7 +8937,7 @@ three
 seven
 four
 .
-"tst/m/ia/895122z.lab"
+"tst/m/ia/895122z.rec"
 eight
 nine
 five
@@ -8946,7 +8946,7 @@ two
 two
 zero
 .
-"tst/m/ia/o238773.lab"
+"tst/m/ia/o238773.rec"
 oh
 two
 three
@@ -8955,7 +8955,7 @@ seven
 seven
 three
 .
-"tst/m/ib/169o8o7.lab"
+"tst/m/ib/169o8o7.rec"
 one
 six
 nine
@@ -8964,7 +8964,7 @@ eight
 oh
 seven
 .
-"tst/m/ib/17291o2.lab"
+"tst/m/ib/17291o2.rec"
 one
 seven
 two
@@ -8973,7 +8973,7 @@ one
 oh
 two
 .
-"tst/m/ib/21463o1.lab"
+"tst/m/ib/21463o1.rec"
 two
 one
 four
@@ -8982,7 +8982,7 @@ three
 oh
 one
 .
-"tst/m/ib/2z5zz84.lab"
+"tst/m/ib/2z5zz84.rec"
 two
 zero
 five
@@ -8991,7 +8991,7 @@ zero
 eight
 four
 .
-"tst/m/ib/39zz285.lab"
+"tst/m/ib/39zz285.rec"
 three
 nine
 zero
@@ -9000,7 +9000,7 @@ two
 eight
 five
 .
-"tst/m/ib/61547o6.lab"
+"tst/m/ib/61547o6.rec"
 six
 one
 five
@@ -9009,7 +9009,7 @@ seven
 oh
 six
 .
-"tst/m/ib/68748oo.lab"
+"tst/m/ib/68748oo.rec"
 six
 eight
 seven
@@ -9018,7 +9018,7 @@ eight
 oh
 oh
 .
-"tst/m/ib/73789oo.lab"
+"tst/m/ib/73789oo.rec"
 seven
 three
 seven
@@ -9027,7 +9027,7 @@ nine
 oh
 oh
 .
-"tst/m/ib/o234399.lab"
+"tst/m/ib/o234399.rec"
 oh
 two
 three
@@ -9036,7 +9036,7 @@ three
 nine
 nine
 .
-"tst/m/ib/z3z4zz2.lab"
+"tst/m/ib/z3z4zz2.rec"
 zero
 three
 zero
@@ -9045,7 +9045,7 @@ zero
 zero
 two
 .
-"tst/m/ib/z542z16.lab"
+"tst/m/ib/z542z16.rec"
 zero
 five
 four
@@ -9054,7 +9054,7 @@ zero
 one
 six
 .
-"tst/m/im/1294859.lab"
+"tst/m/im/1294859.rec"
 one
 two
 nine
@@ -9063,7 +9063,7 @@ eight
 five
 nine
 .
-"tst/m/im/174o476.lab"
+"tst/m/im/174o476.rec"
 one
 seven
 four
@@ -9072,7 +9072,7 @@ four
 seven
 six
 .
-"tst/m/im/49z93z2.lab"
+"tst/m/im/49z93z2.rec"
 four
 nine
 zero
@@ -9081,7 +9081,7 @@ three
 zero
 two
 .
-"tst/m/im/521o7o3.lab"
+"tst/m/im/521o7o3.rec"
 five
 two
 one
@@ -9090,7 +9090,7 @@ seven
 oh
 three
 .
-"tst/m/im/651144z.lab"
+"tst/m/im/651144z.rec"
 six
 five
 one
@@ -9099,7 +9099,7 @@ four
 four
 zero
 .
-"tst/m/im/8332o39.lab"
+"tst/m/im/8332o39.rec"
 eight
 three
 three
@@ -9109,7 +9109,7 @@ three
 nine
 oh
 .
-"tst/m/im/8541z13.lab"
+"tst/m/im/8541z13.rec"
 eight
 five
 four
@@ -9118,7 +9118,7 @@ zero
 one
 three
 .
-"tst/m/im/88o9o61.lab"
+"tst/m/im/88o9o61.rec"
 eight
 eight
 oh
@@ -9127,7 +9127,7 @@ oh
 six
 one
 .
-"tst/m/im/979835z.lab"
+"tst/m/im/979835z.rec"
 nine
 seven
 nine
@@ -9136,7 +9136,7 @@ three
 five
 zero
 .
-"tst/m/im/o279515.lab"
+"tst/m/im/o279515.rec"
 oh
 two
 seven
@@ -9145,7 +9145,7 @@ five
 one
 five
 .
-"tst/m/im/z431181.lab"
+"tst/m/im/z431181.rec"
 zero
 four
 three
@@ -9154,7 +9154,7 @@ one
 eight
 one
 .
-"tst/m/ip/1867z65.lab"
+"tst/m/ip/1867z65.rec"
 one
 eight
 six
@@ -9163,7 +9163,7 @@ zero
 six
 five
 .
-"tst/m/ip/1z69911.lab"
+"tst/m/ip/1z69911.rec"
 one
 zero
 six
@@ -9172,7 +9172,7 @@ nine
 one
 one
 .
-"tst/m/ip/255647z.lab"
+"tst/m/ip/255647z.rec"
 two
 five
 five
@@ -9181,7 +9181,7 @@ four
 seven
 zero
 .
-"tst/m/ip/28826z4.lab"
+"tst/m/ip/28826z4.rec"
 eight
 eight
 two
@@ -9190,7 +9190,7 @@ zero
 four
 oh
 .
-"tst/m/ip/3818782.lab"
+"tst/m/ip/3818782.rec"
 three
 eight
 one
@@ -9200,7 +9200,7 @@ eight
 two
 oh
 .
-"tst/m/ip/422z373.lab"
+"tst/m/ip/422z373.rec"
 four
 two
 two
@@ -9209,7 +9209,7 @@ three
 seven
 three
 .
-"tst/m/ip/5724o29.lab"
+"tst/m/ip/5724o29.rec"
 five
 seven
 two
@@ -9219,7 +9219,7 @@ two
 nine
 oh
 .
-"tst/m/ip/7789719.lab"
+"tst/m/ip/7789719.rec"
 seven
 seven
 eight
@@ -9228,7 +9228,7 @@ seven
 one
 nine
 .
-"tst/m/ip/9652754.lab"
+"tst/m/ip/9652754.rec"
 nine
 six
 five
@@ -9237,7 +9237,7 @@ seven
 five
 four
 .
-"tst/m/ip/o76644o.lab"
+"tst/m/ip/o76644o.rec"
 oh
 seven
 six
@@ -9246,7 +9246,7 @@ four
 four
 oh
 .
-"tst/m/ip/o933o29.lab"
+"tst/m/ip/o933o29.rec"
 oh
 nine
 three
@@ -9255,7 +9255,7 @@ oh
 two
 nine
 .
-"tst/m/ja/1866331.lab"
+"tst/m/ja/1866331.rec"
 one
 eight
 six
@@ -9265,7 +9265,7 @@ three
 oh
 one
 .
-"tst/m/ja/2271oo3.lab"
+"tst/m/ja/2271oo3.rec"
 two
 two
 seven
@@ -9274,7 +9274,7 @@ oh
 oh
 three
 .
-"tst/m/ja/4o75o57.lab"
+"tst/m/ja/4o75o57.rec"
 four
 oh
 seven
@@ -9283,7 +9283,7 @@ oh
 five
 seven
 .
-"tst/m/ja/53527o9.lab"
+"tst/m/ja/53527o9.rec"
 five
 three
 five
@@ -9292,7 +9292,7 @@ seven
 oh
 nine
 .
-"tst/m/ja/77z2zz6.lab"
+"tst/m/ja/77z2zz6.rec"
 seven
 seven
 zero
@@ -9301,7 +9301,7 @@ zero
 zero
 six
 .
-"tst/m/ja/7881298.lab"
+"tst/m/ja/7881298.rec"
 seven
 eight
 eight
@@ -9310,7 +9310,7 @@ two
 nine
 eight
 .
-"tst/m/ja/7958314.lab"
+"tst/m/ja/7958314.rec"
 seven
 nine
 five
@@ -9320,7 +9320,7 @@ one
 four
 oh
 .
-"tst/m/ja/8157739.lab"
+"tst/m/ja/8157739.rec"
 eight
 one
 five
@@ -9329,7 +9329,7 @@ seven
 three
 nine
 .
-"tst/m/ja/8936233.lab"
+"tst/m/ja/8936233.rec"
 eight
 nine
 three
@@ -9338,7 +9338,7 @@ two
 three
 three
 .
-"tst/m/ja/o28216o.lab"
+"tst/m/ja/o28216o.rec"
 oh
 two
 eight
@@ -9347,7 +9347,7 @@ one
 six
 oh
 .
-"tst/m/ja/oo6o399.lab"
+"tst/m/ja/oo6o399.rec"
 oh
 oh
 six
@@ -9356,7 +9356,7 @@ three
 nine
 nine
 .
-"tst/m/jh/1335oo5.lab"
+"tst/m/jh/1335oo5.rec"
 one
 three
 three
@@ -9365,7 +9365,7 @@ oh
 oh
 five
 .
-"tst/m/jh/239o392.lab"
+"tst/m/jh/239o392.rec"
 two
 three
 nine
@@ -9374,7 +9374,7 @@ three
 nine
 two
 .
-"tst/m/jh/3186615.lab"
+"tst/m/jh/3186615.rec"
 three
 one
 eight
@@ -9383,7 +9383,7 @@ six
 one
 five
 .
-"tst/m/jh/5212788.lab"
+"tst/m/jh/5212788.rec"
 five
 two
 one
@@ -9393,7 +9393,7 @@ eight
 eight
 oh
 .
-"tst/m/jh/741z3zz.lab"
+"tst/m/jh/741z3zz.rec"
 seven
 four
 one
@@ -9403,7 +9403,7 @@ zero
 zero
 oh
 .
-"tst/m/jh/76o8518.lab"
+"tst/m/jh/76o8518.rec"
 seven
 six
 oh
@@ -9412,7 +9412,7 @@ five
 one
 eight
 .
-"tst/m/jh/8317494.lab"
+"tst/m/jh/8317494.rec"
 eight
 three
 one
@@ -9421,7 +9421,7 @@ four
 nine
 four
 .
-"tst/m/jh/8z54z64.lab"
+"tst/m/jh/8z54z64.rec"
 eight
 zero
 five
@@ -9430,7 +9430,7 @@ zero
 six
 four
 .
-"tst/m/jh/z455293.lab"
+"tst/m/jh/z455293.rec"
 zero
 four
 five
@@ -9439,7 +9439,7 @@ two
 nine
 three
 .
-"tst/m/jh/z7zz465.lab"
+"tst/m/jh/z7zz465.rec"
 zero
 one
 seven
@@ -9449,7 +9449,7 @@ four
 six
 five
 .
-"tst/m/jh/z8z2z17.lab"
+"tst/m/jh/z8z2z17.rec"
 zero
 eight
 zero
@@ -9458,7 +9458,7 @@ zero
 one
 seven
 .
-"tst/m/ka/11o87oo.lab"
+"tst/m/ka/11o87oo.rec"
 one
 one
 oh
@@ -9467,7 +9467,7 @@ seven
 oh
 oh
 .
-"tst/m/ka/235o4o3.lab"
+"tst/m/ka/235o4o3.rec"
 two
 three
 five
@@ -9477,7 +9477,7 @@ oh
 oh
 three
 .
-"tst/m/ka/5815418.lab"
+"tst/m/ka/5815418.rec"
 five
 eight
 one
@@ -9487,7 +9487,7 @@ oh
 one
 eight
 .
-"tst/m/ka/64o9451.lab"
+"tst/m/ka/64o9451.rec"
 six
 four
 oh
@@ -9497,7 +9497,7 @@ four
 five
 one
 .
-"tst/m/ka/65z123z.lab"
+"tst/m/ka/65z123z.rec"
 six
 five
 zero
@@ -9507,7 +9507,7 @@ two
 three
 zero
 .
-"tst/m/ka/739o498.lab"
+"tst/m/ka/739o498.rec"
 seven
 three
 nine
@@ -9516,7 +9516,7 @@ four
 nine
 eight
 .
-"tst/m/ka/7zzz9z6.lab"
+"tst/m/ka/7zzz9z6.rec"
 seven
 zero
 zero
@@ -9525,7 +9525,7 @@ nine
 zero
 six
 .
-"tst/m/ka/92o1648.lab"
+"tst/m/ka/92o1648.rec"
 nine
 two
 oh
@@ -9535,7 +9535,7 @@ six
 four
 eight
 .
-"tst/m/ka/o583552.lab"
+"tst/m/ka/o583552.rec"
 oh
 five
 eight
@@ -9545,7 +9545,7 @@ five
 two
 oh
 .
-"tst/m/ka/z279537.lab"
+"tst/m/ka/z279537.rec"
 zero
 two
 seven
@@ -9554,7 +9554,7 @@ five
 three
 seven
 .
-"tst/m/ka/z48z436.lab"
+"tst/m/ka/z48z436.rec"
 zero
 four
 eight
@@ -9563,7 +9563,7 @@ four
 three
 six
 .
-"tst/m/ke/4zz345z.lab"
+"tst/m/ke/4zz345z.rec"
 four
 zero
 zero
@@ -9572,7 +9572,7 @@ four
 five
 zero
 .
-"tst/m/ke/57oo9o3.lab"
+"tst/m/ke/57oo9o3.rec"
 five
 seven
 oh
@@ -9581,7 +9581,7 @@ nine
 oh
 three
 .
-"tst/m/ke/689z786.lab"
+"tst/m/ke/689z786.rec"
 six
 eight
 nine
@@ -9590,7 +9590,7 @@ seven
 eight
 six
 .
-"tst/m/ke/7286z43.lab"
+"tst/m/ke/7286z43.rec"
 seven
 two
 oh
@@ -9600,7 +9600,7 @@ zero
 four
 three
 .
-"tst/m/ke/76z8742.lab"
+"tst/m/ke/76z8742.rec"
 seven
 six
 zero
@@ -9610,7 +9610,7 @@ four
 two
 oh
 .
-"tst/m/ke/82z5z2z.lab"
+"tst/m/ke/82z5z2z.rec"
 eight
 two
 zero
@@ -9619,7 +9619,7 @@ zero
 two
 zero
 .
-"tst/m/ke/9321696.lab"
+"tst/m/ke/9321696.rec"
 nine
 three
 two
@@ -9628,7 +9628,7 @@ six
 nine
 six
 .
-"tst/m/ke/9o53748.lab"
+"tst/m/ke/9o53748.rec"
 nine
 oh
 five
@@ -9637,7 +9637,7 @@ seven
 four
 eight
 .
-"tst/m/ke/oo63o36.lab"
+"tst/m/ke/oo63o36.rec"
 oh
 oh
 six
@@ -9646,7 +9646,7 @@ oh
 three
 six
 .
-"tst/m/ke/z118131.lab"
+"tst/m/ke/z118131.rec"
 zero
 one
 one
@@ -9655,7 +9655,7 @@ one
 three
 one
 .
-"tst/m/ke/zz92873.lab"
+"tst/m/ke/zz92873.rec"
 zero
 zero
 nine
@@ -9665,7 +9665,7 @@ eight
 seven
 three
 .
-"tst/m/kg/1516561.lab"
+"tst/m/kg/1516561.rec"
 one
 five
 one
@@ -9674,7 +9674,7 @@ five
 six
 one
 .
-"tst/m/kg/18432zz.lab"
+"tst/m/kg/18432zz.rec"
 one
 eight
 four
@@ -9683,7 +9683,7 @@ two
 zero
 zero
 .
-"tst/m/kg/2534681.lab"
+"tst/m/kg/2534681.rec"
 two
 five
 three
@@ -9692,7 +9692,7 @@ six
 eight
 one
 .
-"tst/m/kg/487o9o5.lab"
+"tst/m/kg/487o9o5.rec"
 four
 eight
 seven
@@ -9701,7 +9701,7 @@ nine
 oh
 five
 .
-"tst/m/kg/5598z43.lab"
+"tst/m/kg/5598z43.rec"
 five
 five
 nine
@@ -9711,7 +9711,7 @@ four
 three
 oh
 .
-"tst/m/kg/677884z.lab"
+"tst/m/kg/677884z.rec"
 six
 seven
 seven
@@ -9720,7 +9720,7 @@ eight
 four
 zero
 .
-"tst/m/kg/6z92874.lab"
+"tst/m/kg/6z92874.rec"
 six
 zero
 nine
@@ -9729,7 +9729,7 @@ eight
 seven
 four
 .
-"tst/m/kg/71z6368.lab"
+"tst/m/kg/71z6368.rec"
 seven
 one
 zero
@@ -9739,7 +9739,7 @@ six
 eight
 oh
 .
-"tst/m/kg/8336o8o.lab"
+"tst/m/kg/8336o8o.rec"
 eight
 three
 three
@@ -9748,7 +9748,7 @@ oh
 eight
 oh
 .
-"tst/m/kg/9447278.lab"
+"tst/m/kg/9447278.rec"
 nine
 four
 four
@@ -9757,7 +9757,7 @@ two
 seven
 eight
 .
-"tst/m/kg/z297631.lab"
+"tst/m/kg/z297631.rec"
 zero
 two
 nine
@@ -9766,7 +9766,7 @@ six
 three
 one
 .
-"tst/m/le/161458z.lab"
+"tst/m/le/161458z.rec"
 one
 six
 one
@@ -9775,7 +9775,7 @@ five
 eight
 zero
 .
-"tst/m/le/1z71842.lab"
+"tst/m/le/1z71842.rec"
 one
 zero
 seven
@@ -9784,7 +9784,7 @@ eight
 four
 two
 .
-"tst/m/le/3548262.lab"
+"tst/m/le/3548262.rec"
 two
 five
 four
@@ -9794,7 +9794,7 @@ six
 two
 oh
 .
-"tst/m/le/42zz117.lab"
+"tst/m/le/42zz117.rec"
 four
 two
 zero
@@ -9803,7 +9803,7 @@ one
 one
 seven
 .
-"tst/m/le/5212o76.lab"
+"tst/m/le/5212o76.rec"
 five
 two
 one
@@ -9812,7 +9812,7 @@ oh
 seven
 six
 .
-"tst/m/le/527724z.lab"
+"tst/m/le/527724z.rec"
 five
 two
 seven
@@ -9821,7 +9821,7 @@ two
 four
 zero
 .
-"tst/m/le/643o25o.lab"
+"tst/m/le/643o25o.rec"
 six
 four
 three
@@ -9831,7 +9831,7 @@ five
 oh
 oh
 .
-"tst/m/le/6687744.lab"
+"tst/m/le/6687744.rec"
 six
 six
 oh
@@ -9841,7 +9841,7 @@ seven
 four
 four
 .
-"tst/m/le/823o899.lab"
+"tst/m/le/823o899.rec"
 eight
 two
 three
@@ -9850,7 +9850,7 @@ eight
 nine
 nine
 .
-"tst/m/le/8457o1o.lab"
+"tst/m/le/8457o1o.rec"
 eight
 four
 five
@@ -9859,7 +9859,7 @@ oh
 one
 oh
 .
-"tst/m/le/zz86981.lab"
+"tst/m/le/zz86981.rec"
 zero
 zero
 eight
@@ -9868,7 +9868,7 @@ nine
 eight
 one
 .
-"tst/m/lg/16z85z7.lab"
+"tst/m/lg/16z85z7.rec"
 one
 six
 zero
@@ -9877,7 +9877,7 @@ five
 zero
 seven
 .
-"tst/m/lg/1z48232.lab"
+"tst/m/lg/1z48232.rec"
 one
 zero
 four
@@ -9886,7 +9886,7 @@ two
 three
 two
 .
-"tst/m/lg/2oo78o1.lab"
+"tst/m/lg/2oo78o1.rec"
 oh
 oh
 seven
@@ -9895,7 +9895,7 @@ oh
 one
 oh
 .
-"tst/m/lg/347584o.lab"
+"tst/m/lg/347584o.rec"
 three
 four
 seven
@@ -9905,7 +9905,7 @@ four
 oh
 oh
 .
-"tst/m/lg/4398515.lab"
+"tst/m/lg/4398515.rec"
 four
 three
 nine
@@ -9914,7 +9914,7 @@ five
 one
 five
 .
-"tst/m/lg/5938423.lab"
+"tst/m/lg/5938423.rec"
 five
 nine
 three
@@ -9923,7 +9923,7 @@ four
 two
 three
 .
-"tst/m/lg/7279o38.lab"
+"tst/m/lg/7279o38.rec"
 seven
 two
 seven
@@ -9932,7 +9932,7 @@ oh
 three
 eight
 .
-"tst/m/lg/7z56932.lab"
+"tst/m/lg/7z56932.rec"
 seven
 zero
 five
@@ -9941,7 +9941,7 @@ nine
 three
 two
 .
-"tst/m/lg/8181oo3.lab"
+"tst/m/lg/8181oo3.rec"
 eight
 one
 eight
@@ -9951,7 +9951,7 @@ oh
 three
 oh
 .
-"tst/m/lg/8619126.lab"
+"tst/m/lg/8619126.rec"
 eight
 six
 one
@@ -9961,7 +9961,7 @@ one
 two
 six
 .
-"tst/m/lg/z363114.lab"
+"tst/m/lg/z363114.rec"
 zero
 three
 six
@@ -9970,7 +9970,7 @@ one
 one
 four
 .
-"tst/m/mi/1886646.lab"
+"tst/m/mi/1886646.rec"
 one
 eight
 eight
@@ -9979,7 +9979,7 @@ six
 four
 six
 .
-"tst/m/mi/3164819.lab"
+"tst/m/mi/3164819.rec"
 one
 six
 four
@@ -9987,7 +9987,7 @@ eight
 one
 nine
 .
-"tst/m/mi/4o13oo8.lab"
+"tst/m/mi/4o13oo8.rec"
 four
 oh
 one
@@ -9996,7 +9996,7 @@ oh
 oh
 eight
 .
-"tst/m/mi/52128o3.lab"
+"tst/m/mi/52128o3.rec"
 five
 two
 one
@@ -10005,7 +10005,7 @@ eight
 oh
 three
 .
-"tst/m/mi/62o96o4.lab"
+"tst/m/mi/62o96o4.rec"
 six
 two
 oh
@@ -10014,7 +10014,7 @@ six
 oh
 four
 .
-"tst/m/mi/7752762.lab"
+"tst/m/mi/7752762.rec"
 seven
 seven
 five
@@ -10024,7 +10024,7 @@ six
 two
 oh
 .
-"tst/m/mi/885358z.lab"
+"tst/m/mi/885358z.rec"
 eight
 five
 three
@@ -10032,7 +10032,7 @@ five
 eight
 zero
 .
-"tst/m/mi/8zz8184.lab"
+"tst/m/mi/8zz8184.rec"
 eight
 zero
 zero
@@ -10041,7 +10041,7 @@ one
 eight
 four
 .
-"tst/m/mi/9o413o1.lab"
+"tst/m/mi/9o413o1.rec"
 nine
 oh
 four
@@ -10050,7 +10050,7 @@ three
 oh
 one
 .
-"tst/m/mi/oo61487.lab"
+"tst/m/mi/oo61487.rec"
 oh
 oh
 six
@@ -10059,7 +10059,7 @@ four
 eight
 seven
 .
-"tst/m/mi/z933z95.lab"
+"tst/m/mi/z933z95.rec"
 zero
 nine
 three
@@ -10068,7 +10068,7 @@ zero
 nine
 five
 .
-"tst/m/nl/39zz369.lab"
+"tst/m/nl/39zz369.rec"
 nine
 zero
 zero
@@ -10076,7 +10076,7 @@ three
 six
 nine
 .
-"tst/m/nl/4425z91.lab"
+"tst/m/nl/4425z91.rec"
 four
 four
 two
@@ -10086,7 +10086,7 @@ zero
 nine
 one
 .
-"tst/m/nl/548365o.lab"
+"tst/m/nl/548365o.rec"
 five
 four
 eight
@@ -10096,7 +10096,7 @@ five
 oh
 oh
 .
-"tst/m/nl/624o7o9.lab"
+"tst/m/nl/624o7o9.rec"
 six
 two
 four
@@ -10105,7 +10105,7 @@ seven
 oh
 nine
 .
-"tst/m/nl/6492z68.lab"
+"tst/m/nl/6492z68.rec"
 six
 four
 nine
@@ -10114,7 +10114,7 @@ zero
 six
 eight
 .
-"tst/m/nl/6zz47z1.lab"
+"tst/m/nl/6zz47z1.rec"
 six
 zero
 zero
@@ -10123,7 +10123,7 @@ seven
 zero
 one
 .
-"tst/m/nl/7551322.lab"
+"tst/m/nl/7551322.rec"
 seven
 five
 five
@@ -10132,7 +10132,7 @@ three
 two
 two
 .
-"tst/m/nl/8569477.lab"
+"tst/m/nl/8569477.rec"
 eight
 five
 six
@@ -10141,7 +10141,7 @@ four
 seven
 seven
 .
-"tst/m/nl/9oo6o43.lab"
+"tst/m/nl/9oo6o43.rec"
 nine
 oh
 oh
@@ -10150,7 +10150,7 @@ oh
 four
 three
 .
-"tst/m/nl/z28z667.lab"
+"tst/m/nl/z28z667.rec"
 zero
 two
 eight
@@ -10159,7 +10159,7 @@ six
 six
 seven
 .
-"tst/m/nl/zz1523z.lab"
+"tst/m/nl/zz1523z.rec"
 zero
 zero
 one
@@ -10168,7 +10168,7 @@ two
 three
 zero
 .
-"tst/m/np/1177671.lab"
+"tst/m/np/1177671.rec"
 one
 one
 seven
@@ -10177,7 +10177,7 @@ six
 seven
 one
 .
-"tst/m/np/2496z88.lab"
+"tst/m/np/2496z88.rec"
 two
 four
 nine
@@ -10186,7 +10186,7 @@ zero
 eight
 eight
 .
-"tst/m/np/512z925.lab"
+"tst/m/np/512z925.rec"
 five
 one
 two
@@ -10195,7 +10195,7 @@ nine
 two
 five
 .
-"tst/m/np/57o7659.lab"
+"tst/m/np/57o7659.rec"
 five
 seven
 oh
@@ -10204,7 +10204,7 @@ six
 five
 nine
 .
-"tst/m/np/617oo52.lab"
+"tst/m/np/617oo52.rec"
 six
 one
 seven
@@ -10214,7 +10214,7 @@ five
 two
 oh
 .
-"tst/m/np/655632o.lab"
+"tst/m/np/655632o.rec"
 six
 five
 five
@@ -10223,7 +10223,7 @@ three
 two
 oh
 .
-"tst/m/np/675597z.lab"
+"tst/m/np/675597z.rec"
 six
 seven
 five
@@ -10232,7 +10232,7 @@ nine
 seven
 zero
 .
-"tst/m/np/8169zz8.lab"
+"tst/m/np/8169zz8.rec"
 eight
 one
 six
@@ -10241,7 +10241,7 @@ zero
 zero
 eight
 .
-"tst/m/np/913z54z.lab"
+"tst/m/np/913z54z.rec"
 nine
 one
 three
@@ -10250,7 +10250,7 @@ five
 four
 zero
 .
-"tst/m/np/z263531.lab"
+"tst/m/np/z263531.rec"
 zero
 two
 six
@@ -10259,7 +10259,7 @@ five
 three
 one
 .
-"tst/m/np/z48z284.lab"
+"tst/m/np/z48z284.rec"
 zero
 four
 eight
@@ -10268,7 +10268,7 @@ two
 eight
 four
 .
-"tst/m/nt/1o13126.lab"
+"tst/m/nt/1o13126.rec"
 one
 oh
 one
@@ -10277,7 +10277,7 @@ one
 two
 six
 .
-"tst/m/nt/2441617.lab"
+"tst/m/nt/2441617.rec"
 two
 four
 four
@@ -10286,7 +10286,7 @@ six
 one
 seven
 .
-"tst/m/nt/3976983.lab"
+"tst/m/nt/3976983.rec"
 three
 nine
 seven
@@ -10296,7 +10296,7 @@ eight
 three
 oh
 .
-"tst/m/nt/429z612.lab"
+"tst/m/nt/429z612.rec"
 four
 two
 nine
@@ -10305,7 +10305,7 @@ six
 one
 two
 .
-"tst/m/nt/5318521.lab"
+"tst/m/nt/5318521.rec"
 five
 three
 one
@@ -10314,7 +10314,7 @@ five
 two
 one
 .
-"tst/m/nt/58o6737.lab"
+"tst/m/nt/58o6737.rec"
 five
 eight
 oh
@@ -10323,7 +10323,7 @@ seven
 three
 seven
 .
-"tst/m/nt/685o882.lab"
+"tst/m/nt/685o882.rec"
 six
 eight
 five
@@ -10332,7 +10332,7 @@ eight
 eight
 two
 .
-"tst/m/nt/6z554z8.lab"
+"tst/m/nt/6z554z8.rec"
 six
 zero
 five
@@ -10341,7 +10341,7 @@ four
 zero
 eight
 .
-"tst/m/nt/82z2zz9.lab"
+"tst/m/nt/82z2zz9.rec"
 eight
 two
 zero
@@ -10350,7 +10350,7 @@ zero
 zero
 nine
 .
-"tst/m/nt/98z76z8.lab"
+"tst/m/nt/98z76z8.rec"
 nine
 eight
 zero
@@ -10359,7 +10359,7 @@ six
 zero
 eight
 .
-"tst/m/nt/z477966.lab"
+"tst/m/nt/z477966.rec"
 zero
 four
 seven
@@ -10368,7 +10368,7 @@ nine
 six
 six
 .
-"tst/m/pc/18o2o65.lab"
+"tst/m/pc/18o2o65.rec"
 one
 eight
 oh
@@ -10377,7 +10377,7 @@ oh
 six
 five
 .
-"tst/m/pc/211o889.lab"
+"tst/m/pc/211o889.rec"
 two
 one
 one
@@ -10386,7 +10386,7 @@ eight
 eight
 nine
 .
-"tst/m/pc/247348z.lab"
+"tst/m/pc/247348z.rec"
 two
 four
 seven
@@ -10395,7 +10395,7 @@ four
 eight
 zero
 .
-"tst/m/pc/526883z.lab"
+"tst/m/pc/526883z.rec"
 five
 two
 six
@@ -10404,7 +10404,7 @@ eight
 three
 zero
 .
-"tst/m/pc/617581z.lab"
+"tst/m/pc/617581z.rec"
 six
 one
 seven
@@ -10413,7 +10413,7 @@ eight
 one
 zero
 .
-"tst/m/pc/6773238.lab"
+"tst/m/pc/6773238.rec"
 six
 seven
 seven
@@ -10422,7 +10422,7 @@ two
 three
 eight
 .
-"tst/m/pc/6o55ooo.lab"
+"tst/m/pc/6o55ooo.rec"
 six
 oh
 five
@@ -10431,7 +10431,7 @@ oh
 oh
 oh
 .
-"tst/m/pc/7865446.lab"
+"tst/m/pc/7865446.rec"
 seven
 eight
 six
@@ -10440,7 +10440,7 @@ four
 four
 six
 .
-"tst/m/pc/8927z66.lab"
+"tst/m/pc/8927z66.rec"
 eight
 nine
 two
@@ -10449,7 +10449,7 @@ zero
 six
 six
 .
-"tst/m/pc/91756z8.lab"
+"tst/m/pc/91756z8.rec"
 nine
 one
 seven
@@ -10458,7 +10458,7 @@ six
 zero
 eight
 .
-"tst/m/pc/zz2z991.lab"
+"tst/m/pc/zz2z991.rec"
 zero
 zero
 two
@@ -10468,7 +10468,7 @@ nine
 one
 oh
 .
-"tst/m/pg/1398275.lab"
+"tst/m/pg/1398275.rec"
 one
 eight
 three
@@ -10478,7 +10478,7 @@ two
 seven
 five
 .
-"tst/m/pg/1z61495.lab"
+"tst/m/pg/1z61495.rec"
 one
 eight
 zero
@@ -10488,7 +10488,7 @@ four
 nine
 five
 .
-"tst/m/pg/2143332.lab"
+"tst/m/pg/2143332.rec"
 two
 one
 four
@@ -10497,7 +10497,7 @@ three
 three
 two
 .
-"tst/m/pg/2181559.lab"
+"tst/m/pg/2181559.rec"
 two
 one
 eight
@@ -10506,7 +10506,7 @@ five
 five
 nine
 .
-"tst/m/pg/2858323.lab"
+"tst/m/pg/2858323.rec"
 two
 oh
 eight
@@ -10517,7 +10517,7 @@ two
 three
 oh
 .
-"tst/m/pg/3z78z54.lab"
+"tst/m/pg/3z78z54.rec"
 three
 zero
 seven
@@ -10527,7 +10527,7 @@ zero
 five
 four
 .
-"tst/m/pg/4731o52.lab"
+"tst/m/pg/4731o52.rec"
 four
 seven
 three
@@ -10537,7 +10537,7 @@ five
 two
 oh
 .
-"tst/m/pg/488472z.lab"
+"tst/m/pg/488472z.rec"
 four
 eight
 eight
@@ -10546,7 +10546,7 @@ seven
 two
 zero
 .
-"tst/m/pg/652586o.lab"
+"tst/m/pg/652586o.rec"
 six
 five
 two
@@ -10555,7 +10555,7 @@ eight
 six
 oh
 .
-"tst/m/pg/9o1o299.lab"
+"tst/m/pg/9o1o299.rec"
 nine
 oh
 nine
@@ -10564,7 +10564,7 @@ two
 nine
 nine
 .
-"tst/m/pg/o974535.lab"
+"tst/m/pg/o974535.rec"
 oh
 nine
 seven
@@ -10573,7 +10573,7 @@ five
 three
 five
 .
-"tst/m/ph/132o678.lab"
+"tst/m/ph/132o678.rec"
 one
 three
 two
@@ -10582,7 +10582,7 @@ six
 seven
 eight
 .
-"tst/m/ph/2662zz6.lab"
+"tst/m/ph/2662zz6.rec"
 two
 six
 six
@@ -10591,7 +10591,7 @@ zero
 zero
 six
 .
-"tst/m/ph/491896o.lab"
+"tst/m/ph/491896o.rec"
 four
 nine
 one
@@ -10600,7 +10600,7 @@ nine
 six
 oh
 .
-"tst/m/ph/5237595.lab"
+"tst/m/ph/5237595.rec"
 five
 two
 three
@@ -10609,7 +10609,7 @@ five
 nine
 five
 .
-"tst/m/ph/58z3745.lab"
+"tst/m/ph/58z3745.rec"
 five
 eight
 zero
@@ -10618,7 +10618,7 @@ seven
 four
 five
 .
-"tst/m/ph/6721o86.lab"
+"tst/m/ph/6721o86.rec"
 six
 seven
 two
@@ -10627,7 +10627,7 @@ oh
 eight
 six
 .
-"tst/m/ph/7o914o3.lab"
+"tst/m/ph/7o914o3.rec"
 seven
 oh
 nine
@@ -10636,7 +10636,7 @@ four
 oh
 three
 .
-"tst/m/ph/8424628.lab"
+"tst/m/ph/8424628.rec"
 eight
 four
 two
@@ -10645,7 +10645,7 @@ six
 two
 eight
 .
-"tst/m/ph/o15oo64.lab"
+"tst/m/ph/o15oo64.rec"
 oh
 one
 five
@@ -10654,7 +10654,7 @@ six
 four
 oh
 .
-"tst/m/ph/o542361.lab"
+"tst/m/ph/o542361.rec"
 oh
 five
 four
@@ -10663,7 +10663,7 @@ three
 six
 one
 .
-"tst/m/ph/z9z54z3.lab"
+"tst/m/ph/z9z54z3.rec"
 zero
 nine
 zero
@@ -10672,7 +10672,7 @@ four
 zero
 three
 .
-"tst/m/pr/3113z64.lab"
+"tst/m/pr/3113z64.rec"
 three
 one
 one
@@ -10681,7 +10681,7 @@ zero
 six
 four
 .
-"tst/m/pr/3784956.lab"
+"tst/m/pr/3784956.rec"
 three
 seven
 eight
@@ -10690,7 +10690,7 @@ nine
 five
 six
 .
-"tst/m/pr/3o17519.lab"
+"tst/m/pr/3o17519.rec"
 three
 oh
 one
@@ -10699,7 +10699,7 @@ five
 one
 nine
 .
-"tst/m/pr/479994o.lab"
+"tst/m/pr/479994o.rec"
 four
 seven
 nine
@@ -10708,7 +10708,7 @@ nine
 four
 oh
 .
-"tst/m/pr/5z22776.lab"
+"tst/m/pr/5z22776.rec"
 five
 zero
 two
@@ -10717,7 +10717,7 @@ seven
 seven
 six
 .
-"tst/m/pr/5z5539z.lab"
+"tst/m/pr/5z5539z.rec"
 five
 zero
 five
@@ -10726,7 +10726,7 @@ three
 nine
 zero
 .
-"tst/m/pr/829z898.lab"
+"tst/m/pr/829z898.rec"
 eight
 two
 nine
@@ -10735,7 +10735,7 @@ eight
 nine
 eight
 .
-"tst/m/pr/89343oo.lab"
+"tst/m/pr/89343oo.rec"
 eight
 nine
 three
@@ -10744,7 +10744,7 @@ three
 oh
 oh
 .
-"tst/m/pr/o635885.lab"
+"tst/m/pr/o635885.rec"
 oh
 six
 three
@@ -10753,7 +10753,7 @@ eight
 eight
 five
 .
-"tst/m/pr/o8o3415.lab"
+"tst/m/pr/o8o3415.rec"
 oh
 eight
 oh
@@ -10762,7 +10762,7 @@ four
 one
 five
 .
-"tst/m/pr/z418874.lab"
+"tst/m/pr/z418874.rec"
 zero
 four
 one
@@ -10771,7 +10771,7 @@ eight
 seven
 four
 .
-"tst/m/rk/1819958.lab"
+"tst/m/rk/1819958.rec"
 one
 eight
 one
@@ -10780,7 +10780,7 @@ nine
 five
 eight
 .
-"tst/m/rk/213z1zz.lab"
+"tst/m/rk/213z1zz.rec"
 one
 three
 zero
@@ -10788,7 +10788,7 @@ one
 zero
 zero
 .
-"tst/m/rk/283759o.lab"
+"tst/m/rk/283759o.rec"
 two
 eight
 three
@@ -10797,7 +10797,7 @@ five
 nine
 oh
 .
-"tst/m/rk/336o198.lab"
+"tst/m/rk/336o198.rec"
 three
 three
 six
@@ -10806,7 +10806,7 @@ one
 nine
 eight
 .
-"tst/m/rk/388943o.lab"
+"tst/m/rk/388943o.rec"
 three
 eight
 eight
@@ -10815,7 +10815,7 @@ four
 three
 oh
 .
-"tst/m/rk/5617439.lab"
+"tst/m/rk/5617439.rec"
 five
 six
 one
@@ -10824,7 +10824,7 @@ four
 three
 nine
 .
-"tst/m/rk/5o4o98o.lab"
+"tst/m/rk/5o4o98o.rec"
 five
 oh
 four
@@ -10834,7 +10834,7 @@ eight
 oh
 oh
 .
-"tst/m/rk/72o445o.lab"
+"tst/m/rk/72o445o.rec"
 seven
 two
 oh
@@ -10843,7 +10843,7 @@ four
 five
 oh
 .
-"tst/m/rk/816z325.lab"
+"tst/m/rk/816z325.rec"
 eight
 one
 six
@@ -10852,7 +10852,7 @@ three
 two
 five
 .
-"tst/m/rk/872582o.lab"
+"tst/m/rk/872582o.rec"
 eight
 seven
 two
@@ -10861,7 +10861,7 @@ eight
 two
 oh
 .
-"tst/m/rk/z41178z.lab"
+"tst/m/rk/z41178z.rec"
 zero
 four
 one
@@ -10870,7 +10870,7 @@ seven
 eight
 zero
 .
-"tst/m/sa/113z1z8.lab"
+"tst/m/sa/113z1z8.rec"
 one
 oh
 one
@@ -10880,7 +10880,7 @@ one
 zero
 eight
 .
-"tst/m/sa/21879z9.lab"
+"tst/m/sa/21879z9.rec"
 two
 one
 eight
@@ -10889,7 +10889,7 @@ nine
 zero
 nine
 .
-"tst/m/sa/238z54z.lab"
+"tst/m/sa/238z54z.rec"
 two
 three
 eight
@@ -10898,7 +10898,7 @@ five
 four
 zero
 .
-"tst/m/sa/44oo942.lab"
+"tst/m/sa/44oo942.rec"
 four
 four
 oh
@@ -10907,7 +10907,7 @@ nine
 four
 two
 .
-"tst/m/sa/5674683.lab"
+"tst/m/sa/5674683.rec"
 five
 six
 seven
@@ -10916,7 +10916,7 @@ six
 eight
 three
 .
-"tst/m/sa/7265889.lab"
+"tst/m/sa/7265889.rec"
 seven
 two
 six
@@ -10925,7 +10925,7 @@ eight
 eight
 nine
 .
-"tst/m/sa/96o2422.lab"
+"tst/m/sa/96o2422.rec"
 nine
 six
 oh
@@ -10934,7 +10934,7 @@ four
 two
 two
 .
-"tst/m/sa/o712492.lab"
+"tst/m/sa/o712492.rec"
 oh
 seven
 one
@@ -10943,7 +10943,7 @@ four
 nine
 two
 .
-"tst/m/sa/o8619o9.lab"
+"tst/m/sa/o8619o9.rec"
 oh
 eight
 six
@@ -10952,7 +10952,7 @@ nine
 oh
 nine
 .
-"tst/m/sa/z16135z.lab"
+"tst/m/sa/z16135z.rec"
 zero
 one
 six
@@ -10961,7 +10961,7 @@ three
 five
 zero
 .
-"tst/m/sa/z366625.lab"
+"tst/m/sa/z366625.rec"
 zero
 three
 six
@@ -10970,7 +10970,7 @@ six
 two
 five
 .
-"tst/m/sl/14552z3.lab"
+"tst/m/sl/14552z3.rec"
 one
 four
 five
@@ -10979,7 +10979,7 @@ two
 zero
 three
 .
-"tst/m/sl/1728864.lab"
+"tst/m/sl/1728864.rec"
 one
 seven
 two
@@ -10988,7 +10988,7 @@ eight
 six
 four
 .
-"tst/m/sl/214o937.lab"
+"tst/m/sl/214o937.rec"
 two
 one
 four
@@ -10997,7 +10997,7 @@ nine
 three
 seven
 .
-"tst/m/sl/2551256.lab"
+"tst/m/sl/2551256.rec"
 two
 five
 five
@@ -11006,7 +11006,7 @@ two
 five
 six
 .
-"tst/m/sl/4175851.lab"
+"tst/m/sl/4175851.rec"
 four
 oh
 one
@@ -11016,7 +11016,7 @@ eight
 five
 one
 .
-"tst/m/sl/5z878z4.lab"
+"tst/m/sl/5z878z4.rec"
 five
 zero
 eight
@@ -11025,7 +11025,7 @@ eight
 zero
 four
 .
-"tst/m/sl/644z2z3.lab"
+"tst/m/sl/644z2z3.rec"
 six
 four
 four
@@ -11034,7 +11034,7 @@ two
 zero
 three
 .
-"tst/m/sl/9o62471.lab"
+"tst/m/sl/9o62471.rec"
 nine
 oh
 six
@@ -11043,7 +11043,7 @@ four
 seven
 one
 .
-"tst/m/sl/o16815o.lab"
+"tst/m/sl/o16815o.rec"
 oh
 one
 six
@@ -11052,7 +11052,7 @@ one
 five
 oh
 .
-"tst/m/sl/ooo6o56.lab"
+"tst/m/sl/ooo6o56.rec"
 oh
 oh
 oh
@@ -11061,7 +11061,7 @@ oh
 five
 six
 .
-"tst/m/sl/z9z1z5z.lab"
+"tst/m/sl/z9z1z5z.rec"
 zero
 nine
 zero
@@ -11070,7 +11070,7 @@ zero
 five
 zero
 .
-"tst/m/sr/1633z82.lab"
+"tst/m/sr/1633z82.rec"
 one
 six
 three
@@ -11079,7 +11079,7 @@ zero
 eight
 two
 .
-"tst/m/sr/2746z79.lab"
+"tst/m/sr/2746z79.rec"
 seven
 four
 six
@@ -11087,7 +11087,7 @@ zero
 seven
 nine
 .
-"tst/m/sr/291o8oo.lab"
+"tst/m/sr/291o8oo.rec"
 two
 nine
 one
@@ -11096,7 +11096,7 @@ eight
 oh
 oh
 .
-"tst/m/sr/3261646.lab"
+"tst/m/sr/3261646.rec"
 three
 two
 six
@@ -11105,7 +11105,7 @@ six
 four
 six
 .
-"tst/m/sr/35869o5.lab"
+"tst/m/sr/35869o5.rec"
 three
 five
 eight
@@ -11114,7 +11114,7 @@ nine
 oh
 five
 .
-"tst/m/sr/3o87717.lab"
+"tst/m/sr/3o87717.rec"
 three
 oh
 eight
@@ -11123,7 +11123,7 @@ seven
 one
 seven
 .
-"tst/m/sr/4148oo7.lab"
+"tst/m/sr/4148oo7.rec"
 four
 one
 four
@@ -11133,7 +11133,7 @@ oh
 seven
 oh
 .
-"tst/m/sr/4724324.lab"
+"tst/m/sr/4724324.rec"
 four
 seven
 two
@@ -11142,7 +11142,7 @@ three
 two
 four
 .
-"tst/m/sr/6o12o97.lab"
+"tst/m/sr/6o12o97.rec"
 six
 oh
 one
@@ -11151,7 +11151,7 @@ oh
 nine
 seven
 .
-"tst/m/sr/75z3z97.lab"
+"tst/m/sr/75z3z97.rec"
 seven
 five
 zero
@@ -11160,7 +11160,7 @@ zero
 nine
 seven
 .
-"tst/m/sr/z483667.lab"
+"tst/m/sr/z483667.rec"
 zero
 four
 eight
@@ -11169,7 +11169,7 @@ six
 six
 seven
 .
-"tst/m/sw/1337zz5.lab"
+"tst/m/sw/1337zz5.rec"
 one
 three
 three
@@ -11178,7 +11178,7 @@ zero
 zero
 five
 .
-"tst/m/sw/1381246.lab"
+"tst/m/sw/1381246.rec"
 one
 three
 eight
@@ -11187,7 +11187,7 @@ two
 four
 six
 .
-"tst/m/sw/2oo659o.lab"
+"tst/m/sw/2oo659o.rec"
 two
 oh
 six
@@ -11195,7 +11195,7 @@ five
 nine
 oh
 .
-"tst/m/sw/319zz38.lab"
+"tst/m/sw/319zz38.rec"
 three
 one
 nine
@@ -11204,7 +11204,7 @@ zero
 three
 eight
 .
-"tst/m/sw/33263z9.lab"
+"tst/m/sw/33263z9.rec"
 three
 three
 two
@@ -11213,7 +11213,7 @@ three
 zero
 nine
 .
-"tst/m/sw/56o4247.lab"
+"tst/m/sw/56o4247.rec"
 five
 six
 oh
@@ -11222,7 +11222,7 @@ two
 four
 seven
 .
-"tst/m/sw/65491z2.lab"
+"tst/m/sw/65491z2.rec"
 six
 five
 four
@@ -11232,7 +11232,7 @@ zero
 two
 oh
 .
-"tst/m/sw/7o585o8.lab"
+"tst/m/sw/7o585o8.rec"
 seven
 oh
 five
@@ -11241,7 +11241,7 @@ five
 oh
 eight
 .
-"tst/m/sw/8989615.lab"
+"tst/m/sw/8989615.rec"
 eight
 nine
 eight
@@ -11250,7 +11250,7 @@ six
 one
 five
 .
-"tst/m/sw/918753o.lab"
+"tst/m/sw/918753o.rec"
 nine
 one
 eight
@@ -11260,7 +11260,7 @@ three
 oh
 oh
 .
-"tst/m/sw/9553936.lab"
+"tst/m/sw/9553936.rec"
 nine
 five
 five
@@ -11269,7 +11269,7 @@ nine
 three
 seven
 .
-"tst/m/tc/1474568.lab"
+"tst/m/tc/1474568.rec"
 one
 four
 seven
@@ -11278,7 +11278,7 @@ five
 six
 eight
 .
-"tst/m/tc/1743z44.lab"
+"tst/m/tc/1743z44.rec"
 one
 seven
 four
@@ -11287,7 +11287,7 @@ zero
 four
 four
 .
-"tst/m/tc/2521o7o.lab"
+"tst/m/tc/2521o7o.rec"
 two
 five
 two
@@ -11296,7 +11296,7 @@ oh
 seven
 oh
 .
-"tst/m/tc/265532o.lab"
+"tst/m/tc/265532o.rec"
 two
 six
 five
@@ -11305,7 +11305,7 @@ three
 two
 oh
 .
-"tst/m/tc/2895175.lab"
+"tst/m/tc/2895175.rec"
 two
 eight
 nine
@@ -11314,7 +11314,7 @@ one
 seven
 five
 .
-"tst/m/tc/4z3667z.lab"
+"tst/m/tc/4z3667z.rec"
 four
 zero
 three
@@ -11323,7 +11323,7 @@ six
 seven
 zero
 .
-"tst/m/tc/5233199.lab"
+"tst/m/tc/5233199.rec"
 five
 two
 three
@@ -11332,7 +11332,7 @@ one
 nine
 nine
 .
-"tst/m/tc/634o487.lab"
+"tst/m/tc/634o487.rec"
 six
 three
 four
@@ -11341,7 +11341,7 @@ four
 eight
 seven
 .
-"tst/m/tc/69118z2.lab"
+"tst/m/tc/69118z2.rec"
 six
 nine
 one
@@ -11350,7 +11350,7 @@ eight
 zero
 two
 .
-"tst/m/tc/8221367.lab"
+"tst/m/tc/8221367.rec"
 eight
 two
 two
@@ -11359,7 +11359,7 @@ three
 six
 seven
 .
-"tst/m/tc/ooo4611.lab"
+"tst/m/tc/ooo4611.rec"
 oh
 oh
 oh
